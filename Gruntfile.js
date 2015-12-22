@@ -28,45 +28,16 @@ module.exports = function(grunt) {
         if (!message) {
             throw new Error("You need to supply a commit message!");
         }
-        // grunt.task.run(['compress', 'gitadd', 'gitcommit']);
-        console.log(grunt.run);
         grunt.task
             .run("compress")
-            .then(function() {
-                var done = this.async();
-
-                var exec = require('child_process').exec,
-                    child;
-
-                var cmd = ['git add -A', 'git commit -m "' + message + '"', 'git push'];
-
-                console.log(cmd);
-
-                if (cmd.length) {
-                    child = exec(cmd.join(' && '), function(error, stdout, stderr) {
-                        console.log('stdout: ' + stdout);
-                        console.log('stderr: ' + stderr);
-                        if (error !== null) {
-                            console.log('exec error: ' + error);
-                        }
-                        done();
-                    });
-                } else {
-                    console.log('cmd is empty');
-                    done();
-                }
-            });
+            .then(
+                generateCMDTask(
+                    ['git add -A', 'git commit -m "' + message + '"', 'git push']
+                )
+            );
     });
 
-    grunt.registerTask('default', ['save']);
-
-
-    grunt.registerTask('load', function() {
-        var done = this.async();
-
-        var exec = require('child_process').exec,
-            child;
-
+    grunt.registerTask('load', generateCMDTask((function() {
         var cmd = ['git pull'];
 
         switch (process.platform) {
@@ -79,21 +50,41 @@ module.exports = function(grunt) {
                 cmd.push('tar -zxvf ' + savesFile);
                 break;
         }
+        return cmd;
+    })()));
 
-        console.log(cmd);
+    grunt.registerTask('default', ['save']);
 
-        if (cmd.length) {
-            child = exec(cmd.join(' && '), function(error, stdout, stderr) {
-                console.log('stdout: ' + stdout);
-                console.log('stderr: ' + stderr);
-                if (error !== null) {
-                    console.log('exec error: ' + error);
+    function generateCMDTask(cmd, callback) {
+        return function() {
+            var done = this.async();
+
+            function finish() {
+                if (typeof callback === 'function') {
+                    callback(done);
+                } else {
+                    done();
                 }
-                done();
-            });
-        } else {
-            console.log('cmd is empty');
-            done();
-        }
-    });
+            }
+
+            var exec = require('child_process').exec,
+                child;
+
+            console.log(cmd);
+
+            if (cmd.length) {
+                child = exec(cmd.join(' && '), function(error, stdout, stderr) {
+                    console.log('stdout: ' + stdout);
+                    console.log('stderr: ' + stderr);
+                    if (error !== null) {
+                        console.log('exec error: ' + error);
+                    }
+                    finish();
+                });
+            } else {
+                console.log('cmd is empty');
+                finish();
+            }
+        };
+    }
 };
