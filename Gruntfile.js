@@ -38,7 +38,7 @@ module.exports = function(grunt) {
                 var exec = require('child_process').exec,
                     child;
 
-                var cmd = ['git add -A', 'git commit -m "' + message + '"'];
+                var cmd = ['git add -A', 'git commit -m "' + message + '"', 'git push'];
 
                 console.log(cmd);
 
