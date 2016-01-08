@@ -86,4 +86,23 @@ westf.dat
 westm.dat
 winpos.dat
 
+SDL2.dll
+SDL2_image.dll
+SDL2_mixer.dll
+Uninstall.exe
+libFLAC-8.dll
+libjpeg-9.dll
+libmikmod-2.dll
+libmodplug-1.dll
+libogg-0.dll
+libpng16-16.dll
+libtiff-5.dll
+libvorbis-0.dll
+libvorbisfile-3.dll
+libwebp-4.dll
+msvcr100.dll
+smpeg2.dll
+urw.exe
+zlib1.dll
+
 node_modules
