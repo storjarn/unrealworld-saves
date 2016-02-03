@@ -30,7 +30,7 @@ module.exports = function(grunt) {
         }
         grunt.task
             .run("compress")
-            .then(
+            .then( "push", 
                 generateCMDTask(
                     ['git add -A', 'git commit -m "' + message + '"', 'git push']
                 )
@@ -55,12 +55,13 @@ module.exports = function(grunt) {
 
     grunt.registerTask('default', ['save']);
 
-    function generateCMDTask(cmd, callback) {
+    function generateCMDTask(cmd, callback, args) {
         return function() {
             var done = this.async();
 
             function finish() {
                 if (typeof callback === 'function') {
+                    callback.args = args || [];
                     callback(done);
                 } else {
                     done();
