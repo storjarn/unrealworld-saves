@@ -30,11 +30,9 @@ module.exports = function(grunt) {
         }
         grunt.task
             .run("compress")
-            .then( "push", 
-                generateCMDTask(
-                    ['git add -A', 'git commit -m "' + message + '"', 'git push']
-                )
-            );
+            .then( generateCMDTask(
+                ['git add -A', 'git commit -m "' + message + '"', 'git push']
+            ));
     });
 
     grunt.registerTask('load', generateCMDTask((function() {
