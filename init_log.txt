@@ -1,0 +1,1301 @@
+main() 3.2a2
+main()
+SDL_Init
+GetVideoDisplays()
+Secure Window Position
+Read FullScreen config
+Create Window
+SetWindowIcon
+Get Topics
+GetConfig
+InitGr
+create screen
+guiInit
+create_surfaces
+lataa_gui
+load_sprites
+getbackgrounds
+NewGfx_loadtiledata
+Sound init ... 
+Loading intro ...
+load_samples()
+load_sample(kling,kling.wav)
+audio/kling.wav
+sampledata[0]=Mix_LoadWAV(audio/kling.wav)
+loaded - ok
+Mix_VolumeChunk - ok
+Loading audio: kling
+Loading audio: kling
+load_sample(lake,lake.ogg)
+audio/lake.ogg
+sampledata[1]=Mix_LoadWAV(audio/lake.ogg)
+loaded - ok
+Mix_VolumeChunk - ok
+Loading audio: lake
+Loading audio: lake
+load_sample(dog bark,bark.wav)
+audio/bark.wav
+sampledata[2]=Mix_LoadWAV(audio/bark.wav)
+loaded - ok
+Mix_VolumeChunk - ok
+Loading audio: dog bark
+Loading audio: dog bark
+load_sample(howl,wolf.wav)
+audio/wolf.wav
+sampledata[3]=Mix_LoadWAV(audio/wolf.wav)
+loaded - ok
+Mix_VolumeChunk - ok
+Loading audio: howl
+Loading audio: howl
+load_sample(howl,wolf2.wav)
+audio/wolf2.wav
+sampledata[4]=Mix_LoadWAV(audio/wolf2.wav)
+loaded - ok
+Mix_VolumeChunk - ok
+Loading audio: howl
+Loading audio: howl
+load_sample(owl,owl.wav)
+audio/owl.wav
+sampledata[5]=Mix_LoadWAV(audio/owl.wav)
+loaded - ok
+Mix_VolumeChunk - ok
+Loading audio: owl
+Loading audio: owl
+load_sample(owl,owl2.wav)
+audio/owl2.wav
+sampledata[6]=Mix_LoadWAV(audio/owl2.wav)
+loaded - ok
+Mix_VolumeChunk - ok
+Loading audio: owl
+Loading audio: owl
+load_sample(swing,swing.wav)
+audio/swing.wav
+sampledata[7]=Mix_LoadWAV(audio/swing.wav)
+loaded - ok
+Mix_VolumeChunk - ok
+Loading audio: swing
+Loading audio: swing
+load_sample(fire,fire.wav)
+audio/fire.wav
+sampledata[8]=Mix_LoadWAV(audio/fire.wav)
+loaded - ok
+Mix_VolumeChunk - ok
+Loading audio: fire
+Loading audio: fire
+load_sample(snarl,snarl.wav)
+audio/snarl.wav
+sampledata[9]=Mix_LoadWAV(audio/snarl.wav)
+loaded - ok
+Mix_VolumeChunk - ok
+Loading audio: snarl
+Loading audio: snarl
+load_sample(growl,growl.wav)
+audio/growl.wav
+sampledata[10]=Mix_LoadWAV(audio/growl.wav)
+loaded - ok
+Mix_VolumeChunk - ok
+Loading audio: growl
+Loading audio: growl
+load_sample(growl,growl2.wav)
+audio/growl2.wav
+sampledata[11]=Mix_LoadWAV(audio/growl2.wav)
+loaded - ok
+Mix_VolumeChunk - ok
+Loading audio: growl
+Loading audio: growl
+load_sample(growl,growl3.wav)
+audio/growl3.wav
+sampledata[12]=Mix_LoadWAV(audio/growl3.wav)
+loaded - ok
+Mix_VolumeChunk - ok
+Loading audio: growl
+Loading audio: growl
+load_sample(roar,roar.wav)
+audio/roar.wav
+sampledata[13]=Mix_LoadWAV(audio/roar.wav)
+loaded - ok
+Mix_VolumeChunk - ok
+Loading audio: roar
+Loading audio: roar
+load_sample(roar,roar2.wav)
+audio/roar2.wav
+sampledata[14]=Mix_LoadWAV(audio/roar2.wav)
+loaded - ok
+Mix_VolumeChunk - ok
+Loading audio: roar
+Loading audio: roar
+load_sample(dig,dig.ogg)
+audio/dig.ogg
+sampledata[15]=Mix_LoadWAV(audio/dig.ogg)
+loaded - ok
+Mix_VolumeChunk - ok
+Loading audio: dig
+Loading audio: dig
+load_sample(burp,burp.wav)
+audio/burp.wav
+sampledata[16]=Mix_LoadWAV(audio/burp.wav)
+loaded - ok
+Mix_VolumeChunk - ok
+Loading audio: burp
+Loading audio: burp
+load_sample(treechop,axework.ogg)
+audio/axework.ogg
+sampledata[17]=Mix_LoadWAV(audio/axework.ogg)
+loaded - ok
+Mix_VolumeChunk - ok
+Loading audio: treechop
+Loading audio: treechop
+load_sample(fall,fall.wav)
+audio/fall.wav
+sampledata[18]=Mix_LoadWAV(audio/fall.wav)
+loaded - ok
+Mix_VolumeChunk - ok
+Loading audio: fall
+Loading audio: fall
+load_sample(guffaw,guffaw1.wav)
+audio/guffaw1.wav
+sampledata[19]=Mix_LoadWAV(audio/guffaw1.wav)
+loaded - ok
+Mix_VolumeChunk - ok
+Loading audio: guffaw
+Loading audio: guffaw
+load_sample(guffaw,guffaw2.wav)
+audio/guffaw2.wav
+sampledata[20]=Mix_LoadWAV(audio/guffaw2.wav)
+loaded - ok
+Mix_VolumeChunk - ok
+Loading audio: guffaw
+Loading audio: guffaw
+load_sample(bawl,bawl.wav)
+audio/bawl.wav
+sampledata[21]=Mix_LoadWAV(audio/bawl.wav)
+loaded - ok
+Mix_VolumeChunk - ok
+Loading audio: bawl
+Loading audio: bawl
+load_sample(slits,fleshwork.ogg)
+audio/fleshwork.ogg
+sampledata[22]=Mix_LoadWAV(audio/fleshwork.ogg)
+loaded - ok
+Mix_VolumeChunk - ok
+Loading audio: slits
+Loading audio: slits
+load_sample(snuffle,snuffle.wav)
+audio/snuffle.wav
+sampledata[23]=Mix_LoadWAV(audio/snuffle.wav)
+loaded - ok
+Mix_VolumeChunk - ok
+Loading audio: snuffle
+Loading audio: snuffle
+load_sample(grunt,grunt.wav)
+audio/grunt.wav
+sampledata[24]=Mix_LoadWAV(audio/grunt.wav)
+loaded - ok
+Mix_VolumeChunk - ok
+Loading audio: grunt
+Loading audio: grunt
+load_sample(grunt,grunt2.wav)
+audio/grunt2.wav
+sampledata[25]=Mix_LoadWAV(audio/grunt2.wav)
+loaded - ok
+Mix_VolumeChunk - ok
+Loading audio: grunt
+Loading audio: grunt
+load_sample(grunt,grunt3.wav)
+audio/grunt3.wav
+sampledata[26]=Mix_LoadWAV(audio/grunt3.wav)
+loaded - ok
+Mix_VolumeChunk - ok
+Loading audio: grunt
+Loading audio: grunt
+load_sample(whimper,whimper.wav)
+audio/whimper.wav
+sampledata[27]=Mix_LoadWAV(audio/whimper.wav)
+loaded - ok
+Mix_VolumeChunk - ok
+Loading audio: whimper
+Loading audio: whimper
+load_sample(snort,snort.wav)
+audio/snort.wav
+sampledata[28]=Mix_LoadWAV(audio/snort.wav)
+loaded - ok
+Mix_VolumeChunk - ok
+Loading audio: snort
+Loading audio: snort
+load_sample(snort,snort2.wav)
+audio/snort2.wav
+sampledata[29]=Mix_LoadWAV(audio/snort2.wav)
+loaded - ok
+Mix_VolumeChunk - ok
+Loading audio: snort
+Loading audio: snort
+load_sample(varis,bird_varis.wav)
+audio/bird_varis.wav
+sampledata[30]=Mix_LoadWAV(audio/bird_varis.wav)
+loaded - ok
+Mix_VolumeChunk - ok
+Loading audio: varis
+Loading audio: varis
+load_sample(varis,bird_varis2.wav)
+audio/bird_varis2.wav
+sampledata[31]=Mix_LoadWAV(audio/bird_varis2.wav)
+loaded - ok
+Mix_VolumeChunk - ok
+Loading audio: varis
+Loading audio: varis
+load_sample(kapytikka,bird_kapytikka.wav)
+audio/bird_kapytikka.wav
+sampledata[32]=Mix_LoadWAV(audio/bird_kapytikka.wav)
+loaded - ok
+Mix_VolumeChunk - ok
+Loading audio: kapytikka
+Loading audio: kapytikka
+load_sample(harakka,bird_harakka.wav)
+audio/bird_harakka.wav
+sampledata[33]=Mix_LoadWAV(audio/bird_harakka.wav)
+loaded - ok
+Mix_VolumeChunk - ok
+Loading audio: harakka
+Loading audio: harakka
+load_sample(harakka,bird_harakka2.wav)
+audio/bird_harakka2.wav
+sampledata[34]=Mix_LoadWAV(audio/bird_harakka2.wav)
+loaded - ok
+Mix_VolumeChunk - ok
+Loading audio: harakka
+Loading audio: harakka
+load_sample(keltasirkku,bird_keltasirkku.wav)
+audio/bird_keltasirkku.wav
+sampledata[35]=Mix_LoadWAV(audio/bird_keltasirkku.wav)
+loaded - ok
+Mix_VolumeChunk - ok
+Loading audio: keltasirkku
+Loading audio: keltasirkku
+load_sample(leppalintu,bird_leppalintu.wav)
+audio/bird_leppalintu.wav
+sampledata[36]=Mix_LoadWAV(audio/bird_leppalintu.wav)
+loaded - ok
+Mix_VolumeChunk - ok
+Loading audio: leppalintu
+Loading audio: leppalintu
+load_sample(leppalintu,bird_leppalintu2.wav)
+audio/bird_leppalintu2.wav
+sampledata[37]=Mix_LoadWAV(audio/bird_leppalintu2.wav)
+loaded - ok
+Mix_VolumeChunk - ok
+Loading audio: leppalintu
+Loading audio: leppalintu
+load_sample(peippo,bird_peippo.wav)
+audio/bird_peippo.wav
+sampledata[38]=Mix_LoadWAV(audio/bird_peippo.wav)
+loaded - ok
+Mix_VolumeChunk - ok
+Loading audio: peippo
+Loading audio: peippo
+load_sample(peippo,bird_peippo2.wav)
+audio/bird_peippo2.wav
+sampledata[39]=Mix_LoadWAV(audio/bird_peippo2.wav)
+loaded - ok
+Mix_VolumeChunk - ok
+Loading audio: peippo
+Loading audio: peippo
+load_sample(satakieli,bird_satakieli2.wav)
+audio/bird_satakieli2.wav
+sampledata[40]=Mix_LoadWAV(audio/bird_satakieli2.wav)
+loaded - ok
+Mix_VolumeChunk - ok
+Loading audio: satakieli
+Loading audio: satakieli
+load_sample(satakieli,bird_satakieli2.wav)
+audio/bird_satakieli2.wav
+sampledata[41]=Mix_LoadWAV(audio/bird_satakieli2.wav)
+loaded - ok
+Mix_VolumeChunk - ok
+Loading audio: satakieli
+Loading audio: satakieli
+load_sample(splash,splash.wav)
+audio/splash.wav
+sampledata[42]=Mix_LoadWAV(audio/splash.wav)
+loaded - ok
+Mix_VolumeChunk - ok
+Loading audio: splash
+Loading audio: splash
+load_sample(water,watersound.wav)
+audio/watersound.wav
+sampledata[43]=Mix_LoadWAV(audio/watersound.wav)
+loaded - ok
+Mix_VolumeChunk - ok
+Loading audio: water
+Loading audio: water
+load_sample(harr,harr.wav)
+audio/harr.wav
+sampledata[44]=Mix_LoadWAV(audio/harr.wav)
+loaded - ok
+Mix_VolumeChunk - ok
+Loading audio: harr
+Loading audio: harr
+load_sample(escape,faderun.wav)
+audio/faderun.wav
+sampledata[45]=Mix_LoadWAV(audio/faderun.wav)
+loaded - ok
+Mix_VolumeChunk - ok
+Loading audio: escape
+Loading audio: escape
+load_sample(burp,burp.wav)
+audio/burp.wav
+sampledata[46]=Mix_LoadWAV(audio/burp.wav)
+loaded - ok
+Mix_VolumeChunk - ok
+Loading audio: burp
+Loading audio: burp
+load_sample(run,run.wav)
+audio/run.wav
+sampledata[47]=Mix_LoadWAV(audio/run.wav)
+loaded - ok
+Mix_VolumeChunk - ok
+Loading audio: run
+Loading audio: run
+load_sample(crawl,crawl.wav)
+audio/crawl.wav
+sampledata[48]=Mix_LoadWAV(audio/crawl.wav)
+loaded - ok
+Mix_VolumeChunk - ok
+Loading audio: crawl
+Loading audio: crawl
+load_sample(thump,thump.wav)
+audio/thump.wav
+sampledata[49]=Mix_LoadWAV(audio/thump.wav)
+loaded - ok
+Mix_VolumeChunk - ok
+Loading audio: thump
+Loading audio: thump
+load_sample(crack,crack.wav)
+audio/crack.wav
+sampledata[50]=Mix_LoadWAV(audio/crack.wav)
+loaded - ok
+Mix_VolumeChunk - ok
+Loading audio: crack
+Loading audio: crack
+load_sample(wind,breeze.ogg)
+audio/breeze.ogg
+sampledata[51]=Mix_LoadWAV(audio/breeze.ogg)
+loaded - ok
+Mix_VolumeChunk - ok
+Loading audio: wind
+Loading audio: wind
+load_sample(rain,rain.ogg)
+audio/rain.ogg
+sampledata[52]=Mix_LoadWAV(audio/rain.ogg)
+loaded - ok
+Mix_VolumeChunk - ok
+Loading audio: rain
+Loading audio: rain
+load_sample(ambience,ambience.ogg)
+audio/ambience.ogg
+sampledata[53]=Mix_LoadWAV(audio/ambience.ogg)
+loaded - ok
+Mix_VolumeChunk - ok
+Loading audio: ambience
+Loading audio: ambience
+load_sample(windfly,windfly.ogg)
+audio/windfly.ogg
+sampledata[54]=Mix_LoadWAV(audio/windfly.ogg)
+loaded - ok
+Mix_VolumeChunk - ok
+Loading audio: windfly
+Loading audio: windfly
+load_sample(windfly,windfly2.ogg)
+audio/windfly2.ogg
+sampledata[55]=Mix_LoadWAV(audio/windfly2.ogg)
+loaded - ok
+Mix_VolumeChunk - ok
+Loading audio: windfly
+Loading audio: windfly
+load_sample(death,death.wav)
+audio/death.wav
+sampledata[56]=Mix_LoadWAV(audio/death.wav)
+loaded - ok
+Mix_VolumeChunk - ok
+Loading audio: death
+Loading audio: death
+load_sample(manaus,ritual.ogg)
+audio/ritual.ogg
+sampledata[57]=Mix_LoadWAV(audio/ritual.ogg)
+loaded - ok
+Mix_VolumeChunk - ok
+Loading audio: manaus
+Loading audio: manaus
+load_sample(manaus,ritual2.ogg)
+audio/ritual2.ogg
+sampledata[58]=Mix_LoadWAV(audio/ritual2.ogg)
+loaded - ok
+Mix_VolumeChunk - ok
+Loading audio: manaus
+Loading audio: manaus
+load_sample(manaus,ritual3.ogg)
+audio/ritual3.ogg
+sampledata[59]=Mix_LoadWAV(audio/ritual3.ogg)
+loaded - ok
+Mix_VolumeChunk - ok
+Loading audio: manaus
+Loading audio: manaus
+Lataa_Sample
+audio/arrow.wav
+Searching sample pos ... 
+sampledata[60]=Mix_LoadWAV(audio/arrow.wav)
+loaded ok
+mix ok
+Loading audio: arrow
+Loading audio: arrow
+Lataa_Sample
+audio/bark.wav
+Searching sample pos ... 
+sampledata[61]=Mix_LoadWAV(audio/bark.wav)
+loaded ok
+mix ok
+Loading audio: bark
+Loading audio: bark
+Lataa_Sample
+audio/bawl.wav
+Searching sample pos ... 
+sampledata[62]=Mix_LoadWAV(audio/bawl.wav)
+loaded ok
+mix ok
+Loading audio: bawl
+Loading audio: bawl
+Lataa_Sample
+audio/bellow-a.wav
+Searching sample pos ... 
+sampledata[63]=Mix_LoadWAV(audio/bellow-a.wav)
+loaded ok
+mix ok
+Loading audio: bellow
+Loading audio: bellow
+Lataa_Sample
+audio/bellow-b.wav
+Searching sample pos ... 
+sampledata[64]=Mix_LoadWAV(audio/bellow-b.wav)
+loaded ok
+mix ok
+Loading audio: bellow
+Loading audio: bellow
+Lataa_Sample
+audio/bellow-c.wav
+Searching sample pos ... 
+sampledata[65]=Mix_LoadWAV(audio/bellow-c.wav)
+loaded ok
+mix ok
+Loading audio: bellow
+Loading audio: bellow
+Lataa_Sample
+audio/bird_harakka.wav
+Searching sample pos ... 
+sampledata[66]=Mix_LoadWAV(audio/bird_harakka.wav)
+loaded ok
+mix ok
+Loading audio: bird_harakka
+Loading audio: bird_harakka
+Lataa_Sample
+audio/bird_harakka2.wav
+Searching sample pos ... 
+sampledata[67]=Mix_LoadWAV(audio/bird_harakka2.wav)
+loaded ok
+mix ok
+Loading audio: bird_harakka2
+Loading audio: bird_harakka2
+Lataa_Sample
+audio/bird_kapytikka.wav
+Searching sample pos ... 
+sampledata[68]=Mix_LoadWAV(audio/bird_kapytikka.wav)
+loaded ok
+mix ok
+Loading audio: bird_kapytikka
+Loading audio: bird_kapytikka
+Lataa_Sample
+audio/bird_keltasirkku.wav
+Searching sample pos ... 
+sampledata[69]=Mix_LoadWAV(audio/bird_keltasirkku.wav)
+loaded ok
+mix ok
+Loading audio: bird_keltasirkku
+Loading audio: bird_keltasirkku
+Lataa_Sample
+audio/bird_leppalintu.wav
+Searching sample pos ... 
+sampledata[70]=Mix_LoadWAV(audio/bird_leppalintu.wav)
+loaded ok
+mix ok
+Loading audio: bird_leppalintu
+Loading audio: bird_leppalintu
+Lataa_Sample
+audio/bird_leppalintu2.wav
+Searching sample pos ... 
+sampledata[71]=Mix_LoadWAV(audio/bird_leppalintu2.wav)
+loaded ok
+mix ok
+Loading audio: bird_leppalintu2
+Loading audio: bird_leppalintu2
+Lataa_Sample
+audio/bird_peippo.wav
+Searching sample pos ... 
+sampledata[72]=Mix_LoadWAV(audio/bird_peippo.wav)
+loaded ok
+mix ok
+Loading audio: bird_peippo
+Loading audio: bird_peippo
+Lataa_Sample
+audio/bird_peippo2.wav
+Searching sample pos ... 
+sampledata[73]=Mix_LoadWAV(audio/bird_peippo2.wav)
+loaded ok
+mix ok
+Loading audio: bird_peippo2
+Loading audio: bird_peippo2
+Lataa_Sample
+audio/bird_satakieli.wav
+Searching sample pos ... 
+sampledata[74]=Mix_LoadWAV(audio/bird_satakieli.wav)
+loaded ok
+mix ok
+Loading audio: bird_satakieli
+Loading audio: bird_satakieli
+Lataa_Sample
+audio/bird_satakieli2.wav
+Searching sample pos ... 
+sampledata[75]=Mix_LoadWAV(audio/bird_satakieli2.wav)
+loaded ok
+mix ok
+Loading audio: bird_satakieli2
+Loading audio: bird_satakieli2
+Lataa_Sample
+audio/bird_varis.wav
+Searching sample pos ... 
+sampledata[76]=Mix_LoadWAV(audio/bird_varis.wav)
+loaded ok
+mix ok
+Loading audio: bird_varis
+Loading audio: bird_varis
+Lataa_Sample
+audio/bird_varis2.wav
+Searching sample pos ... 
+sampledata[77]=Mix_LoadWAV(audio/bird_varis2.wav)
+loaded ok
+mix ok
+Loading audio: bird_varis2
+Loading audio: bird_varis2
+Lataa_Sample
+audio/bleat-a.wav
+Searching sample pos ... 
+sampledata[78]=Mix_LoadWAV(audio/bleat-a.wav)
+loaded ok
+mix ok
+Loading audio: bleat
+Loading audio: bleat
+Lataa_Sample
+audio/bleat-b.wav
+Searching sample pos ... 
+sampledata[79]=Mix_LoadWAV(audio/bleat-b.wav)
+loaded ok
+mix ok
+Loading audio: bleat
+Loading audio: bleat
+Lataa_Sample
+audio/block.wav
+Searching sample pos ... 
+sampledata[80]=Mix_LoadWAV(audio/block.wav)
+loaded ok
+mix ok
+Loading audio: block
+Loading audio: block
+Lataa_Sample
+audio/burp.wav
+Searching sample pos ... 
+sampledata[81]=Mix_LoadWAV(audio/burp.wav)
+loaded ok
+mix ok
+Loading audio: burp
+Loading audio: burp
+Lataa_Sample
+audio/close_door.wav
+Searching sample pos ... 
+sampledata[82]=Mix_LoadWAV(audio/close_door.wav)
+loaded ok
+mix ok
+Loading audio: close_door
+Loading audio: close_door
+Lataa_Sample
+audio/cough-a.wav
+Searching sample pos ... 
+sampledata[83]=Mix_LoadWAV(audio/cough-a.wav)
+loaded ok
+mix ok
+Loading audio: cough
+Loading audio: cough
+Lataa_Sample
+audio/cough-b.wav
+Searching sample pos ... 
+sampledata[84]=Mix_LoadWAV(audio/cough-b.wav)
+loaded ok
+mix ok
+Loading audio: cough
+Loading audio: cough
+Lataa_Sample
+audio/crack.wav
+Searching sample pos ... 
+sampledata[85]=Mix_LoadWAV(audio/crack.wav)
+loaded ok
+mix ok
+Loading audio: crack
+Loading audio: crack
+Lataa_Sample
+audio/crawl.wav
+Searching sample pos ... 
+sampledata[86]=Mix_LoadWAV(audio/crawl.wav)
+loaded ok
+mix ok
+Loading audio: crawl
+Loading audio: crawl
+Lataa_Sample
+audio/death.wav
+Searching sample pos ... 
+sampledata[87]=Mix_LoadWAV(audio/death.wav)
+loaded ok
+mix ok
+Loading audio: death
+Loading audio: death
+Lataa_Sample
+audio/eat.wav
+Searching sample pos ... 
+sampledata[88]=Mix_LoadWAV(audio/eat.wav)
+loaded ok
+mix ok
+Loading audio: eat
+Loading audio: eat
+Lataa_Sample
+audio/faderun.wav
+Searching sample pos ... 
+sampledata[89]=Mix_LoadWAV(audio/faderun.wav)
+loaded ok
+mix ok
+Loading audio: faderun
+Loading audio: faderun
+Lataa_Sample
+audio/fall.wav
+Searching sample pos ... 
+sampledata[90]=Mix_LoadWAV(audio/fall.wav)
+loaded ok
+mix ok
+Loading audio: fall
+Loading audio: fall
+Lataa_Sample
+audio/fire.wav
+Searching sample pos ... 
+sampledata[91]=Mix_LoadWAV(audio/fire.wav)
+loaded ok
+mix ok
+Loading audio: fire
+Loading audio: fire
+Lataa_Sample
+audio/growl.wav
+Searching sample pos ... 
+sampledata[92]=Mix_LoadWAV(audio/growl.wav)
+loaded ok
+mix ok
+Loading audio: growl
+Loading audio: growl
+Lataa_Sample
+audio/growl2.wav
+Searching sample pos ... 
+sampledata[93]=Mix_LoadWAV(audio/growl2.wav)
+loaded ok
+mix ok
+Loading audio: growl2
+Loading audio: growl2
+Lataa_Sample
+audio/growl3.wav
+Searching sample pos ... 
+sampledata[94]=Mix_LoadWAV(audio/growl3.wav)
+loaded ok
+mix ok
+Loading audio: growl3
+Loading audio: growl3
+Lataa_Sample
+audio/grunt.wav
+Searching sample pos ... 
+sampledata[95]=Mix_LoadWAV(audio/grunt.wav)
+loaded ok
+mix ok
+Loading audio: grunt
+Loading audio: grunt
+Lataa_Sample
+audio/grunt2.wav
+Searching sample pos ... 
+sampledata[96]=Mix_LoadWAV(audio/grunt2.wav)
+loaded ok
+mix ok
+Loading audio: grunt2
+Loading audio: grunt2
+Lataa_Sample
+audio/grunt3.wav
+Searching sample pos ... 
+sampledata[97]=Mix_LoadWAV(audio/grunt3.wav)
+loaded ok
+mix ok
+Loading audio: grunt3
+Loading audio: grunt3
+Lataa_Sample
+audio/guffaw1.wav
+Searching sample pos ... 
+sampledata[98]=Mix_LoadWAV(audio/guffaw1.wav)
+loaded ok
+mix ok
+Loading audio: guffaw1
+Loading audio: guffaw1
+Lataa_Sample
+audio/guffaw2.wav
+Searching sample pos ... 
+sampledata[99]=Mix_LoadWAV(audio/guffaw2.wav)
+loaded ok
+mix ok
+Loading audio: guffaw2
+Loading audio: guffaw2
+Lataa_Sample
+audio/harr.wav
+Searching sample pos ... 
+sampledata[100]=Mix_LoadWAV(audio/harr.wav)
+loaded ok
+mix ok
+Loading audio: harr
+Loading audio: harr
+Lataa_Sample
+audio/hit_grievous-a.wav
+Searching sample pos ... 
+sampledata[101]=Mix_LoadWAV(audio/hit_grievous-a.wav)
+loaded ok
+mix ok
+Loading audio: hit_grievous
+Loading audio: hit_grievous
+Lataa_Sample
+audio/hit_grievous-b.wav
+Searching sample pos ... 
+sampledata[102]=Mix_LoadWAV(audio/hit_grievous-b.wav)
+loaded ok
+mix ok
+Loading audio: hit_grievous
+Loading audio: hit_grievous
+Lataa_Sample
+audio/hit_minor-a.wav
+Searching sample pos ... 
+sampledata[103]=Mix_LoadWAV(audio/hit_minor-a.wav)
+loaded ok
+mix ok
+Loading audio: hit_minor
+Loading audio: hit_minor
+Lataa_Sample
+audio/hit_minor-b.wav
+Searching sample pos ... 
+sampledata[104]=Mix_LoadWAV(audio/hit_minor-b.wav)
+loaded ok
+mix ok
+Loading audio: hit_minor
+Loading audio: hit_minor
+Lataa_Sample
+audio/hit_npc.wav
+Searching sample pos ... 
+sampledata[105]=Mix_LoadWAV(audio/hit_npc.wav)
+loaded ok
+mix ok
+Loading audio: hit_npc
+Loading audio: hit_npc
+Lataa_Sample
+audio/hit_serious-a.wav
+Searching sample pos ... 
+sampledata[106]=Mix_LoadWAV(audio/hit_serious-a.wav)
+loaded ok
+mix ok
+Loading audio: hit_serious
+Loading audio: hit_serious
+Lataa_Sample
+audio/hit_serious-b.wav
+Searching sample pos ... 
+sampledata[107]=Mix_LoadWAV(audio/hit_serious-b.wav)
+loaded ok
+mix ok
+Loading audio: hit_serious
+Loading audio: hit_serious
+Lataa_Sample
+audio/hitplr.wav
+Searching sample pos ... 
+sampledata[108]=Mix_LoadWAV(audio/hitplr.wav)
+loaded ok
+mix ok
+Loading audio: hitplr
+Loading audio: hitplr
+Lataa_Sample
+audio/kling.wav
+Searching sample pos ... 
+sampledata[109]=Mix_LoadWAV(audio/kling.wav)
+loaded ok
+mix ok
+Loading audio: kling
+Loading audio: kling
+Lataa_Sample
+audio/miss.wav
+Searching sample pos ... 
+sampledata[110]=Mix_LoadWAV(audio/miss.wav)
+loaded ok
+mix ok
+Loading audio: miss
+Loading audio: miss
+Lataa_Sample
+audio/owl.wav
+Searching sample pos ... 
+sampledata[111]=Mix_LoadWAV(audio/owl.wav)
+loaded ok
+mix ok
+Loading audio: owl
+Loading audio: owl
+Lataa_Sample
+audio/owl2.wav
+Searching sample pos ... 
+sampledata[112]=Mix_LoadWAV(audio/owl2.wav)
+loaded ok
+mix ok
+Loading audio: owl2
+Loading audio: owl2
+Lataa_Sample
+audio/roar.wav
+Searching sample pos ... 
+sampledata[113]=Mix_LoadWAV(audio/roar.wav)
+loaded ok
+mix ok
+Loading audio: roar
+Loading audio: roar
+Lataa_Sample
+audio/roar2.wav
+Searching sample pos ... 
+sampledata[114]=Mix_LoadWAV(audio/roar2.wav)
+loaded ok
+mix ok
+Loading audio: roar2
+Loading audio: roar2
+Lataa_Sample
+audio/run.wav
+Searching sample pos ... 
+sampledata[115]=Mix_LoadWAV(audio/run.wav)
+loaded ok
+mix ok
+Loading audio: run
+Loading audio: run
+Lataa_Sample
+audio/smash.wav
+Searching sample pos ... 
+sampledata[116]=Mix_LoadWAV(audio/smash.wav)
+loaded ok
+mix ok
+Loading audio: smash
+Loading audio: smash
+Lataa_Sample
+audio/snarl.wav
+Searching sample pos ... 
+sampledata[117]=Mix_LoadWAV(audio/snarl.wav)
+loaded ok
+mix ok
+Loading audio: snarl
+Loading audio: snarl
+Lataa_Sample
+audio/snort.wav
+Searching sample pos ... 
+sampledata[118]=Mix_LoadWAV(audio/snort.wav)
+loaded ok
+mix ok
+Loading audio: snort
+Loading audio: snort
+Lataa_Sample
+audio/snort2.wav
+Searching sample pos ... 
+sampledata[119]=Mix_LoadWAV(audio/snort2.wav)
+loaded ok
+mix ok
+Loading audio: snort2
+Loading audio: snort2
+Lataa_Sample
+audio/snuffle.wav
+Searching sample pos ... 
+sampledata[120]=Mix_LoadWAV(audio/snuffle.wav)
+loaded ok
+mix ok
+Loading audio: snuffle
+Loading audio: snuffle
+Lataa_Sample
+audio/splash.wav
+Searching sample pos ... 
+sampledata[121]=Mix_LoadWAV(audio/splash.wav)
+loaded ok
+mix ok
+Loading audio: splash
+Loading audio: splash
+Lataa_Sample
+audio/swing.wav
+Searching sample pos ... 
+sampledata[122]=Mix_LoadWAV(audio/swing.wav)
+loaded ok
+mix ok
+Loading audio: swing
+Loading audio: swing
+Lataa_Sample
+audio/throw.wav
+Searching sample pos ... 
+sampledata[123]=Mix_LoadWAV(audio/throw.wav)
+loaded ok
+mix ok
+Loading audio: throw
+Loading audio: throw
+Lataa_Sample
+audio/thump.wav
+Searching sample pos ... 
+sampledata[124]=Mix_LoadWAV(audio/thump.wav)
+loaded ok
+mix ok
+Loading audio: thump
+Loading audio: thump
+Lataa_Sample
+audio/watersound.wav
+Searching sample pos ... 
+sampledata[125]=Mix_LoadWAV(audio/watersound.wav)
+loaded ok
+mix ok
+Loading audio: watersound
+Loading audio: watersound
+Lataa_Sample
+audio/whimper.wav
+Searching sample pos ... 
+sampledata[126]=Mix_LoadWAV(audio/whimper.wav)
+loaded ok
+mix ok
+Loading audio: whimper
+Loading audio: whimper
+Lataa_Sample
+audio/wolf.wav
+Searching sample pos ... 
+sampledata[127]=Mix_LoadWAV(audio/wolf.wav)
+loaded ok
+mix ok
+Loading audio: wolf
+Loading audio: wolf
+Lataa_Sample
+audio/wolf2.wav
+Searching sample pos ... 
+sampledata[128]=Mix_LoadWAV(audio/wolf2.wav)
+loaded ok
+mix ok
+Loading audio: wolf2
+Loading audio: wolf2
+Lataa_Sample
+audio/yelp-a.wav
+Searching sample pos ... 
+sampledata[129]=Mix_LoadWAV(audio/yelp-a.wav)
+loaded ok
+mix ok
+Loading audio: yelp
+Loading audio: yelp
+Lataa_Sample
+audio/yelp-b.wav
+Searching sample pos ... 
+sampledata[130]=Mix_LoadWAV(audio/yelp-b.wav)
+loaded ok
+mix ok
+Loading audio: yelp
+Loading audio: yelp
+Lataa_Sample
+audio/yelp-c.wav
+Searching sample pos ... 
+sampledata[131]=Mix_LoadWAV(audio/yelp-c.wav)
+loaded ok
+mix ok
+Loading audio: yelp
+Loading audio: yelp
+Lataa_Sample
+audio/ambience.ogg
+Searching sample pos ... 
+sampledata[132]=Mix_LoadWAV(audio/ambience.ogg)
+loaded ok
+mix ok
+Loading audio: ambience
+Loading audio: ambience
+Lataa_Sample
+audio/axework.ogg
+Searching sample pos ... 
+sampledata[133]=Mix_LoadWAV(audio/axework.ogg)
+loaded ok
+mix ok
+Loading audio: axework
+Loading audio: axework
+Lataa_Sample
+audio/birdcall_eagle_owl.ogg
+Searching sample pos ... 
+sampledata[134]=Mix_LoadWAV(audio/birdcall_eagle_owl.ogg)
+loaded ok
+mix ok
+Loading audio: birdcall_eagle_owl
+Loading audio: birdcall_eagle_owl
+Lataa_Sample
+audio/birdcall_goshawk.ogg
+Searching sample pos ... 
+sampledata[135]=Mix_LoadWAV(audio/birdcall_goshawk.ogg)
+loaded ok
+mix ok
+Loading audio: birdcall_goshawk
+Loading audio: birdcall_goshawk
+Lataa_Sample
+audio/birdcall_hazel_grouse.ogg
+Searching sample pos ... 
+sampledata[136]=Mix_LoadWAV(audio/birdcall_hazel_grouse.ogg)
+loaded ok
+mix ok
+Loading audio: birdcall_hazel_grouse
+Loading audio: birdcall_hazel_grouse
+Lataa_Sample
+audio/birdcall_kuikka.ogg
+Searching sample pos ... 
+sampledata[137]=Mix_LoadWAV(audio/birdcall_kuikka.ogg)
+loaded ok
+mix ok
+Loading audio: birdcall_kuikka
+Loading audio: birdcall_kuikka
+Lataa_Sample
+audio/birdcall_raven.ogg
+Searching sample pos ... 
+sampledata[138]=Mix_LoadWAV(audio/birdcall_raven.ogg)
+loaded ok
+mix ok
+Loading audio: birdcall_raven
+Loading audio: birdcall_raven
+Lataa_Sample
+audio/birdcall_swan.ogg
+Searching sample pos ... 
+sampledata[139]=Mix_LoadWAV(audio/birdcall_swan.ogg)
+loaded ok
+mix ok
+Loading audio: birdcall_swan
+Loading audio: birdcall_swan
+Lataa_Sample
+audio/breeze.ogg
+Searching sample pos ... 
+sampledata[140]=Mix_LoadWAV(audio/breeze.ogg)
+loaded ok
+mix ok
+Loading audio: breeze
+Loading audio: breeze
+Lataa_Sample
+audio/dig.ogg
+Searching sample pos ... 
+sampledata[141]=Mix_LoadWAV(audio/dig.ogg)
+loaded ok
+mix ok
+Loading audio: dig
+Loading audio: dig
+Lataa_Sample
+audio/fleshwork.ogg
+Searching sample pos ... 
+sampledata[142]=Mix_LoadWAV(audio/fleshwork.ogg)
+loaded ok
+mix ok
+Loading audio: fleshwork
+Loading audio: fleshwork
+Lataa_Sample
+audio/intro.ogg
+Searching sample pos ... 
+sampledata[143]=Mix_LoadWAV(audio/intro.ogg)
+loaded ok
+mix ok
+Loading audio: intro
+Loading audio: intro
+Lataa_Sample
+audio/lake.ogg
+Searching sample pos ... 
+sampledata[144]=Mix_LoadWAV(audio/lake.ogg)
+loaded ok
+mix ok
+Loading audio: lake
+Loading audio: lake
+Lataa_Sample
+audio/music_birth.ogg
+Searching sample pos ... 
+sampledata[145]=Mix_LoadWAV(audio/music_birth.ogg)
+loaded ok
+mix ok
+Loading audio: music_birth
+Loading audio: music_birth
+Lataa_Sample
+audio/music_chant.ogg
+Searching sample pos ... 
+sampledata[146]=Mix_LoadWAV(audio/music_chant.ogg)
+loaded ok
+mix ok
+Loading audio: music_chant
+Loading audio: music_chant
+Lataa_Sample
+audio/music_chantbeat.ogg
+Searching sample pos ... 
+sampledata[147]=Mix_LoadWAV(audio/music_chantbeat.ogg)
+loaded ok
+mix ok
+Loading audio: music_chantbeat
+Loading audio: music_chantbeat
+Lataa_Sample
+audio/music_munni.ogg
+Searching sample pos ... 
+sampledata[148]=Mix_LoadWAV(audio/music_munni.ogg)
+loaded ok
+mix ok
+Loading audio: music_munni
+Loading audio: music_munni
+Lataa_Sample
+audio/music_ritual.ogg
+Searching sample pos ... 
+sampledata[149]=Mix_LoadWAV(audio/music_ritual.ogg)
+loaded ok
+mix ok
+Loading audio: music_ritual
+Loading audio: music_ritual
+Lataa_Sample
+audio/open_door-a.ogg
+Searching sample pos ... 
+sampledata[150]=Mix_LoadWAV(audio/open_door-a.ogg)
+loaded ok
+mix ok
+Loading audio: open_door
+Loading audio: open_door
+Lataa_Sample
+audio/open_door-b.ogg
+Searching sample pos ... 
+sampledata[151]=Mix_LoadWAV(audio/open_door-b.ogg)
+loaded ok
+mix ok
+Loading audio: open_door
+Loading audio: open_door
+Lataa_Sample
+audio/rain.ogg
+Searching sample pos ... 
+sampledata[152]=Mix_LoadWAV(audio/rain.ogg)
+loaded ok
+mix ok
+Loading audio: rain
+Loading audio: rain
+Lataa_Sample
+audio/ritual.ogg
+Searching sample pos ... 
+sampledata[153]=Mix_LoadWAV(audio/ritual.ogg)
+loaded ok
+mix ok
+Loading audio: ritual
+Loading audio: ritual
+Lataa_Sample
+audio/ritual2.ogg
+Searching sample pos ... 
+sampledata[154]=Mix_LoadWAV(audio/ritual2.ogg)
+loaded ok
+mix ok
+Loading audio: ritual2
+Loading audio: ritual2
+Lataa_Sample
+audio/ritual3.ogg
+Searching sample pos ... 
+sampledata[155]=Mix_LoadWAV(audio/ritual3.ogg)
+loaded ok
+mix ok
+Loading audio: ritual3
+Loading audio: ritual3
+Lataa_Sample
+audio/ski.ogg
+Searching sample pos ... 
+sampledata[156]=Mix_LoadWAV(audio/ski.ogg)
+loaded ok
+mix ok
+Loading audio: ski
+Loading audio: ski
+Lataa_Sample
+audio/treefall_big.ogg
+Searching sample pos ... 
+sampledata[157]=Mix_LoadWAV(audio/treefall_big.ogg)
+loaded ok
+mix ok
+Loading audio: treefall_big
+Loading audio: treefall_big
+Lataa_Sample
+audio/treefall_small.ogg
+Searching sample pos ... 
+sampledata[158]=Mix_LoadWAV(audio/treefall_small.ogg)
+loaded ok
+mix ok
+Loading audio: treefall_small
+Loading audio: treefall_small
+Lataa_Sample
+audio/wade.ogg
+Searching sample pos ... 
+sampledata[159]=Mix_LoadWAV(audio/wade.ogg)
+loaded ok
+mix ok
+Loading audio: wade
+Loading audio: wade
+Lataa_Sample
+audio/walk.ogg
+Searching sample pos ... 
+sampledata[160]=Mix_LoadWAV(audio/walk.ogg)
+loaded ok
+mix ok
+Loading audio: walk
+Loading audio: walk
+Lataa_Sample
+audio/walk_deepsnow.ogg
+Searching sample pos ... 
+sampledata[161]=Mix_LoadWAV(audio/walk_deepsnow.ogg)
+loaded ok
+mix ok
+Loading audio: walk_deepsnow
+Loading audio: walk_deepsnow
+Lataa_Sample
+audio/walk_soggy.ogg
+Searching sample pos ... 
+sampledata[162]=Mix_LoadWAV(audio/walk_soggy.ogg)
+loaded ok
+mix ok
+Loading audio: walk_soggy
+Loading audio: walk_soggy
+Lataa_Sample
+audio/walkinside.ogg
+Searching sample pos ... 
+sampledata[163]=Mix_LoadWAV(audio/walkinside.ogg)
+loaded ok
+mix ok
+Loading audio: walkinside
+Loading audio: walkinside
+Lataa_Sample
+audio/wind.ogg
+Searching sample pos ... 
+sampledata[164]=Mix_LoadWAV(audio/wind.ogg)
+loaded ok
+mix ok
+Loading audio: wind
+Loading audio: wind
+Lataa_Sample
+audio/windfly.ogg
+Searching sample pos ... 
+sampledata[165]=Mix_LoadWAV(audio/windfly.ogg)
+loaded ok
+mix ok
+Loading audio: windfly
+Loading audio: windfly
+Lataa_Sample
+audio/windfly2.ogg
+Searching sample pos ... 
+sampledata[166]=Mix_LoadWAV(audio/windfly2.ogg)
+loaded ok
+mix ok
+Loading audio: windfly2
+Loading audio: windfly2
+own_findclose()
+SAMPLESLOADED
+---
+Reading setup ...
