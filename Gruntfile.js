@@ -1,5 +1,25 @@
 var savesFile = 'saves.zip';
 
+if (!global.RWD) {
+    Object.defineProperty(global, 'RWD', {
+        get: function() {
+            return __dirname;
+        }
+    });
+}
+
+function info(label, value) {
+    console.log(label);
+    console.log(value);
+}
+
+function error(label, value) {
+    if (value) {
+        console.log(label);
+        console.error(value);
+    }
+}
+
 module.exports = function(grunt) {
     grunt.initConfig({
         compress: {
@@ -28,14 +48,13 @@ module.exports = function(grunt) {
         var done = this.async();
 
         var exec = require('child_process').exec,
+            Path = require('path'),
             child;
 
-        child = exec('tar -zxvf ' + savesFile, function(error, stdout, stderr) {
-            console.log('stdout: ' + stdout);
-            console.log('stderr: ' + stderr);
-            if (error !== null) {
-                console.log('exec error: ' + error);
-            }
+        child = exec('tar -zxvf ' + Path.join(RWD, savesFile), function(err, stdout, stderr) {
+            info('stdout: ', stdout + '');
+            error('stderr: ', stderr + '');
+            error('exec error: ', err);
             done();
         });
     });
