@@ -1,0 +1,76 @@
+#3 - Lichenous pine forest -- truetile/ter-lichpine
+#4 - Fireplace -- truetile/ter-firepla
+#5 - Sauna stove -- truetile/ter-saustove
+#8 - Rowan -- truetile/ter-rowan
+#10 - Birch -- truetile/ter-birch
+#12 - Young spruce -- truetile/ter-yspruce
+#13 - Spruce -- truetile/ter-spruce
+#15 - Coniferous forest -- truetile/ter-conifore
+#16 - Grove -- truetile/ter-grove
+#17 - Young pine -- truetile/ter-ypine
+#18 - Pine -- truetile/ter-pine
+#19 - Sleeping bunk -- truetile/ter-bunk
+#20 - High cliff -- truetile/ter-hicliff
+#21 - Hole in the ground -- truetile/ter-pit
+#22 - Open door -- truetile/ter-doorop
+#23 - Shutter -- truetile/ter-shutter
+#24 - Alder -- truetile/ter-alder
+#28 - Bench -- truetile/ter-bench
+#30 - Camp -- truetile/ter-kotacamp
+#31 - Shelter -- truetile/ter-shelter
+**** ERROR, no ter-tile: #32 -  -- truetile/
+#39 - Big rock -- truetile/ter-boulder
+#40 - Inside of a kota -- truetile/ter-gcfloor
+#41 - Framework -- truetile/ter-kotafram
+#42 - Fence -- truetile/ter-fence
+#43 - Kota doorway -- truetile/ter-kotadoor
+#46 - Road -- truetile/ter-road
+#47 - Pasture -- truetile/ter-pasture
+#58 - Surface of the Earth -- truetile/ter-ground
+#60 - Cave -- truetile/ter-cave
+#81 - Cellar -- truetile/ter-cellar
+#82 - Prepared soil -- truetile/ter-prepsoil
+#86 - Settlement -- truetile/ter-snghouse
+#91 - Hill -- truetile/ter-hill
+#93 - Cliff -- truetile/ter-cliff
+#94 - Mountain -- truetile/ter-mount
+#95 - Inside of a building -- truetile/ter-gcfloor
+#96 - Cave floor -- truetile/ter-gcfloor
+#136 - Western wall of a kota -- truetile/ter-kotaw
+#138 - North-west corner of a kota -- truetile/ter-kotanwc
+#139 - North-east corner of a kota -- truetile/ter-kotanec
+#140 - South-west corner of a kota -- truetile/ter-kotaswc
+#141 - South-east corner of a kota -- truetile/ter-kotasec
+#142 - Northern wall of a kota -- truetile/ter-kotan
+#143 - Southern wall of a kota -- truetile/ter-kotas
+#144 - Eastern wall of a kota -- truetile/ter-kotae
+#176 - Ford -- truetile/ter-ford
+#177 - Rapids -- truetile/ter-rapids
+#178 - River -- truetile/ter-river
+#180 - Sea -- truetile/ter-sea
+#181 - Sea -- truetile/ter-shsea
+#182 - Water -- truetile/ter-dpwater
+#183 - Water -- truetile/ter-shwater
+#188 - Eastern wall -- truetile/ter-walle
+#191 - North-east corner -- truetile/ter-wallnec
+#192 - South-west corner -- truetile/ter-wallswc
+#196 - Northern wall -- truetile/ter-walln
+#200 - Western wall -- truetile/ter-wallw
+#208 - Southern wall -- truetile/ter-walls
+#210 - Fortified village -- truetile/ter-fortvill
+#211 - Settlement -- truetile/ter-snghouse
+#217 - South-east corner -- truetile/ter-wallsec
+#218 - North-west corner -- truetile/ter-wallnwc
+#228 - Thicket -- truetile/ter-thicket
+#233 - Open mire -- truetile/ter-openmire
+#235 - Spruce mire -- truetile/ter-sprmire
+#236 - Pine mire -- truetile/ter-pinemire
+#237 - Bushes -- truetile/ter-bushes
+#238 - Heathland -- truetile/ter-heath
+#239 - Village -- truetile/ter-village
+#240 - Table -- truetile/ter-table
+#244 - Water -- truetile/ter-water
+#247 - Water -- truetile/ter-water
+#250 - Ground -- truetile/ter-ground
+#251 - Field -- truetile/ter-field
+#254 - Door -- truetile/ter-doorcl
