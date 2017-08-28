@@ -32,7 +32,9 @@ module.exports = function(grunt) {
                     src: [
                         'ANCESTORS/*',
                         'BEORN/*',
-                        'STORJARN/*'
+                        'STORJARN/*',
+                        'AVROS/*',
+                        'STALSKEG//*'
                     ],
                     dest: './'
                 }]
