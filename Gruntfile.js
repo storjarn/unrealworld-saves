@@ -46,7 +46,7 @@ module.exports = function(grunt) {
     grunt.loadNpmTasks('grunt-contrib-compress');
     grunt.loadNpmTasks("grunt-then");
 
-    grunt.registerTask('save', function(message) {
+    grunt.registerTask('save', 'Saves the characters to saves.zip.  Ex: grunt save:"commit message"', function(message) {
         if (!message) {
             throw new Error("You need to supply a commit message!");
         }
