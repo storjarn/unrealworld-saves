@@ -1,318 +1,1412 @@
-Sun Aug 27 22:00:50 2017
+Sat Sep 23 13:52:35 2017
   creature_swap()
-Sun Aug 27 22:00:50 2017
-  curmap: ZOOMMAP isox,isoy: 385,310 mintick: 1414682
-Sun Aug 27 22:00:50 2017
+Sat Sep 23 13:52:35 2017
+  curmap: ZOOMMAP isox,isoy: 950,1459 mintick: 1584932
+Sat Sep 23 13:52:35 2017
   COMPANYZOOMCHECKED: 0
-Sun Aug 27 22:00:50 2017
+Sat Sep 23 13:52:35 2017
   parsing DATA
-Sun Aug 27 22:00:50 2017
-  #634 cr DATA:1001 -> crpos:1 = Black grouse
-Sun Aug 27 22:00:50 2017
-  #2842 cr DATA:1003 -> crpos:3 = Reindeer
-Sun Aug 27 22:00:50 2017
-  #2844 cr DATA:1004 -> crpos:4 = Reindeer
-Sun Aug 27 22:00:50 2017
-  #2845 cr DATA:1005 -> crpos:5 = Reindeer
-Sun Aug 27 22:00:50 2017
-  #2846 cr DATA:1006 -> crpos:6 = Reindeer
-Sun Aug 27 22:00:50 2017
-  #2847 cr DATA:1007 -> crpos:7 = Reindeer
-Sun Aug 27 22:00:50 2017
-  #2853 cr DATA:1008 -> crpos:8 = Bull
-Sun Aug 27 22:00:50 2017
-  #2854 cr DATA:1009 -> crpos:9 = Reindeer
-Sun Aug 27 22:00:50 2017
-  #2855 cr DATA:1010 -> crpos:10 = Reindeer
-Sun Aug 27 22:00:50 2017
-  #2856 cr DATA:1011 -> crpos:11 = Reindeer
-Sun Aug 27 22:00:50 2017
-  #2862 cr DATA:1012 -> crpos:12 = Sheep
-Sun Aug 27 22:00:50 2017
-  #2863 cr DATA:1013 -> crpos:13 = Reindeer
-Sun Aug 27 22:00:50 2017
-  #2864 cr DATA:1014 -> crpos:14 = Ram
-Sun Aug 27 22:00:50 2017
-  #3489 cr DATA:1015 -> crpos:15 = Pig
-Sun Aug 27 22:00:50 2017
-  #3491 cr DATA:1016 -> crpos:16 = Dog
-Sun Aug 27 22:00:50 2017
-  ** bfdom ZOOMFOLLOW set
-Sun Aug 27 22:00:50 2017
-  #3492 cr DATA:1017 -> crpos:17 = Bull
-Sun Aug 27 22:00:50 2017
-  #6334 cr DATA:1019 -> crpos:19 = Capercaillie
-Sun Aug 27 22:00:51 2017
+Sat Sep 23 13:52:35 2017
+  #290 cr DATA:1000 -> crpos:0 = Vagabond adventurer
+Sat Sep 23 13:52:35 2017
+  #5145 cr DATA:1001 -> crpos:1 = Dog
+Sat Sep 23 13:52:35 2017
+  #5449 cr DATA:1002 -> crpos:2 = Ram
+Sat Sep 23 13:52:35 2017
+  #5450 cr DATA:1003 -> crpos:3 = Pig
+Sat Sep 23 13:52:35 2017
+  #5451 cr DATA:1004 -> crpos:4 = Reindeer
+Sat Sep 23 13:52:35 2017
+  #5452 cr DATA:1005 -> crpos:5 = Reindeer
+Sat Sep 23 13:52:35 2017
+  #5453 cr DATA:1006 -> crpos:6 = Reindeer
+Sat Sep 23 13:52:35 2017
+  #5454 cr DATA:1007 -> crpos:7 = Reindeer
+Sat Sep 23 13:52:35 2017
+  #5455 cr DATA:1008 -> crpos:8 = Bull
+Sat Sep 23 13:52:35 2017
+  #5456 cr DATA:1009 -> crpos:9 = Reindeer
+Sat Sep 23 13:52:35 2017
+  #5457 cr DATA:1010 -> crpos:10 = Reindeer
+Sat Sep 23 13:52:35 2017
+  #5458 cr DATA:1011 -> crpos:11 = Reindeer
+Sat Sep 23 13:52:35 2017
+  #5459 cr DATA:1012 -> crpos:12 = Reindeer
+Sat Sep 23 13:52:35 2017
+  #5460 cr DATA:1013 -> crpos:13 = Bull
+Sat Sep 23 13:52:35 2017
+  #5461 cr DATA:1014 -> crpos:14 = Reindeer
+Sat Sep 23 13:52:35 2017
+  #5462 cr DATA:1015 -> crpos:15 = Sheep
+Sat Sep 23 13:52:35 2017
   creature_swap()
-Sun Aug 27 22:00:51 2017
-  curmap: BIGMAP isox,isoy: 386,312 mintick: 1414682
-Sun Aug 27 22:00:51 2017
+Sat Sep 23 13:52:35 2017
+  curmap: BIGMAP isox,isoy: 950,1457 mintick: 1584932
+Sat Sep 23 13:52:35 2017
   COMPANYZOOMCHECKED: 0
-Sun Aug 27 22:00:51 2017
+Sat Sep 23 13:52:35 2017
   parsing DATA
-Sun Aug 27 22:02:46 2017
+Sat Sep 23 13:52:35 2017
+  Poista_Olento(0)
+Sat Sep 23 13:52:35 2017
+  remove Hazel grouse sotu:2642
+Sat Sep 23 13:52:35 2017
+  removal stats - pet: 0 comp: 0 leashed: 0
+Sat Sep 23 13:52:35 2017
+  Poista_Olento(1)
+Sat Sep 23 13:52:35 2017
+  remove Hazel grouse sotu:2644
+Sat Sep 23 13:52:35 2017
+  removal stats - pet: 0 comp: 0 leashed: 0
+Sat Sep 23 13:52:35 2017
+  Poista_Olento(2)
+Sat Sep 23 13:52:35 2017
+  remove Hare sotu:2640
+Sat Sep 23 13:52:35 2017
+  removal stats - pet: 0 comp: 0 leashed: 0
+Sat Sep 23 13:52:35 2017
+  Poista_Olento(3)
+Sat Sep 23 13:52:35 2017
+  remove Badger sotu:2645
+Sat Sep 23 13:52:35 2017
+  removal stats - pet: 0 comp: 0 leashed: 0
+Sat Sep 23 13:53:18 2017
   creature_swap()
-Sun Aug 27 22:02:46 2017
-  curmap: ZOOMMAP isox,isoy: 386,312 mintick: 1414724
-Sun Aug 27 22:02:46 2017
+Sat Sep 23 13:53:18 2017
+  curmap: ZOOMMAP isox,isoy: 950,1457 mintick: 1585324
+Sat Sep 23 13:53:18 2017
   COMPANYZOOMCHECKED: 0
-Sun Aug 27 22:02:46 2017
+Sat Sep 23 13:53:18 2017
   parsing DATA
-Sun Aug 27 22:02:46 2017
-  #862 cr DATA:1001 -> crpos:1 = Reindeer
-Sun Aug 27 22:02:46 2017
-  #864 cr DATA:1002 -> crpos:2 = Reindeer
-Sun Aug 27 22:02:46 2017
-  #865 cr DATA:1003 -> crpos:3 = Reindeer
-Sun Aug 27 22:02:46 2017
-  #866 cr DATA:1004 -> crpos:4 = Reindeer
-Sun Aug 27 22:02:46 2017
-  #867 cr DATA:1005 -> crpos:5 = Reindeer
-Sun Aug 27 22:02:46 2017
-  #873 cr DATA:1006 -> crpos:6 = Bull
-Sun Aug 27 22:02:46 2017
-  #874 cr DATA:1007 -> crpos:7 = Reindeer
-Sun Aug 27 22:02:46 2017
-  #875 cr DATA:1008 -> crpos:8 = Reindeer
-Sun Aug 27 22:02:46 2017
-  #876 cr DATA:1009 -> crpos:9 = Reindeer
-Sun Aug 27 22:02:46 2017
-  #882 cr DATA:1010 -> crpos:10 = Sheep
-Sun Aug 27 22:02:46 2017
-  #883 cr DATA:1011 -> crpos:11 = Reindeer
-Sun Aug 27 22:02:46 2017
-  #884 cr DATA:1012 -> crpos:12 = Ram
-Sun Aug 27 22:02:46 2017
-  #1509 cr DATA:1013 -> crpos:13 = Pig
-Sun Aug 27 22:02:46 2017
-  #1511 cr DATA:1014 -> crpos:14 = Bull
-Sun Aug 27 22:02:46 2017
-  #3036 cr DATA:1016 -> crpos:16 = Dog
-Sun Aug 27 22:02:46 2017
-  ** bfdom ZOOMFOLLOW set
-Sun Aug 27 22:02:46 2017
-  #7052 cr DATA:1018 -> crpos:18 = Black grouse
-Sun Aug 27 22:02:46 2017
-  #7255 cr DATA:1019 -> crpos:19 = Hare
-Sun Aug 27 22:02:46 2017
-  #7851 cr DATA:1022 -> crpos:22 = Willow grouse
-Sun Aug 27 22:02:46 2017
+Sat Sep 23 13:53:18 2017
+  #1731 cr DATA:1000 -> crpos:0 = Vagabond adventurer
+Sat Sep 23 13:53:18 2017
+  #6587 cr DATA:1001 -> crpos:1 = Dog
+Sat Sep 23 13:53:18 2017
+  #6891 cr DATA:1002 -> crpos:2 = Ram
+Sat Sep 23 13:53:18 2017
+  #6892 cr DATA:1003 -> crpos:3 = Pig
+Sat Sep 23 13:53:18 2017
+  #6893 cr DATA:1004 -> crpos:4 = Reindeer
+Sat Sep 23 13:53:18 2017
+  #6894 cr DATA:1005 -> crpos:5 = Reindeer
+Sat Sep 23 13:53:18 2017
+  #6895 cr DATA:1006 -> crpos:6 = Reindeer
+Sat Sep 23 13:53:18 2017
+  #6896 cr DATA:1007 -> crpos:7 = Reindeer
+Sat Sep 23 13:53:18 2017
+  #6897 cr DATA:1008 -> crpos:8 = Bull
+Sat Sep 23 13:53:18 2017
+  #6898 cr DATA:1009 -> crpos:9 = Reindeer
+Sat Sep 23 13:53:18 2017
+  #6899 cr DATA:1010 -> crpos:10 = Reindeer
+Sat Sep 23 13:53:18 2017
+  #6900 cr DATA:1011 -> crpos:11 = Reindeer
+Sat Sep 23 13:53:18 2017
+  #6901 cr DATA:1012 -> crpos:12 = Reindeer
+Sat Sep 23 13:53:18 2017
+  #6902 cr DATA:1013 -> crpos:13 = Bull
+Sat Sep 23 13:53:18 2017
+  #6903 cr DATA:1014 -> crpos:14 = Reindeer
+Sat Sep 23 13:53:18 2017
+  #6904 cr DATA:1015 -> crpos:15 = Sheep
+Sat Sep 23 13:53:18 2017
   creature_swap()
-Sun Aug 27 22:02:46 2017
-  curmap: BIGMAP isox,isoy: 385,310 mintick: 1414724
-Sun Aug 27 22:02:46 2017
+Sat Sep 23 13:53:18 2017
+  curmap: BIGMAP isox,isoy: 950,1459 mintick: 1585324
+Sat Sep 23 13:53:18 2017
   COMPANYZOOMCHECKED: 0
-Sun Aug 27 22:02:46 2017
+Sat Sep 23 13:53:18 2017
   parsing DATA
-Sun Aug 27 22:07:05 2017
+Sat Sep 23 14:05:57 2017
   creature_swap()
-Sun Aug 27 22:07:05 2017
-  curmap: ZOOMMAP isox,isoy: 385,310 mintick: 1414770
-Sun Aug 27 22:07:05 2017
+Sat Sep 23 14:05:57 2017
+  curmap: ZOOMMAP isox,isoy: 950,1459 mintick: 1586146
+Sat Sep 23 14:05:57 2017
   COMPANYZOOMCHECKED: 0
-Sun Aug 27 22:07:05 2017
+Sat Sep 23 14:05:57 2017
   parsing DATA
-Sun Aug 27 22:07:05 2017
-  #632 cr DATA:1001 -> crpos:1 = Black grouse
-Sun Aug 27 22:07:05 2017
-  #2840 cr DATA:1003 -> crpos:3 = Reindeer
-Sun Aug 27 22:07:05 2017
-  #2842 cr DATA:1004 -> crpos:4 = Reindeer
-Sun Aug 27 22:07:05 2017
-  #2843 cr DATA:1005 -> crpos:5 = Reindeer
-Sun Aug 27 22:07:05 2017
-  #2844 cr DATA:1006 -> crpos:6 = Reindeer
-Sun Aug 27 22:07:05 2017
-  #2845 cr DATA:1007 -> crpos:7 = Reindeer
-Sun Aug 27 22:07:05 2017
-  #2851 cr DATA:1008 -> crpos:8 = Bull
-Sun Aug 27 22:07:05 2017
-  #2852 cr DATA:1009 -> crpos:9 = Reindeer
-Sun Aug 27 22:07:05 2017
-  #2853 cr DATA:1010 -> crpos:10 = Reindeer
-Sun Aug 27 22:07:05 2017
-  #2854 cr DATA:1011 -> crpos:11 = Reindeer
-Sun Aug 27 22:07:05 2017
-  #2860 cr DATA:1012 -> crpos:12 = Sheep
-Sun Aug 27 22:07:05 2017
-  #2861 cr DATA:1013 -> crpos:13 = Reindeer
-Sun Aug 27 22:07:05 2017
-  #2862 cr DATA:1014 -> crpos:14 = Ram
-Sun Aug 27 22:07:05 2017
-  #3487 cr DATA:1015 -> crpos:15 = Pig
-Sun Aug 27 22:07:05 2017
-  #3489 cr DATA:1016 -> crpos:16 = Bull
-Sun Aug 27 22:07:05 2017
-  #4930 cr DATA:1018 -> crpos:18 = Dog
-Sun Aug 27 22:07:05 2017
-  ** bfdom ZOOMFOLLOW set
-Sun Aug 27 22:07:05 2017
-  #6337 cr DATA:1019 -> crpos:19 = Capercaillie
-Sun Aug 27 22:07:05 2017
-  #7649 cr DATA:1021 -> crpos:21 = Willow grouse
-Sun Aug 27 22:07:05 2017
+Sat Sep 23 14:05:57 2017
+  #290 cr DATA:1000 -> crpos:0 = Vagabond adventurer
+Sat Sep 23 14:05:57 2017
+  #5161 cr DATA:1001 -> crpos:1 = Dog
+Sat Sep 23 14:05:57 2017
+  #5465 cr DATA:1002 -> crpos:2 = Ram
+Sat Sep 23 14:05:57 2017
+  #5466 cr DATA:1003 -> crpos:3 = Pig
+Sat Sep 23 14:05:57 2017
+  #5467 cr DATA:1004 -> crpos:4 = Reindeer
+Sat Sep 23 14:05:57 2017
+  #5468 cr DATA:1005 -> crpos:5 = Reindeer
+Sat Sep 23 14:05:57 2017
+  #5469 cr DATA:1006 -> crpos:6 = Reindeer
+Sat Sep 23 14:05:57 2017
+  #5470 cr DATA:1007 -> crpos:7 = Reindeer
+Sat Sep 23 14:05:57 2017
+  #5471 cr DATA:1008 -> crpos:8 = Bull
+Sat Sep 23 14:05:57 2017
+  #5472 cr DATA:1009 -> crpos:9 = Reindeer
+Sat Sep 23 14:05:57 2017
+  #5473 cr DATA:1010 -> crpos:10 = Reindeer
+Sat Sep 23 14:05:57 2017
+  #5474 cr DATA:1011 -> crpos:11 = Reindeer
+Sat Sep 23 14:05:57 2017
+  #5475 cr DATA:1012 -> crpos:12 = Reindeer
+Sat Sep 23 14:05:57 2017
+  #5476 cr DATA:1013 -> crpos:13 = Bull
+Sat Sep 23 14:05:57 2017
+  #5477 cr DATA:1014 -> crpos:14 = Reindeer
+Sat Sep 23 14:05:57 2017
+  #5478 cr DATA:1015 -> crpos:15 = Sheep
+Sat Sep 23 14:05:58 2017
   creature_swap()
-Sun Aug 27 22:07:05 2017
-  curmap: BIGMAP isox,isoy: 386,312 mintick: 1414770
-Sun Aug 27 22:07:05 2017
+Sat Sep 23 14:05:58 2017
+  curmap: BIGMAP isox,isoy: 950,1457 mintick: 1586146
+Sat Sep 23 14:05:58 2017
   COMPANYZOOMCHECKED: 0
-Sun Aug 27 22:07:05 2017
+Sat Sep 23 14:05:58 2017
   parsing DATA
-Sun Aug 27 22:07:24 2017
+Sat Sep 23 14:07:06 2017
   creature_swap()
-Sun Aug 27 22:07:24 2017
-  curmap: ZOOMMAP isox,isoy: 386,312 mintick: 1414772
-Sun Aug 27 22:07:24 2017
+Sat Sep 23 14:07:06 2017
+  curmap: ZOOMMAP isox,isoy: 950,1457 mintick: 1586149
+Sat Sep 23 14:07:06 2017
   COMPANYZOOMCHECKED: 0
-Sun Aug 27 22:07:24 2017
+Sat Sep 23 14:07:06 2017
   parsing DATA
-Sun Aug 27 22:07:24 2017
-  #861 cr DATA:1001 -> crpos:1 = Reindeer
-Sun Aug 27 22:07:24 2017
-  #863 cr DATA:1002 -> crpos:2 = Reindeer
-Sun Aug 27 22:07:24 2017
-  #864 cr DATA:1003 -> crpos:3 = Reindeer
-Sun Aug 27 22:07:24 2017
-  #865 cr DATA:1004 -> crpos:4 = Reindeer
-Sun Aug 27 22:07:24 2017
-  #866 cr DATA:1005 -> crpos:5 = Reindeer
-Sun Aug 27 22:07:24 2017
-  #872 cr DATA:1006 -> crpos:6 = Bull
-Sun Aug 27 22:07:24 2017
-  #873 cr DATA:1007 -> crpos:7 = Reindeer
-Sun Aug 27 22:07:24 2017
-  #874 cr DATA:1008 -> crpos:8 = Reindeer
-Sun Aug 27 22:07:24 2017
-  #875 cr DATA:1009 -> crpos:9 = Reindeer
-Sun Aug 27 22:07:24 2017
-  #881 cr DATA:1010 -> crpos:10 = Sheep
-Sun Aug 27 22:07:24 2017
-  #882 cr DATA:1011 -> crpos:11 = Reindeer
-Sun Aug 27 22:07:24 2017
-  #883 cr DATA:1012 -> crpos:12 = Ram
-Sun Aug 27 22:07:24 2017
-  #1508 cr DATA:1013 -> crpos:13 = Pig
-Sun Aug 27 22:07:24 2017
-  #1510 cr DATA:1014 -> crpos:14 = Bull
-Sun Aug 27 22:07:24 2017
-  #3033 cr DATA:1016 -> crpos:16 = Dog
-Sun Aug 27 22:07:24 2017
-  ** bfdom ZOOMFOLLOW set
-Sun Aug 27 22:07:24 2017
-  #3797 cr DATA:1017 -> crpos:17 = Willow grouse
-Sun Aug 27 22:07:24 2017
-  #7137 cr DATA:1019 -> crpos:19 = Black grouse
-Sun Aug 27 22:07:24 2017
-  #7395 cr DATA:1020 -> crpos:20 = Hare
-Sun Aug 27 22:07:24 2017
+Sat Sep 23 14:07:06 2017
+  #1731 cr DATA:1000 -> crpos:0 = Vagabond adventurer
+Sat Sep 23 14:07:06 2017
+  #6727 cr DATA:1001 -> crpos:1 = Dog
+Sat Sep 23 14:07:06 2017
+  #7031 cr DATA:1002 -> crpos:2 = Ram
+Sat Sep 23 14:07:06 2017
+  #7032 cr DATA:1003 -> crpos:3 = Pig
+Sat Sep 23 14:07:06 2017
+  #7033 cr DATA:1004 -> crpos:4 = Reindeer
+Sat Sep 23 14:07:06 2017
+  #7034 cr DATA:1005 -> crpos:5 = Reindeer
+Sat Sep 23 14:07:06 2017
+  #7035 cr DATA:1006 -> crpos:6 = Reindeer
+Sat Sep 23 14:07:06 2017
+  #7036 cr DATA:1007 -> crpos:7 = Reindeer
+Sat Sep 23 14:07:06 2017
+  #7037 cr DATA:1008 -> crpos:8 = Bull
+Sat Sep 23 14:07:06 2017
+  #7038 cr DATA:1009 -> crpos:9 = Reindeer
+Sat Sep 23 14:07:06 2017
+  #7039 cr DATA:1010 -> crpos:10 = Reindeer
+Sat Sep 23 14:07:06 2017
+  #7040 cr DATA:1011 -> crpos:11 = Reindeer
+Sat Sep 23 14:07:06 2017
+  #7041 cr DATA:1012 -> crpos:12 = Reindeer
+Sat Sep 23 14:07:06 2017
+  #7042 cr DATA:1013 -> crpos:13 = Bull
+Sat Sep 23 14:07:06 2017
+  #7043 cr DATA:1014 -> crpos:14 = Reindeer
+Sat Sep 23 14:07:06 2017
+  #7044 cr DATA:1015 -> crpos:15 = Sheep
+Sat Sep 23 14:07:06 2017
   creature_swap()
-Sun Aug 27 22:07:24 2017
-  curmap: BIGMAP isox,isoy: 384,311 mintick: 1414772
-Sun Aug 27 22:07:24 2017
+Sat Sep 23 14:07:06 2017
+  curmap: BIGMAP isox,isoy: 950,1459 mintick: 1586149
+Sat Sep 23 14:07:06 2017
   COMPANYZOOMCHECKED: 0
-Sun Aug 27 22:07:24 2017
+Sat Sep 23 14:07:06 2017
   parsing DATA
-Sun Aug 27 22:09:42 2017
+Sat Sep 23 14:10:33 2017
   creature_swap()
-Sun Aug 27 22:09:42 2017
-  curmap: ZOOMMAP isox,isoy: 384,311 mintick: 1414783
-Sun Aug 27 22:09:42 2017
+Sat Sep 23 14:10:33 2017
+  curmap: ZOOMMAP isox,isoy: 950,1459 mintick: 1586457
+Sat Sep 23 14:10:33 2017
+  COMPANYZOOMCHECKED: 0
+Sat Sep 23 14:10:33 2017
+  parsing DATA
+Sat Sep 23 14:10:33 2017
+  #290 cr DATA:1000 -> crpos:0 = Vagabond adventurer
+Sat Sep 23 14:10:33 2017
+  #5304 cr DATA:1001 -> crpos:1 = Dog
+Sat Sep 23 14:10:33 2017
+  #5608 cr DATA:1002 -> crpos:2 = Ram
+Sat Sep 23 14:10:33 2017
+  #5609 cr DATA:1003 -> crpos:3 = Pig
+Sat Sep 23 14:10:33 2017
+  #5610 cr DATA:1004 -> crpos:4 = Reindeer
+Sat Sep 23 14:10:33 2017
+  #5611 cr DATA:1005 -> crpos:5 = Reindeer
+Sat Sep 23 14:10:33 2017
+  #5612 cr DATA:1006 -> crpos:6 = Reindeer
+Sat Sep 23 14:10:33 2017
+  #5613 cr DATA:1007 -> crpos:7 = Reindeer
+Sat Sep 23 14:10:33 2017
+  #5614 cr DATA:1008 -> crpos:8 = Bull
+Sat Sep 23 14:10:33 2017
+  #5615 cr DATA:1009 -> crpos:9 = Reindeer
+Sat Sep 23 14:10:33 2017
+  #5616 cr DATA:1010 -> crpos:10 = Reindeer
+Sat Sep 23 14:10:33 2017
+  #5617 cr DATA:1011 -> crpos:11 = Reindeer
+Sat Sep 23 14:10:33 2017
+  #5618 cr DATA:1012 -> crpos:12 = Reindeer
+Sat Sep 23 14:10:33 2017
+  #5619 cr DATA:1013 -> crpos:13 = Bull
+Sat Sep 23 14:10:33 2017
+  #5620 cr DATA:1014 -> crpos:14 = Reindeer
+Sat Sep 23 14:10:33 2017
+  #5621 cr DATA:1015 -> crpos:15 = Sheep
+Sat Sep 23 14:10:33 2017
+  creature_swap()
+Sat Sep 23 14:10:33 2017
+  curmap: BIGMAP isox,isoy: 950,1457 mintick: 1586457
+Sat Sep 23 14:10:33 2017
+  COMPANYZOOMCHECKED: 0
+Sat Sep 23 14:10:33 2017
+  parsing DATA
+Sat Sep 23 14:11:48 2017
+  creature_swap()
+Sat Sep 23 14:11:48 2017
+  curmap: ZOOMMAP isox,isoy: 950,1457 mintick: 1586529
+Sat Sep 23 14:11:48 2017
+  COMPANYZOOMCHECKED: 0
+Sat Sep 23 14:11:48 2017
+  parsing DATA
+Sat Sep 23 14:11:48 2017
+  #1731 cr DATA:1000 -> crpos:0 = Vagabond adventurer
+Sat Sep 23 14:11:48 2017
+  #6828 cr DATA:1001 -> crpos:1 = Dog
+Sat Sep 23 14:11:48 2017
+  #7132 cr DATA:1002 -> crpos:2 = Ram
+Sat Sep 23 14:11:48 2017
+  #7133 cr DATA:1003 -> crpos:3 = Pig
+Sat Sep 23 14:11:48 2017
+  #7134 cr DATA:1004 -> crpos:4 = Reindeer
+Sat Sep 23 14:11:48 2017
+  #7135 cr DATA:1005 -> crpos:5 = Reindeer
+Sat Sep 23 14:11:48 2017
+  #7136 cr DATA:1006 -> crpos:6 = Reindeer
+Sat Sep 23 14:11:48 2017
+  #7137 cr DATA:1007 -> crpos:7 = Reindeer
+Sat Sep 23 14:11:48 2017
+  #7138 cr DATA:1008 -> crpos:8 = Bull
+Sat Sep 23 14:11:48 2017
+  #7139 cr DATA:1009 -> crpos:9 = Reindeer
+Sat Sep 23 14:11:48 2017
+  #7140 cr DATA:1010 -> crpos:10 = Reindeer
+Sat Sep 23 14:11:48 2017
+  #7141 cr DATA:1011 -> crpos:11 = Reindeer
+Sat Sep 23 14:11:48 2017
+  #7142 cr DATA:1012 -> crpos:12 = Reindeer
+Sat Sep 23 14:11:48 2017
+  #7143 cr DATA:1013 -> crpos:13 = Bull
+Sat Sep 23 14:11:48 2017
+  #7144 cr DATA:1014 -> crpos:14 = Reindeer
+Sat Sep 23 14:11:48 2017
+  #7145 cr DATA:1015 -> crpos:15 = Sheep
+Sat Sep 23 14:11:48 2017
+  creature_swap()
+Sat Sep 23 14:11:48 2017
+  curmap: BIGMAP isox,isoy: 950,1459 mintick: 1586529
+Sat Sep 23 14:11:48 2017
+  COMPANYZOOMCHECKED: 0
+Sat Sep 23 14:11:48 2017
+  parsing DATA
+Sat Sep 23 14:22:53 2017
+  creature_swap()
+Sat Sep 23 14:22:53 2017
+  curmap: ZOOMMAP isox,isoy: 950,1459 mintick: 1589260
+Sat Sep 23 14:22:53 2017
   COMPANYZOOMCHECKED: 1
-Sun Aug 27 22:09:42 2017
+Sat Sep 23 14:22:53 2017
   parsing DATA
-Sun Aug 27 22:09:42 2017
-  #2108 cr DATA:1001 -> crpos:1 = Reindeer
-Sun Aug 27 22:09:42 2017
-  #2110 cr DATA:1002 -> crpos:2 = Reindeer
-Sun Aug 27 22:09:42 2017
-  #2111 cr DATA:1003 -> crpos:3 = Reindeer
-Sun Aug 27 22:09:42 2017
-  #2112 cr DATA:1004 -> crpos:4 = Reindeer
-Sun Aug 27 22:09:42 2017
-  #2113 cr DATA:1005 -> crpos:5 = Reindeer
-Sun Aug 27 22:09:42 2017
-  #2119 cr DATA:1006 -> crpos:6 = Bull
-Sun Aug 27 22:09:42 2017
-  #2120 cr DATA:1007 -> crpos:7 = Reindeer
-Sun Aug 27 22:09:42 2017
-  #2121 cr DATA:1008 -> crpos:8 = Reindeer
-Sun Aug 27 22:09:42 2017
-  #2122 cr DATA:1009 -> crpos:9 = Reindeer
-Sun Aug 27 22:09:42 2017
-  #2128 cr DATA:1010 -> crpos:10 = Sheep
-Sun Aug 27 22:09:42 2017
-  #2129 cr DATA:1011 -> crpos:11 = Reindeer
-Sun Aug 27 22:09:42 2017
-  #2130 cr DATA:1012 -> crpos:12 = Ram
-Sun Aug 27 22:09:42 2017
-  #2755 cr DATA:1013 -> crpos:13 = Pig
-Sun Aug 27 22:09:42 2017
-  #2757 cr DATA:1014 -> crpos:14 = Bull
-Sun Aug 27 22:09:42 2017
-  #4223 cr DATA:1016 -> crpos:16 = Dog
-Sun Aug 27 22:09:42 2017
-  ** bfdom ZOOMFOLLOW set
-Sun Aug 27 22:09:42 2017
-  *** add_cr
-Sun Aug 27 22:09:42 2017
-  added to party[0] DATA: 2162=RealCreaturePos(16)
-Sun Aug 27 22:09:42 2017
-  #5206 cr DATA:1018 -> crpos:18 = Capercaillie
-Sun Aug 27 22:09:42 2017
+Sat Sep 23 14:22:53 2017
+  #1531 cr DATA:1000 -> crpos:0 = Vagabond adventurer
+Sat Sep 23 14:22:53 2017
+  #5725 cr DATA:1001 -> crpos:1 = Dog
+Sat Sep 23 14:22:53 2017
+  #6029 cr DATA:1002 -> crpos:2 = Ram
+Sat Sep 23 14:22:53 2017
+  #6030 cr DATA:1003 -> crpos:3 = Pig
+Sat Sep 23 14:22:53 2017
+  #6031 cr DATA:1004 -> crpos:4 = Reindeer
+Sat Sep 23 14:22:53 2017
+  #6032 cr DATA:1005 -> crpos:5 = Reindeer
+Sat Sep 23 14:22:53 2017
+  #6033 cr DATA:1006 -> crpos:6 = Reindeer
+Sat Sep 23 14:22:53 2017
+  #6034 cr DATA:1007 -> crpos:7 = Reindeer
+Sat Sep 23 14:22:53 2017
+  #6035 cr DATA:1008 -> crpos:8 = Bull
+Sat Sep 23 14:22:53 2017
+  #6036 cr DATA:1009 -> crpos:9 = Reindeer
+Sat Sep 23 14:22:53 2017
+  #6037 cr DATA:1010 -> crpos:10 = Reindeer
+Sat Sep 23 14:22:53 2017
+  #6038 cr DATA:1011 -> crpos:11 = Reindeer
+Sat Sep 23 14:22:53 2017
+  #6039 cr DATA:1012 -> crpos:12 = Reindeer
+Sat Sep 23 14:22:53 2017
+  #6040 cr DATA:1013 -> crpos:13 = Bull
+Sat Sep 23 14:22:53 2017
+  #6041 cr DATA:1014 -> crpos:14 = Reindeer
+Sat Sep 23 14:22:53 2017
+  #6042 cr DATA:1015 -> crpos:15 = Sheep
+Sat Sep 23 14:22:53 2017
   creature_swap()
-Sun Aug 27 22:09:42 2017
-  curmap: ZOOMMAP isox,isoy: 384,311 mintick: 1414783
-Sun Aug 27 22:09:42 2017
+Sat Sep 23 14:22:53 2017
+  curmap: ZOOMMAP isox,isoy: 950,1459 mintick: 1589260
+Sat Sep 23 14:22:53 2017
   COMPANYZOOMCHECKED: 1
-Sun Aug 27 22:09:42 2017
+Sat Sep 23 14:22:53 2017
   parsing DATA
-Sun Aug 27 22:09:42 2017
-  #2108 cr DATA:1001 -> crpos:1 = Reindeer
-Sun Aug 27 22:09:42 2017
-  #2110 cr DATA:1002 -> crpos:2 = Reindeer
-Sun Aug 27 22:09:42 2017
-  #2111 cr DATA:1003 -> crpos:3 = Reindeer
-Sun Aug 27 22:09:42 2017
-  #2112 cr DATA:1004 -> crpos:4 = Reindeer
-Sun Aug 27 22:09:42 2017
-  #2113 cr DATA:1005 -> crpos:5 = Reindeer
-Sun Aug 27 22:09:42 2017
-  #2119 cr DATA:1006 -> crpos:6 = Bull
-Sun Aug 27 22:09:42 2017
-  #2120 cr DATA:1007 -> crpos:7 = Reindeer
-Sun Aug 27 22:09:42 2017
-  #2121 cr DATA:1008 -> crpos:8 = Reindeer
-Sun Aug 27 22:09:42 2017
-  #2122 cr DATA:1009 -> crpos:9 = Reindeer
-Sun Aug 27 22:09:42 2017
-  #2128 cr DATA:1010 -> crpos:10 = Sheep
-Sun Aug 27 22:09:42 2017
-  #2129 cr DATA:1011 -> crpos:11 = Reindeer
-Sun Aug 27 22:09:42 2017
-  #2130 cr DATA:1012 -> crpos:12 = Ram
-Sun Aug 27 22:09:42 2017
-  #2755 cr DATA:1013 -> crpos:13 = Pig
-Sun Aug 27 22:09:42 2017
-  #2757 cr DATA:1014 -> crpos:14 = Bull
-Sun Aug 27 22:09:42 2017
-  #5206 cr DATA:1018 -> crpos:18 = Capercaillie
-Sun Aug 27 22:09:42 2017
-  partystack #0 T:4 D:2162 C:1
-Sun Aug 27 22:09:43 2017
+Sat Sep 23 14:22:53 2017
+  #1531 cr DATA:1000 -> crpos:0 = Vagabond adventurer
+Sat Sep 23 14:22:53 2017
+  #5725 cr DATA:1001 -> crpos:1 = Dog
+Sat Sep 23 14:22:53 2017
+  #6029 cr DATA:1002 -> crpos:2 = Ram
+Sat Sep 23 14:22:53 2017
+  #6030 cr DATA:1003 -> crpos:3 = Pig
+Sat Sep 23 14:22:53 2017
+  #6031 cr DATA:1004 -> crpos:4 = Reindeer
+Sat Sep 23 14:22:53 2017
+  #6032 cr DATA:1005 -> crpos:5 = Reindeer
+Sat Sep 23 14:22:53 2017
+  #6033 cr DATA:1006 -> crpos:6 = Reindeer
+Sat Sep 23 14:22:53 2017
+  #6034 cr DATA:1007 -> crpos:7 = Reindeer
+Sat Sep 23 14:22:53 2017
+  #6035 cr DATA:1008 -> crpos:8 = Bull
+Sat Sep 23 14:22:53 2017
+  #6036 cr DATA:1009 -> crpos:9 = Reindeer
+Sat Sep 23 14:22:53 2017
+  #6037 cr DATA:1010 -> crpos:10 = Reindeer
+Sat Sep 23 14:22:53 2017
+  #6038 cr DATA:1011 -> crpos:11 = Reindeer
+Sat Sep 23 14:22:53 2017
+  #6039 cr DATA:1012 -> crpos:12 = Reindeer
+Sat Sep 23 14:22:53 2017
+  #6040 cr DATA:1013 -> crpos:13 = Bull
+Sat Sep 23 14:22:53 2017
+  #6041 cr DATA:1014 -> crpos:14 = Reindeer
+Sat Sep 23 14:22:53 2017
+  #6042 cr DATA:1015 -> crpos:15 = Sheep
+Sat Sep 23 14:23:20 2017
   creature_swap()
-Sun Aug 27 22:09:43 2017
-  curmap: BIGMAP isox,isoy: 385,311 mintick: 1414783
-Sun Aug 27 22:09:43 2017
+Sat Sep 23 14:23:20 2017
+  curmap: BIGMAP isox,isoy: 929,1469 mintick: 1589310
+Sat Sep 23 14:23:20 2017
   COMPANYZOOMCHECKED: 1
-Sun Aug 27 22:09:43 2017
+Sat Sep 23 14:23:20 2017
   parsing DATA
-Sun Aug 27 22:09:43 2017
-  #42 cr DATA:1000 -> crpos:0 = Dog
-Sun Aug 27 22:09:43 2017
-  ** bfdom ZOOMFOLLOW set
-Sun Aug 27 22:09:43 2017
-  *** add_cr
-Sun Aug 27 22:09:43 2017
-  added to party[0] DATA: 2162=RealCreaturePos(0)
-Sun Aug 27 22:09:44 2017
-  partystack #0 T:4 D:2162 C:1
+Sat Sep 23 14:24:24 2017
+  creature_swap()
+Sat Sep 23 14:24:24 2017
+  curmap: ZOOMMAP isox,isoy: 929,1469 mintick: 1589317
+Sat Sep 23 14:24:24 2017
+  COMPANYZOOMCHECKED: 0
+Sat Sep 23 14:24:24 2017
+  parsing DATA
+Sat Sep 23 14:24:24 2017
+  #3076 cr DATA:1000 -> crpos:0 = Mallard
+Sat Sep 23 14:24:24 2017
+  creature_swap()
+Sat Sep 23 14:24:24 2017
+  curmap: BIGMAP isox,isoy: 929,1467 mintick: 1589317
+Sat Sep 23 14:24:24 2017
+  COMPANYZOOMCHECKED: 0
+Sat Sep 23 14:24:24 2017
+  parsing DATA
+Sat Sep 23 14:24:58 2017
+  creature_swap()
+Sat Sep 23 14:24:58 2017
+  curmap: ZOOMMAP isox,isoy: 929,1467 mintick: 1589323
+Sat Sep 23 14:24:58 2017
+  COMPANYZOOMCHECKED: 0
+Sat Sep 23 14:24:58 2017
+  parsing DATA
+Sat Sep 23 14:24:58 2017
+  #2787 cr DATA:1000 -> crpos:0 = Mallard
+Sat Sep 23 14:24:58 2017
+  creature_swap()
+Sat Sep 23 14:24:58 2017
+  curmap: BIGMAP isox,isoy: 929,1465 mintick: 1589323
+Sat Sep 23 14:24:58 2017
+  COMPANYZOOMCHECKED: 0
+Sat Sep 23 14:24:58 2017
+  parsing DATA
+Sat Sep 23 14:25:28 2017
+  creature_swap()
+Sat Sep 23 14:25:28 2017
+  curmap: ZOOMMAP isox,isoy: 929,1465 mintick: 1589329
+Sat Sep 23 14:25:28 2017
+  COMPANYZOOMCHECKED: 0
+Sat Sep 23 14:25:28 2017
+  parsing DATA
+Sat Sep 23 14:25:28 2017
+  #3309 cr DATA:1000 -> crpos:0 = Mallard
+Sat Sep 23 14:25:28 2017
+  #3310 cr DATA:1001 -> crpos:1 = Mallard
+Sat Sep 23 14:25:28 2017
+  creature_swap()
+Sat Sep 23 14:25:28 2017
+  curmap: BIGMAP isox,isoy: 929,1463 mintick: 1589329
+Sat Sep 23 14:25:28 2017
+  COMPANYZOOMCHECKED: 0
+Sat Sep 23 14:25:28 2017
+  parsing DATA
+Sat Sep 23 14:26:03 2017
+  creature_swap()
+Sat Sep 23 14:26:03 2017
+  curmap: ZOOMMAP isox,isoy: 929,1463 mintick: 1589335
+Sat Sep 23 14:26:03 2017
+  COMPANYZOOMCHECKED: 0
+Sat Sep 23 14:26:03 2017
+  parsing DATA
+Sat Sep 23 14:26:03 2017
+  #2819 cr DATA:1000 -> crpos:0 = Mallard
+Sat Sep 23 14:26:03 2017
+  #3867 cr DATA:1001 -> crpos:1 = Goldeneye
+Sat Sep 23 14:26:03 2017
+  #3868 cr DATA:1002 -> crpos:2 = Goldeneye
+Sat Sep 23 14:26:03 2017
+  #3869 cr DATA:1003 -> crpos:3 = Goldeneye
+Sat Sep 23 14:26:03 2017
+  #3870 cr DATA:1004 -> crpos:4 = Eagle owl
+Sat Sep 23 14:26:03 2017
+  creature_swap()
+Sat Sep 23 14:26:03 2017
+  curmap: BIGMAP isox,isoy: 927,1462 mintick: 1589335
+Sat Sep 23 14:26:03 2017
+  COMPANYZOOMCHECKED: 0
+Sat Sep 23 14:26:03 2017
+  parsing DATA
+Sat Sep 23 14:26:45 2017
+  creature_swap()
+Sat Sep 23 14:26:45 2017
+  curmap: ZOOMMAP isox,isoy: 927,1462 mintick: 1589342
+Sat Sep 23 14:26:45 2017
+  COMPANYZOOMCHECKED: 0
+Sat Sep 23 14:26:45 2017
+  parsing DATA
+Sat Sep 23 14:26:45 2017
+  #3617 cr DATA:1000 -> crpos:0 = Goldeneye
+Sat Sep 23 14:26:45 2017
+  #3618 cr DATA:1001 -> crpos:1 = Goldeneye
+Sat Sep 23 14:26:45 2017
+  #3716 cr DATA:1002 -> crpos:2 = Mallard
+Sat Sep 23 14:26:45 2017
+  #3717 cr DATA:1003 -> crpos:3 = Goshawk
+Sat Sep 23 14:26:45 2017
+  creature_swap()
+Sat Sep 23 14:26:45 2017
+  curmap: BIGMAP isox,isoy: 925,1463 mintick: 1589342
+Sat Sep 23 14:26:45 2017
+  COMPANYZOOMCHECKED: 0
+Sat Sep 23 14:26:45 2017
+  parsing DATA
+Sat Sep 23 14:27:10 2017
+  creature_swap()
+Sat Sep 23 14:27:10 2017
+  curmap: ZOOMMAP isox,isoy: 925,1463 mintick: 1589347
+Sat Sep 23 14:27:10 2017
+  COMPANYZOOMCHECKED: 0
+Sat Sep 23 14:27:10 2017
+  parsing DATA
+Sat Sep 23 14:27:10 2017
+  #2674 cr DATA:1000 -> crpos:0 = Goldeneye
+Sat Sep 23 14:27:10 2017
+  #2675 cr DATA:1001 -> crpos:1 = Goldeneye
+Sat Sep 23 14:27:10 2017
+  #2676 cr DATA:1002 -> crpos:2 = Mallard
+Sat Sep 23 14:27:10 2017
+  #3239 cr DATA:1003 -> crpos:3 = Kuikka
+Sat Sep 23 14:27:10 2017
+  creature_swap()
+Sat Sep 23 14:27:10 2017
+  curmap: BIGMAP isox,isoy: 923,1463 mintick: 1589347
+Sat Sep 23 14:27:10 2017
+  COMPANYZOOMCHECKED: 0
+Sat Sep 23 14:27:10 2017
+  parsing DATA
+Sat Sep 23 14:27:44 2017
+  creature_swap()
+Sat Sep 23 14:27:44 2017
+  curmap: ZOOMMAP isox,isoy: 923,1463 mintick: 1589351
+Sat Sep 23 14:27:44 2017
+  COMPANYZOOMCHECKED: 0
+Sat Sep 23 14:27:44 2017
+  parsing DATA
+Sat Sep 23 14:27:44 2017
+  #3179 cr DATA:1000 -> crpos:0 = Capercaillie
+Sat Sep 23 14:27:44 2017
+  #3180 cr DATA:1001 -> crpos:1 = Goldeneye
+Sat Sep 23 14:27:44 2017
+  creature_swap()
+Sat Sep 23 14:27:44 2017
+  curmap: BIGMAP isox,isoy: 924,1465 mintick: 1589351
+Sat Sep 23 14:27:44 2017
+  COMPANYZOOMCHECKED: 0
+Sat Sep 23 14:27:44 2017
+  parsing DATA
+Sat Sep 23 14:28:16 2017
+  creature_swap()
+Sat Sep 23 14:28:16 2017
+  curmap: ZOOMMAP isox,isoy: 924,1465 mintick: 1589355
+Sat Sep 23 14:28:16 2017
+  COMPANYZOOMCHECKED: 0
+Sat Sep 23 14:28:16 2017
+  parsing DATA
+Sat Sep 23 14:28:16 2017
+  #721 cr DATA:1000 -> crpos:0 = Goldeneye
+Sat Sep 23 14:28:16 2017
+  #2539 cr DATA:1001 -> crpos:1 = Capercaillie
+Sat Sep 23 14:28:16 2017
+  creature_swap()
+Sat Sep 23 14:28:16 2017
+  curmap: BIGMAP isox,isoy: 926,1465 mintick: 1589355
+Sat Sep 23 14:28:16 2017
+  COMPANYZOOMCHECKED: 0
+Sat Sep 23 14:28:16 2017
+  parsing DATA
+Sat Sep 23 14:28:52 2017
+  creature_swap()
+Sat Sep 23 14:28:52 2017
+  curmap: ZOOMMAP isox,isoy: 926,1465 mintick: 1589361
+Sat Sep 23 14:28:52 2017
+  COMPANYZOOMCHECKED: 0
+Sat Sep 23 14:28:52 2017
+  parsing DATA
+Sat Sep 23 14:28:52 2017
+  #25 cr DATA:1000 -> crpos:0 = Goldeneye
+Sat Sep 23 14:28:52 2017
+  #305 cr DATA:1001 -> crpos:1 = Goldeneye
+Sat Sep 23 14:28:52 2017
+  #306 cr DATA:1002 -> crpos:2 = Goldeneye
+Sat Sep 23 14:28:52 2017
+  #307 cr DATA:1003 -> crpos:3 = Mallard
+Sat Sep 23 14:28:52 2017
+  #716 cr DATA:1004 -> crpos:4 = Kuikka
+Sat Sep 23 14:28:52 2017
+  #746 cr DATA:1005 -> crpos:5 = Goldeneye
+Sat Sep 23 14:28:52 2017
+  #1208 cr DATA:1006 -> crpos:6 = Mallard
+Sat Sep 23 14:28:52 2017
+  #1538 cr DATA:1007 -> crpos:7 = Capercaillie
+Sat Sep 23 14:28:52 2017
+  creature_swap()
+Sat Sep 23 14:28:52 2017
+  curmap: BIGMAP isox,isoy: 928,1466 mintick: 1589361
+Sat Sep 23 14:28:52 2017
+  COMPANYZOOMCHECKED: 0
+Sat Sep 23 14:28:52 2017
+  parsing DATA
+Sat Sep 23 14:29:19 2017
+  creature_swap()
+Sat Sep 23 14:29:19 2017
+  curmap: ZOOMMAP isox,isoy: 928,1466 mintick: 1589365
+Sat Sep 23 14:29:19 2017
+  COMPANYZOOMCHECKED: 0
+Sat Sep 23 14:29:19 2017
+  parsing DATA
+Sat Sep 23 14:29:19 2017
+  #47 cr DATA:1000 -> crpos:0 = Goldeneye
+Sat Sep 23 14:29:19 2017
+  #48 cr DATA:1001 -> crpos:1 = Kuikka
+Sat Sep 23 14:29:19 2017
+  #467 cr DATA:1002 -> crpos:2 = Goldeneye
+Sat Sep 23 14:29:19 2017
+  #468 cr DATA:1003 -> crpos:3 = Mallard
+Sat Sep 23 14:29:19 2017
+  #891 cr DATA:1004 -> crpos:4 = Goldeneye
+Sat Sep 23 14:29:19 2017
+  creature_swap()
+Sat Sep 23 14:29:19 2017
+  curmap: BIGMAP isox,isoy: 927,1468 mintick: 1589365
+Sat Sep 23 14:29:19 2017
+  COMPANYZOOMCHECKED: 0
+Sat Sep 23 14:29:19 2017
+  parsing DATA
+Sat Sep 23 14:29:47 2017
+  creature_swap()
+Sat Sep 23 14:29:47 2017
+  curmap: ZOOMMAP isox,isoy: 927,1468 mintick: 1589371
+Sat Sep 23 14:29:47 2017
+  COMPANYZOOMCHECKED: 0
+Sat Sep 23 14:29:47 2017
+  parsing DATA
+Sat Sep 23 14:29:47 2017
+  #145 cr DATA:1000 -> crpos:0 = Capercaillie
+Sat Sep 23 14:29:47 2017
+  #270 cr DATA:1001 -> crpos:1 = Mallard
+Sat Sep 23 14:29:47 2017
+  #271 cr DATA:1002 -> crpos:2 = Goldeneye
+Sat Sep 23 14:29:47 2017
+  #1748 cr DATA:1003 -> crpos:3 = Mallard
+Sat Sep 23 14:29:47 2017
+  #2173 cr DATA:1004 -> crpos:4 = Willow grouse
+Sat Sep 23 14:29:47 2017
+  creature_swap()
+Sat Sep 23 14:29:47 2017
+  curmap: BIGMAP isox,isoy: 926,1470 mintick: 1589371
+Sat Sep 23 14:29:47 2017
+  COMPANYZOOMCHECKED: 0
+Sat Sep 23 14:29:47 2017
+  parsing DATA
+Sat Sep 23 14:30:24 2017
+  creature_swap()
+Sat Sep 23 14:30:24 2017
+  curmap: ZOOMMAP isox,isoy: 926,1470 mintick: 1589377
+Sat Sep 23 14:30:24 2017
+  COMPANYZOOMCHECKED: 0
+Sat Sep 23 14:30:24 2017
+  parsing DATA
+Sat Sep 23 14:30:24 2017
+  #772 cr DATA:1000 -> crpos:0 = Mallard
+Sat Sep 23 14:30:24 2017
+  creature_swap()
+Sat Sep 23 14:30:24 2017
+  curmap: BIGMAP isox,isoy: 927,1472 mintick: 1589377
+Sat Sep 23 14:30:24 2017
+  COMPANYZOOMCHECKED: 0
+Sat Sep 23 14:30:24 2017
+  parsing DATA
+Sat Sep 23 14:31:09 2017
+  creature_swap()
+Sat Sep 23 14:31:09 2017
+  curmap: ZOOMMAP isox,isoy: 927,1472 mintick: 1589505
+Sat Sep 23 14:31:09 2017
+  COMPANYZOOMCHECKED: 1
+Sat Sep 23 14:31:09 2017
+  parsing DATA
+Sat Sep 23 14:31:09 2017
+  #148 cr DATA:1000 -> crpos:0 = Willow grouse
+Sat Sep 23 14:31:09 2017
+  #565 cr DATA:1001 -> crpos:1 = Squirrel
+Sat Sep 23 14:31:09 2017
+  #755 cr DATA:1002 -> crpos:2 = Willow grouse
+Sat Sep 23 14:31:09 2017
+  #1210 cr DATA:1003 -> crpos:3 = Goldeneye
+Sat Sep 23 14:31:09 2017
+  #1703 cr DATA:1004 -> crpos:4 = Goldeneye
+Sat Sep 23 14:31:09 2017
+  creature_swap()
+Sat Sep 23 14:31:09 2017
+  curmap: ZOOMMAP isox,isoy: 927,1472 mintick: 1589505
+Sat Sep 23 14:31:09 2017
+  COMPANYZOOMCHECKED: 1
+Sat Sep 23 14:31:09 2017
+  parsing DATA
+Sat Sep 23 14:31:09 2017
+  #148 cr DATA:1000 -> crpos:0 = Willow grouse
+Sat Sep 23 14:31:09 2017
+  #565 cr DATA:1001 -> crpos:1 = Squirrel
+Sat Sep 23 14:31:09 2017
+  #755 cr DATA:1002 -> crpos:2 = Willow grouse
+Sat Sep 23 14:31:09 2017
+  #1210 cr DATA:1003 -> crpos:3 = Goldeneye
+Sat Sep 23 14:31:09 2017
+  #1703 cr DATA:1004 -> crpos:4 = Goldeneye
+Sat Sep 23 14:31:31 2017
+  creature_swap()
+Sat Sep 23 14:31:31 2017
+  curmap: BIGMAP isox,isoy: 906,1467 mintick: 1589549
+Sat Sep 23 14:31:31 2017
+  COMPANYZOOMCHECKED: 1
+Sat Sep 23 14:31:31 2017
+  parsing DATA
+Sat Sep 23 14:32:01 2017
+  creature_swap()
+Sat Sep 23 14:32:01 2017
+  curmap: ZOOMMAP isox,isoy: 906,1467 mintick: 1589615
+Sat Sep 23 14:32:01 2017
+  COMPANYZOOMCHECKED: 0
+Sat Sep 23 14:32:01 2017
+  parsing DATA
+Sat Sep 23 14:32:01 2017
+  #908 cr DATA:1000 -> crpos:0 = Hazel grouse
+Sat Sep 23 14:32:01 2017
+  #2158 cr DATA:1001 -> crpos:1 = Hazel grouse
+Sat Sep 23 14:32:01 2017
+  #2159 cr DATA:1002 -> crpos:2 = Hazel grouse
+Sat Sep 23 14:32:01 2017
+  creature_swap()
+Sat Sep 23 14:32:01 2017
+  curmap: BIGMAP isox,isoy: 908,1467 mintick: 1589615
+Sat Sep 23 14:32:01 2017
+  COMPANYZOOMCHECKED: 0
+Sat Sep 23 14:32:01 2017
+  parsing DATA
+Sat Sep 23 14:32:21 2017
+  creature_swap()
+Sat Sep 23 14:32:21 2017
+  curmap: ZOOMMAP isox,isoy: 908,1467 mintick: 1589617
+Sat Sep 23 14:32:21 2017
+  COMPANYZOOMCHECKED: 1
+Sat Sep 23 14:32:21 2017
+  parsing DATA
+Sat Sep 23 14:32:21 2017
+  #701 cr DATA:1000 -> crpos:0 = Hazel grouse
+Sat Sep 23 14:32:21 2017
+  #1286 cr DATA:1001 -> crpos:1 = Hazel grouse
+Sat Sep 23 14:32:21 2017
+  #1729 cr DATA:1002 -> crpos:2 = Hazel grouse
+Sat Sep 23 14:32:21 2017
+  creature_swap()
+Sat Sep 23 14:32:21 2017
+  curmap: ZOOMMAP isox,isoy: 908,1467 mintick: 1589617
+Sat Sep 23 14:32:21 2017
+  COMPANYZOOMCHECKED: 1
+Sat Sep 23 14:32:21 2017
+  parsing DATA
+Sat Sep 23 14:32:21 2017
+  #701 cr DATA:1000 -> crpos:0 = Hazel grouse
+Sat Sep 23 14:32:21 2017
+  #1286 cr DATA:1001 -> crpos:1 = Hazel grouse
+Sat Sep 23 14:32:21 2017
+  #1729 cr DATA:1002 -> crpos:2 = Hazel grouse
+Sat Sep 23 14:32:35 2017
+  creature_swap()
+Sat Sep 23 14:32:35 2017
+  curmap: BIGMAP isox,isoy: 950,1459 mintick: 1589719
+Sat Sep 23 14:32:35 2017
+  COMPANYZOOMCHECKED: 0
+Sat Sep 23 14:32:35 2017
+  parsing DATA
+Sat Sep 23 14:32:35 2017
+  creature_swap()
+Sat Sep 23 14:32:35 2017
+  curmap: BIGMAP isox,isoy: 950,1459 mintick: 1589719
+Sat Sep 23 14:32:35 2017
+  COMPANYZOOMCHECKED: 1
+Sat Sep 23 14:32:35 2017
+  parsing DATA
+Sat Sep 23 16:55:32 2017
+  creature_swap()
+Sat Sep 23 16:55:32 2017
+  curmap: ZOOMMAP isox,isoy: 950,1459 mintick: 1591459
+Sat Sep 23 16:55:32 2017
+  COMPANYZOOMCHECKED: 0
+Sat Sep 23 16:55:32 2017
+  parsing DATA
+Sat Sep 23 16:55:32 2017
+  #1403 cr DATA:1000 -> crpos:0 = Vagabond adventurer
+Sat Sep 23 16:55:32 2017
+  #5991 cr DATA:1001 -> crpos:1 = Dog
+Sat Sep 23 16:55:32 2017
+  #6293 cr DATA:1002 -> crpos:2 = Ram
+Sat Sep 23 16:55:32 2017
+  #6294 cr DATA:1003 -> crpos:3 = Pig
+Sat Sep 23 16:55:32 2017
+  #6295 cr DATA:1004 -> crpos:4 = Reindeer
+Sat Sep 23 16:55:32 2017
+  #6296 cr DATA:1005 -> crpos:5 = Reindeer
+Sat Sep 23 16:55:32 2017
+  #6297 cr DATA:1006 -> crpos:6 = Reindeer
+Sat Sep 23 16:55:32 2017
+  #6298 cr DATA:1007 -> crpos:7 = Reindeer
+Sat Sep 23 16:55:32 2017
+  #6299 cr DATA:1008 -> crpos:8 = Bull
+Sat Sep 23 16:55:32 2017
+  #6300 cr DATA:1009 -> crpos:9 = Reindeer
+Sat Sep 23 16:55:32 2017
+  #6301 cr DATA:1010 -> crpos:10 = Reindeer
+Sat Sep 23 16:55:32 2017
+  #6302 cr DATA:1011 -> crpos:11 = Reindeer
+Sat Sep 23 16:55:32 2017
+  #6303 cr DATA:1012 -> crpos:12 = Reindeer
+Sat Sep 23 16:55:32 2017
+  #6304 cr DATA:1013 -> crpos:13 = Bull
+Sat Sep 23 16:55:32 2017
+  #6305 cr DATA:1014 -> crpos:14 = Reindeer
+Sat Sep 23 16:55:32 2017
+  #6306 cr DATA:1015 -> crpos:15 = Sheep
+Sat Sep 23 16:55:33 2017
+  partystack #0 T:1 D:50558 C:1
+Sat Sep 23 16:55:33 2017
+  creature_swap()
+Sat Sep 23 16:55:33 2017
+  curmap: BIGMAP isox,isoy: 951,1457 mintick: 1591459
+Sat Sep 23 16:55:33 2017
+  COMPANYZOOMCHECKED: 0
+Sat Sep 23 16:55:33 2017
+  parsing DATA
+Sat Sep 23 16:55:33 2017
+  partystack #0 T:1 D:50558 C:1
+Sat Sep 23 16:56:08 2017
+  creature_swap()
+Sat Sep 23 16:56:08 2017
+  curmap: ZOOMMAP isox,isoy: 951,1457 mintick: 1591467
+Sat Sep 23 16:56:08 2017
+  COMPANYZOOMCHECKED: 0
+Sat Sep 23 16:56:08 2017
+  parsing DATA
+Sat Sep 23 16:56:08 2017
+  #4333 cr DATA:1000 -> crpos:0 = Dog
+Sat Sep 23 16:56:08 2017
+  #4635 cr DATA:1001 -> crpos:1 = Ram
+Sat Sep 23 16:56:08 2017
+  #4636 cr DATA:1002 -> crpos:2 = Pig
+Sat Sep 23 16:56:08 2017
+  #4637 cr DATA:1003 -> crpos:3 = Reindeer
+Sat Sep 23 16:56:08 2017
+  #4638 cr DATA:1004 -> crpos:4 = Reindeer
+Sat Sep 23 16:56:08 2017
+  #4639 cr DATA:1005 -> crpos:5 = Reindeer
+Sat Sep 23 16:56:08 2017
+  #4640 cr DATA:1006 -> crpos:6 = Reindeer
+Sat Sep 23 16:56:08 2017
+  #4641 cr DATA:1007 -> crpos:7 = Bull
+Sat Sep 23 16:56:08 2017
+  #4642 cr DATA:1008 -> crpos:8 = Reindeer
+Sat Sep 23 16:56:08 2017
+  #4643 cr DATA:1009 -> crpos:9 = Reindeer
+Sat Sep 23 16:56:08 2017
+  #4644 cr DATA:1010 -> crpos:10 = Reindeer
+Sat Sep 23 16:56:08 2017
+  #4645 cr DATA:1011 -> crpos:11 = Reindeer
+Sat Sep 23 16:56:08 2017
+  #4646 cr DATA:1012 -> crpos:12 = Bull
+Sat Sep 23 16:56:08 2017
+  #4647 cr DATA:1013 -> crpos:13 = Reindeer
+Sat Sep 23 16:56:08 2017
+  #4648 cr DATA:1014 -> crpos:14 = Sheep
+Sat Sep 23 16:56:08 2017
+  partystack #0 T:1 D:50558 C:1
+Sat Sep 23 16:56:08 2017
+  creature_swap()
+Sat Sep 23 16:56:08 2017
+  curmap: BIGMAP isox,isoy: 953,1456 mintick: 1591467
+Sat Sep 23 16:56:08 2017
+  COMPANYZOOMCHECKED: 0
+Sat Sep 23 16:56:08 2017
+  parsing DATA
+Sat Sep 23 16:56:08 2017
+  partystack #0 T:1 D:50558 C:1
+Sat Sep 23 16:56:45 2017
+  creature_swap()
+Sat Sep 23 16:56:45 2017
+  curmap: ZOOMMAP isox,isoy: 953,1456 mintick: 1591474
+Sat Sep 23 16:56:45 2017
+  COMPANYZOOMCHECKED: 1
+Sat Sep 23 16:56:45 2017
+  parsing DATA
+Sat Sep 23 16:56:45 2017
+  #3662 cr DATA:1000 -> crpos:0 = Squirrel
+Sat Sep 23 16:56:45 2017
+  #3663 cr DATA:1001 -> crpos:1 = Eagle owl
+Sat Sep 23 16:56:45 2017
+  creature_swap()
+Sat Sep 23 16:56:45 2017
+  curmap: ZOOMMAP isox,isoy: 953,1456 mintick: 1591474
+Sat Sep 23 16:56:45 2017
+  COMPANYZOOMCHECKED: 1
+Sat Sep 23 16:56:45 2017
+  parsing DATA
+Sat Sep 23 16:56:45 2017
+  #3662 cr DATA:1000 -> crpos:0 = Squirrel
+Sat Sep 23 16:56:45 2017
+  #3663 cr DATA:1001 -> crpos:1 = Eagle owl
+Sat Sep 23 16:56:46 2017
+  partystack #0 T:1 D:50558 C:1
+Sat Sep 23 16:57:45 2017
+  creature_swap()
+Sat Sep 23 16:57:45 2017
+  curmap: BIGMAP isox,isoy: 1023,1399 mintick: 1591697
+Sat Sep 23 16:57:45 2017
+  COMPANYZOOMCHECKED: 1
+Sat Sep 23 16:57:45 2017
+  parsing DATA
+Sat Sep 23 16:57:46 2017
+  partystack #0 T:1 D:50558 C:1
+Sat Sep 23 16:58:05 2017
+  creature_swap()
+Sat Sep 23 16:58:05 2017
+  curmap: ZOOMMAP isox,isoy: 1023,1399 mintick: 1591702
+Sat Sep 23 16:58:05 2017
+  COMPANYZOOMCHECKED: 0
+Sat Sep 23 16:58:05 2017
+  parsing DATA
+Sat Sep 23 16:58:05 2017
+  #886 cr DATA:1000 -> crpos:0 = Kuikka
+Sat Sep 23 16:58:05 2017
+  #887 cr DATA:1001 -> crpos:1 = Kuikka
+Sat Sep 23 16:58:05 2017
+  #888 cr DATA:1002 -> crpos:2 = Kuikka
+Sat Sep 23 16:58:05 2017
+  partystack #0 T:1 D:50558 C:1
+Sat Sep 23 16:58:06 2017
+  creature_swap()
+Sat Sep 23 16:58:06 2017
+  curmap: BIGMAP isox,isoy: 1023,1401 mintick: 1591702
+Sat Sep 23 16:58:06 2017
+  COMPANYZOOMCHECKED: 0
+Sat Sep 23 16:58:06 2017
+  parsing DATA
+Sat Sep 23 16:58:06 2017
+  partystack #0 T:1 D:50558 C:1
+Sat Sep 23 16:58:41 2017
+  creature_swap()
+Sat Sep 23 16:58:41 2017
+  curmap: ZOOMMAP isox,isoy: 1023,1401 mintick: 1591706
+Sat Sep 23 16:58:41 2017
+  COMPANYZOOMCHECKED: 0
+Sat Sep 23 16:58:41 2017
+  parsing DATA
+Sat Sep 23 16:58:41 2017
+  #188 cr DATA:1000 -> crpos:0 = Kuikka
+Sat Sep 23 16:58:41 2017
+  #189 cr DATA:1001 -> crpos:1 = Kuikka
+Sat Sep 23 16:58:41 2017
+  #1454 cr DATA:1002 -> crpos:2 = Badger
+Sat Sep 23 16:58:41 2017
+  partystack #0 T:1 D:50558 C:1
+Sat Sep 23 16:58:41 2017
+  creature_swap()
+Sat Sep 23 16:58:41 2017
+  curmap: BIGMAP isox,isoy: 1025,1401 mintick: 1591706
+Sat Sep 23 16:58:41 2017
+  COMPANYZOOMCHECKED: 0
+Sat Sep 23 16:58:41 2017
+  parsing DATA
+Sat Sep 23 16:58:42 2017
+  partystack #0 T:1 D:50558 C:1
+Sat Sep 23 16:59:01 2017
+  creature_swap()
+Sat Sep 23 16:59:01 2017
+  curmap: ZOOMMAP isox,isoy: 1025,1401 mintick: 1591711
+Sat Sep 23 16:59:01 2017
+  COMPANYZOOMCHECKED: 0
+Sat Sep 23 16:59:01 2017
+  parsing DATA
+Sat Sep 23 16:59:01 2017
+  #0 cr DATA:1000 -> crpos:0 = Kuikka
+Sat Sep 23 16:59:01 2017
+  #1 cr DATA:1001 -> crpos:1 = Kuikka
+Sat Sep 23 16:59:01 2017
+  partystack #0 T:1 D:50558 C:1
+Sat Sep 23 16:59:01 2017
+  creature_swap()
+Sat Sep 23 16:59:01 2017
+  curmap: BIGMAP isox,isoy: 1023,1402 mintick: 1591711
+Sat Sep 23 16:59:01 2017
+  COMPANYZOOMCHECKED: 0
+Sat Sep 23 16:59:01 2017
+  parsing DATA
+Sat Sep 23 16:59:01 2017
+  partystack #0 T:1 D:50558 C:1
+Sat Sep 23 16:59:14 2017
+  creature_swap()
+Sat Sep 23 16:59:14 2017
+  curmap: ZOOMMAP isox,isoy: 1023,1402 mintick: 1591714
+Sat Sep 23 16:59:14 2017
+  COMPANYZOOMCHECKED: 0
+Sat Sep 23 16:59:14 2017
+  parsing DATA
+Sat Sep 23 16:59:14 2017
+  partystack #0 T:1 D:50558 C:1
+Sat Sep 23 16:59:15 2017
+  creature_swap()
+Sat Sep 23 16:59:15 2017
+  curmap: BIGMAP isox,isoy: 1023,1404 mintick: 1591714
+Sat Sep 23 16:59:15 2017
+  COMPANYZOOMCHECKED: 0
+Sat Sep 23 16:59:15 2017
+  parsing DATA
+Sat Sep 23 16:59:15 2017
+  partystack #0 T:1 D:50558 C:1
+Sat Sep 23 16:59:37 2017
+  creature_swap()
+Sat Sep 23 16:59:37 2017
+  curmap: ZOOMMAP isox,isoy: 1023,1404 mintick: 1591722
+Sat Sep 23 16:59:37 2017
+  COMPANYZOOMCHECKED: 0
+Sat Sep 23 16:59:37 2017
+  parsing DATA
+Sat Sep 23 16:59:37 2017
+  #2004 cr DATA:1000 -> crpos:0 = Stag
+Sat Sep 23 16:59:37 2017
+  #2005 cr DATA:1001 -> crpos:1 = Hazel grouse
+Sat Sep 23 16:59:37 2017
+  #2006 cr DATA:1002 -> crpos:2 = Hazel grouse
+Sat Sep 23 16:59:37 2017
+  #2007 cr DATA:1003 -> crpos:3 = Hazel grouse
+Sat Sep 23 16:59:37 2017
+  #2008 cr DATA:1004 -> crpos:4 = Raven
+Sat Sep 23 16:59:37 2017
+  #2009 cr DATA:1005 -> crpos:5 = Raven
+Sat Sep 23 16:59:37 2017
+  #2010 cr DATA:1006 -> crpos:6 = Willow grouse
+Sat Sep 23 16:59:37 2017
+  partystack #0 T:1 D:50558 C:1
+Sat Sep 23 16:59:37 2017
+  creature_swap()
+Sat Sep 23 16:59:37 2017
+  curmap: BIGMAP isox,isoy: 1025,1405 mintick: 1591722
+Sat Sep 23 16:59:37 2017
+  COMPANYZOOMCHECKED: 0
+Sat Sep 23 16:59:37 2017
+  parsing DATA
+Sat Sep 23 16:59:38 2017
+  partystack #0 T:1 D:50558 C:1
+Sat Sep 23 16:59:46 2017
+  creature_swap()
+Sat Sep 23 16:59:46 2017
+  curmap: ZOOMMAP isox,isoy: 1025,1405 mintick: 1591723
+Sat Sep 23 16:59:46 2017
+  COMPANYZOOMCHECKED: 1
+Sat Sep 23 16:59:46 2017
+  parsing DATA
+Sat Sep 23 16:59:46 2017
+  #115 cr DATA:1000 -> crpos:0 = Hazel grouse
+Sat Sep 23 16:59:46 2017
+  #120 cr DATA:1001 -> crpos:1 = Hazel grouse
+Sat Sep 23 16:59:46 2017
+  #372 cr DATA:1002 -> crpos:2 = Stag
+Sat Sep 23 16:59:46 2017
+  #1486 cr DATA:1003 -> crpos:3 = Goldeneye
+Sat Sep 23 16:59:46 2017
+  #1487 cr DATA:1004 -> crpos:4 = Goldeneye
+Sat Sep 23 16:59:46 2017
+  #1488 cr DATA:1005 -> crpos:5 = Goldeneye
+Sat Sep 23 16:59:46 2017
+  creature_swap()
+Sat Sep 23 16:59:46 2017
+  curmap: ZOOMMAP isox,isoy: 1025,1405 mintick: 1591723
+Sat Sep 23 16:59:46 2017
+  COMPANYZOOMCHECKED: 1
+Sat Sep 23 16:59:46 2017
+  parsing DATA
+Sat Sep 23 16:59:46 2017
+  #115 cr DATA:1000 -> crpos:0 = Hazel grouse
+Sat Sep 23 16:59:46 2017
+  #120 cr DATA:1001 -> crpos:1 = Hazel grouse
+Sat Sep 23 16:59:46 2017
+  #372 cr DATA:1002 -> crpos:2 = Stag
+Sat Sep 23 16:59:46 2017
+  #1486 cr DATA:1003 -> crpos:3 = Goldeneye
+Sat Sep 23 16:59:46 2017
+  #1487 cr DATA:1004 -> crpos:4 = Goldeneye
+Sat Sep 23 16:59:46 2017
+  #1488 cr DATA:1005 -> crpos:5 = Goldeneye
+Sat Sep 23 16:59:46 2017
+  partystack #0 T:1 D:50558 C:1
+Sat Sep 23 17:00:58 2017
+  creature_swap()
+Sat Sep 23 17:00:58 2017
+  curmap: BIGMAP isox,isoy: 926,1484 mintick: 1591998
+Sat Sep 23 17:00:58 2017
+  COMPANYZOOMCHECKED: 1
+Sat Sep 23 17:00:58 2017
+  parsing DATA
+Sat Sep 23 17:00:59 2017
+  partystack #0 T:1 D:50558 C:1
+Sat Sep 23 17:01:06 2017
+  creature_swap()
+Sat Sep 23 17:01:06 2017
+  curmap: ZOOMMAP isox,isoy: 926,1484 mintick: 1591999
+Sat Sep 23 17:01:06 2017
+  COMPANYZOOMCHECKED: 1
+Sat Sep 23 17:01:06 2017
+  parsing DATA
+Sat Sep 23 17:01:06 2017
+  #1155 cr DATA:1000 -> crpos:0 = Arctic fox
+Sat Sep 23 17:01:06 2017
+  creature_swap()
+Sat Sep 23 17:01:06 2017
+  curmap: ZOOMMAP isox,isoy: 926,1484 mintick: 1591999
+Sat Sep 23 17:01:06 2017
+  COMPANYZOOMCHECKED: 1
+Sat Sep 23 17:01:06 2017
+  parsing DATA
+Sat Sep 23 17:01:06 2017
+  #1155 cr DATA:1000 -> crpos:0 = Arctic fox
+Sat Sep 23 17:01:07 2017
+  partystack #0 T:1 D:50558 C:1
+Sat Sep 23 17:01:22 2017
+  creature_swap()
+Sat Sep 23 17:01:22 2017
+  curmap: BIGMAP isox,isoy: 933,1498 mintick: 1592057
+Sat Sep 23 17:01:22 2017
+  COMPANYZOOMCHECKED: 1
+Sat Sep 23 17:01:22 2017
+  parsing DATA
+Sat Sep 23 17:01:22 2017
+  partystack #0 T:1 D:50558 C:1
+Sat Sep 23 17:02:08 2017
+  creature_swap()
+Sat Sep 23 17:02:08 2017
+  curmap: ZOOMMAP isox,isoy: 933,1498 mintick: 1592099
+Sat Sep 23 17:02:08 2017
+  COMPANYZOOMCHECKED: 1
+Sat Sep 23 17:02:08 2017
+  parsing DATA
+Sat Sep 23 17:02:08 2017
+  #2943 cr DATA:1000 -> crpos:0 = Goldeneye
+Sat Sep 23 17:02:08 2017
+  creature_swap()
+Sat Sep 23 17:02:08 2017
+  curmap: ZOOMMAP isox,isoy: 933,1498 mintick: 1592099
+Sat Sep 23 17:02:08 2017
+  COMPANYZOOMCHECKED: 1
+Sat Sep 23 17:02:08 2017
+  parsing DATA
+Sat Sep 23 17:02:08 2017
+  #2943 cr DATA:1000 -> crpos:0 = Goldeneye
+Sat Sep 23 17:02:08 2017
+  partystack #0 T:1 D:50558 C:1
+Sat Sep 23 17:02:38 2017
+  creature_swap()
+Sat Sep 23 17:02:38 2017
+  curmap: BIGMAP isox,isoy: 950,1460 mintick: 1592391
+Sat Sep 23 17:02:38 2017
+  COMPANYZOOMCHECKED: 1
+Sat Sep 23 17:02:38 2017
+  parsing DATA
+Sat Sep 23 17:02:39 2017
+  partystack #0 T:1 D:50558 C:1
+Sat Sep 23 18:43:31 2017
+  creature_swap()
+Sat Sep 23 18:43:31 2017
+  curmap: ZOOMMAP isox,isoy: 950,1460 mintick: 1593260
+Sat Sep 23 18:43:31 2017
+  COMPANYZOOMCHECKED: 0
+Sat Sep 23 18:43:31 2017
+  parsing DATA
+Sat Sep 23 18:43:31 2017
+  #2512 cr DATA:1001 -> crpos:1 = Dog
+Sat Sep 23 18:43:31 2017
+  #2814 cr DATA:1002 -> crpos:2 = Ram
+Sat Sep 23 18:43:31 2017
+  #2815 cr DATA:1003 -> crpos:3 = Pig
+Sat Sep 23 18:43:31 2017
+  #2816 cr DATA:1004 -> crpos:4 = Reindeer
+Sat Sep 23 18:43:31 2017
+  #2817 cr DATA:1005 -> crpos:5 = Reindeer
+Sat Sep 23 18:43:31 2017
+  #2818 cr DATA:1006 -> crpos:6 = Reindeer
+Sat Sep 23 18:43:31 2017
+  #2819 cr DATA:1007 -> crpos:7 = Reindeer
+Sat Sep 23 18:43:31 2017
+  #2820 cr DATA:1008 -> crpos:8 = Bull
+Sat Sep 23 18:43:31 2017
+  #2821 cr DATA:1009 -> crpos:9 = Reindeer
+Sat Sep 23 18:43:31 2017
+  #2822 cr DATA:1010 -> crpos:10 = Reindeer
+Sat Sep 23 18:43:31 2017
+  #2823 cr DATA:1011 -> crpos:11 = Reindeer
+Sat Sep 23 18:43:31 2017
+  #2824 cr DATA:1012 -> crpos:12 = Reindeer
+Sat Sep 23 18:43:31 2017
+  #2825 cr DATA:1013 -> crpos:13 = Bull
+Sat Sep 23 18:43:31 2017
+  #2826 cr DATA:1014 -> crpos:14 = Reindeer
+Sat Sep 23 18:43:31 2017
+  #2827 cr DATA:1015 -> crpos:15 = Sheep
+Sat Sep 23 18:43:31 2017
+  #3708 cr DATA:1016 -> crpos:16 = Squirrel
+Sat Sep 23 18:43:31 2017
+  #5127 cr DATA:1019 -> crpos:19 = Willow grouse
+Sat Sep 23 18:43:31 2017
+  creature_swap()
+Sat Sep 23 18:43:31 2017
+  curmap: BIGMAP isox,isoy: 950,1458 mintick: 1593260
+Sat Sep 23 18:43:31 2017
+  COMPANYZOOMCHECKED: 0
+Sat Sep 23 18:43:31 2017
+  parsing DATA
+Sat Sep 23 20:08:52 2017
+  creature_swap()
+Sat Sep 23 20:08:52 2017
+  curmap: ZOOMMAP isox,isoy: 950,1458 mintick: 1594755
+Sat Sep 23 20:08:52 2017
+  COMPANYZOOMCHECKED: 1
+Sat Sep 23 20:08:52 2017
+  parsing DATA
+Sat Sep 23 20:08:52 2017
+  #147 cr DATA:1000 -> crpos:0 = Vagabond adventurer
+Sat Sep 23 20:08:52 2017
+  #7103 cr DATA:1001 -> crpos:1 = Dog
+Sat Sep 23 20:08:52 2017
+  #7403 cr DATA:1002 -> crpos:2 = Ram
+Sat Sep 23 20:08:52 2017
+  #7404 cr DATA:1003 -> crpos:3 = Pig
+Sat Sep 23 20:08:52 2017
+  #7405 cr DATA:1004 -> crpos:4 = Reindeer
+Sat Sep 23 20:08:52 2017
+  #7406 cr DATA:1005 -> crpos:5 = Reindeer
+Sat Sep 23 20:08:52 2017
+  #7407 cr DATA:1006 -> crpos:6 = Reindeer
+Sat Sep 23 20:08:52 2017
+  #7408 cr DATA:1007 -> crpos:7 = Reindeer
+Sat Sep 23 20:08:52 2017
+  #7409 cr DATA:1008 -> crpos:8 = Bull
+Sat Sep 23 20:08:52 2017
+  #7410 cr DATA:1009 -> crpos:9 = Reindeer
+Sat Sep 23 20:08:52 2017
+  #7411 cr DATA:1010 -> crpos:10 = Reindeer
+Sat Sep 23 20:08:52 2017
+  #7412 cr DATA:1011 -> crpos:11 = Reindeer
+Sat Sep 23 20:08:52 2017
+  #7413 cr DATA:1012 -> crpos:12 = Reindeer
+Sat Sep 23 20:08:52 2017
+  #7414 cr DATA:1013 -> crpos:13 = Bull
+Sat Sep 23 20:08:52 2017
+  #7415 cr DATA:1014 -> crpos:14 = Reindeer
+Sat Sep 23 20:08:52 2017
+  #7416 cr DATA:1015 -> crpos:15 = Sheep
+Sat Sep 23 20:08:52 2017
+  #8297 cr DATA:1016 -> crpos:16 = Willow grouse
+Sat Sep 23 20:08:52 2017
+  creature_swap()
+Sat Sep 23 20:08:52 2017
+  curmap: ZOOMMAP isox,isoy: 950,1458 mintick: 1594755
+Sat Sep 23 20:08:52 2017
+  COMPANYZOOMCHECKED: 1
+Sat Sep 23 20:08:52 2017
+  parsing DATA
+Sat Sep 23 20:08:52 2017
+  #147 cr DATA:1000 -> crpos:0 = Vagabond adventurer
+Sat Sep 23 20:08:52 2017
+  #7103 cr DATA:1001 -> crpos:1 = Dog
+Sat Sep 23 20:08:52 2017
+  #7403 cr DATA:1002 -> crpos:2 = Ram
+Sat Sep 23 20:08:52 2017
+  #7404 cr DATA:1003 -> crpos:3 = Pig
+Sat Sep 23 20:08:52 2017
+  #7405 cr DATA:1004 -> crpos:4 = Reindeer
+Sat Sep 23 20:08:52 2017
+  #7406 cr DATA:1005 -> crpos:5 = Reindeer
+Sat Sep 23 20:08:52 2017
+  #7407 cr DATA:1006 -> crpos:6 = Reindeer
+Sat Sep 23 20:08:52 2017
+  #7408 cr DATA:1007 -> crpos:7 = Reindeer
+Sat Sep 23 20:08:52 2017
+  #7409 cr DATA:1008 -> crpos:8 = Bull
+Sat Sep 23 20:08:52 2017
+  #7410 cr DATA:1009 -> crpos:9 = Reindeer
+Sat Sep 23 20:08:52 2017
+  #7411 cr DATA:1010 -> crpos:10 = Reindeer
+Sat Sep 23 20:08:52 2017
+  #7412 cr DATA:1011 -> crpos:11 = Reindeer
+Sat Sep 23 20:08:52 2017
+  #7413 cr DATA:1012 -> crpos:12 = Reindeer
+Sat Sep 23 20:08:52 2017
+  #7414 cr DATA:1013 -> crpos:13 = Bull
+Sat Sep 23 20:08:52 2017
+  #7415 cr DATA:1014 -> crpos:14 = Reindeer
+Sat Sep 23 20:08:52 2017
+  #7416 cr DATA:1015 -> crpos:15 = Sheep
+Sat Sep 23 20:08:52 2017
+  #8297 cr DATA:1016 -> crpos:16 = Willow grouse
+Sat Sep 23 20:08:54 2017
+  creature_swap()
+Sat Sep 23 20:08:54 2017
+  curmap: BIGMAP isox,isoy: 950,1459 mintick: 1594757
+Sat Sep 23 20:08:54 2017
+  COMPANYZOOMCHECKED: 0
+Sat Sep 23 20:08:54 2017
+  parsing DATA
+Sat Sep 23 20:08:54 2017
+  creature_swap()
+Sat Sep 23 20:08:54 2017
+  curmap: BIGMAP isox,isoy: 950,1459 mintick: 1594757
+Sat Sep 23 20:08:54 2017
+  COMPANYZOOMCHECKED: 1
+Sat Sep 23 20:08:54 2017
+  parsing DATA
+Sat Sep 23 20:14:24 2017
+  creature_swap()
+Sat Sep 23 20:14:24 2017
+  curmap: ZOOMMAP isox,isoy: 950,1459 mintick: 1594762
+Sat Sep 23 20:14:24 2017
+  COMPANYZOOMCHECKED: 1
+Sat Sep 23 20:14:24 2017
+  parsing DATA
+Sat Sep 23 20:14:24 2017
+  #5921 cr DATA:1000 -> crpos:0 = Dog
+Sat Sep 23 20:14:24 2017
+  #6221 cr DATA:1001 -> crpos:1 = Ram
+Sat Sep 23 20:14:24 2017
+  #6222 cr DATA:1002 -> crpos:2 = Pig
+Sat Sep 23 20:14:24 2017
+  #6223 cr DATA:1003 -> crpos:3 = Reindeer
+Sat Sep 23 20:14:24 2017
+  #6224 cr DATA:1004 -> crpos:4 = Reindeer
+Sat Sep 23 20:14:24 2017
+  #6225 cr DATA:1005 -> crpos:5 = Reindeer
+Sat Sep 23 20:14:24 2017
+  #6226 cr DATA:1006 -> crpos:6 = Reindeer
+Sat Sep 23 20:14:24 2017
+  #6227 cr DATA:1007 -> crpos:7 = Bull
+Sat Sep 23 20:14:24 2017
+  #6228 cr DATA:1008 -> crpos:8 = Reindeer
+Sat Sep 23 20:14:24 2017
+  #6229 cr DATA:1009 -> crpos:9 = Reindeer
+Sat Sep 23 20:14:24 2017
+  #6230 cr DATA:1010 -> crpos:10 = Reindeer
+Sat Sep 23 20:14:24 2017
+  #6231 cr DATA:1011 -> crpos:11 = Reindeer
+Sat Sep 23 20:14:24 2017
+  #6232 cr DATA:1012 -> crpos:12 = Bull
+Sat Sep 23 20:14:24 2017
+  #6233 cr DATA:1013 -> crpos:13 = Reindeer
+Sat Sep 23 20:14:24 2017
+  #6234 cr DATA:1014 -> crpos:14 = Sheep
+Sat Sep 23 20:14:24 2017
+  #7115 cr DATA:1015 -> crpos:15 = Willow grouse
+Sat Sep 23 20:14:24 2017
+  creature_swap()
+Sat Sep 23 20:14:24 2017
+  curmap: ZOOMMAP isox,isoy: 950,1459 mintick: 1594762
+Sat Sep 23 20:14:24 2017
+  COMPANYZOOMCHECKED: 1
+Sat Sep 23 20:14:24 2017
+  parsing DATA
+Sat Sep 23 20:14:24 2017
+  #5921 cr DATA:1000 -> crpos:0 = Dog
+Sat Sep 23 20:14:24 2017
+  #6221 cr DATA:1001 -> crpos:1 = Ram
+Sat Sep 23 20:14:24 2017
+  #6222 cr DATA:1002 -> crpos:2 = Pig
+Sat Sep 23 20:14:24 2017
+  #6223 cr DATA:1003 -> crpos:3 = Reindeer
+Sat Sep 23 20:14:24 2017
+  #6224 cr DATA:1004 -> crpos:4 = Reindeer
+Sat Sep 23 20:14:24 2017
+  #6225 cr DATA:1005 -> crpos:5 = Reindeer
+Sat Sep 23 20:14:24 2017
+  #6226 cr DATA:1006 -> crpos:6 = Reindeer
+Sat Sep 23 20:14:24 2017
+  #6227 cr DATA:1007 -> crpos:7 = Bull
+Sat Sep 23 20:14:24 2017
+  #6228 cr DATA:1008 -> crpos:8 = Reindeer
+Sat Sep 23 20:14:24 2017
+  #6229 cr DATA:1009 -> crpos:9 = Reindeer
+Sat Sep 23 20:14:24 2017
+  #6230 cr DATA:1010 -> crpos:10 = Reindeer
+Sat Sep 23 20:14:24 2017
+  #6231 cr DATA:1011 -> crpos:11 = Reindeer
+Sat Sep 23 20:14:24 2017
+  #6232 cr DATA:1012 -> crpos:12 = Bull
+Sat Sep 23 20:14:24 2017
+  #6233 cr DATA:1013 -> crpos:13 = Reindeer
+Sat Sep 23 20:14:24 2017
+  #6234 cr DATA:1014 -> crpos:14 = Sheep
+Sat Sep 23 20:14:24 2017
+  #7115 cr DATA:1015 -> crpos:15 = Willow grouse
+Sat Sep 23 20:14:25 2017
+  creature_swap()
+Sat Sep 23 20:14:25 2017
+  curmap: BIGMAP isox,isoy: 950,1459 mintick: 1594764
+Sat Sep 23 20:14:25 2017
+  COMPANYZOOMCHECKED: 0
+Sat Sep 23 20:14:25 2017
+  parsing DATA
+Sat Sep 23 20:14:25 2017
+  creature_swap()
+Sat Sep 23 20:14:25 2017
+  curmap: BIGMAP isox,isoy: 950,1459 mintick: 1594764
+Sat Sep 23 20:14:25 2017
+  COMPANYZOOMCHECKED: 1
+Sat Sep 23 20:14:25 2017
+  parsing DATA
