@@ -16,6 +16,7 @@
 #23 - Shutter -- truetile/ter-shutter
 #24 - Alder -- truetile/ter-alder
 #28 - Bench -- truetile/ter-bench
+#29 - ant nest -- truetile/ter-antnest
 #30 - Camp -- truetile/ter-kotacamp
 #31 - Shelter -- truetile/ter-shelter
 **** ERROR, no ter-tile: #32 -  -- truetile/

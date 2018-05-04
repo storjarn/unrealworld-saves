@@ -1,926 +1,234 @@
-Sat Feb  3 22:29:36 2018
+Thu May  3 21:57:27 2018
   creature_swap()
-Sat Feb  3 22:29:36 2018
-  curmap: ZOOMMAP isox,isoy: 950,1459 mintick: 1662064
-Sat Feb  3 22:29:36 2018
-  COMPANYZOOMCHECKED: 1
-Sat Feb  3 22:29:36 2018
-  parsing DATA
-Sat Feb  3 22:29:36 2018
-  #3322 cr DATA:1000 -> crpos:0 = Elk
-Sat Feb  3 22:29:36 2018
-  #3684 cr DATA:1001 -> crpos:1 = Bull
-Sat Feb  3 22:29:36 2018
-  #4019 cr DATA:1002 -> crpos:2 = Ram
-Sat Feb  3 22:29:36 2018
-  #4020 cr DATA:1003 -> crpos:3 = Pig
-Sat Feb  3 22:29:36 2018
-  #4021 cr DATA:1004 -> crpos:4 = Reindeer
-Sat Feb  3 22:29:36 2018
-  #4022 cr DATA:1005 -> crpos:5 = Reindeer
-Sat Feb  3 22:29:36 2018
-  #4023 cr DATA:1006 -> crpos:6 = Reindeer
-Sat Feb  3 22:29:36 2018
-  #4024 cr DATA:1007 -> crpos:7 = Bull
-Sat Feb  3 22:29:36 2018
-  #4025 cr DATA:1008 -> crpos:8 = Reindeer
-Sat Feb  3 22:29:36 2018
-  #4026 cr DATA:1009 -> crpos:9 = Reindeer
-Sat Feb  3 22:29:36 2018
-  #4027 cr DATA:1010 -> crpos:10 = Reindeer
-Sat Feb  3 22:29:36 2018
-  #4028 cr DATA:1011 -> crpos:11 = Reindeer
-Sat Feb  3 22:29:36 2018
-  #4029 cr DATA:1012 -> crpos:12 = Reindeer
-Sat Feb  3 22:29:36 2018
-  #4030 cr DATA:1013 -> crpos:13 = Sheep
-Sat Feb  3 22:29:36 2018
-  #5123 cr DATA:1014 -> crpos:14 = Dog
-Sat Feb  3 22:29:36 2018
-  #5304 cr DATA:1015 -> crpos:15 = Dog
-Sat Feb  3 22:29:36 2018
-  #5305 cr DATA:1016 -> crpos:16 = Dog
-Sat Feb  3 22:29:36 2018
-  #5306 cr DATA:1017 -> crpos:17 = Dog
-Sat Feb  3 22:29:36 2018
-  #5307 cr DATA:1018 -> crpos:18 = Dog
-Sat Feb  3 22:29:36 2018
-  #5308 cr DATA:1019 -> crpos:19 = Dog
-Sat Feb  3 22:29:36 2018
-  #5309 cr DATA:1020 -> crpos:20 = Reindeer
-Sat Feb  3 22:29:36 2018
-  creature_swap()
-Sat Feb  3 22:29:36 2018
-  curmap: ZOOMMAP isox,isoy: 950,1459 mintick: 1662064
-Sat Feb  3 22:29:36 2018
-  COMPANYZOOMCHECKED: 1
-Sat Feb  3 22:29:36 2018
-  parsing DATA
-Sat Feb  3 22:29:36 2018
-  #3322 cr DATA:1000 -> crpos:0 = Elk
-Sat Feb  3 22:29:36 2018
-  #3684 cr DATA:1001 -> crpos:1 = Bull
-Sat Feb  3 22:29:36 2018
-  #4019 cr DATA:1002 -> crpos:2 = Ram
-Sat Feb  3 22:29:36 2018
-  #4020 cr DATA:1003 -> crpos:3 = Pig
-Sat Feb  3 22:29:36 2018
-  #4021 cr DATA:1004 -> crpos:4 = Reindeer
-Sat Feb  3 22:29:36 2018
-  #4022 cr DATA:1005 -> crpos:5 = Reindeer
-Sat Feb  3 22:29:36 2018
-  #4023 cr DATA:1006 -> crpos:6 = Reindeer
-Sat Feb  3 22:29:36 2018
-  #4024 cr DATA:1007 -> crpos:7 = Bull
-Sat Feb  3 22:29:36 2018
-  #4025 cr DATA:1008 -> crpos:8 = Reindeer
-Sat Feb  3 22:29:36 2018
-  #4026 cr DATA:1009 -> crpos:9 = Reindeer
-Sat Feb  3 22:29:36 2018
-  #4027 cr DATA:1010 -> crpos:10 = Reindeer
-Sat Feb  3 22:29:36 2018
-  #4028 cr DATA:1011 -> crpos:11 = Reindeer
-Sat Feb  3 22:29:36 2018
-  #4029 cr DATA:1012 -> crpos:12 = Reindeer
-Sat Feb  3 22:29:36 2018
-  #4030 cr DATA:1013 -> crpos:13 = Sheep
-Sat Feb  3 22:29:36 2018
-  #5123 cr DATA:1014 -> crpos:14 = Dog
-Sat Feb  3 22:29:36 2018
-  #5304 cr DATA:1015 -> crpos:15 = Dog
-Sat Feb  3 22:29:36 2018
-  #5305 cr DATA:1016 -> crpos:16 = Dog
-Sat Feb  3 22:29:36 2018
-  #5306 cr DATA:1017 -> crpos:17 = Dog
-Sat Feb  3 22:29:36 2018
-  #5307 cr DATA:1018 -> crpos:18 = Dog
-Sat Feb  3 22:29:36 2018
-  #5308 cr DATA:1019 -> crpos:19 = Dog
-Sat Feb  3 22:29:36 2018
-  #5309 cr DATA:1020 -> crpos:20 = Reindeer
-Sat Feb  3 22:29:37 2018
-  creature_swap()
-Sat Feb  3 22:29:37 2018
-  curmap: BIGMAP isox,isoy: 948,1457 mintick: 1662068
-Sat Feb  3 22:29:37 2018
-  COMPANYZOOMCHECKED: 1
-Sat Feb  3 22:29:37 2018
-  parsing DATA
-Sat Feb  3 22:29:51 2018
-  creature_swap()
-Sat Feb  3 22:29:51 2018
-  curmap: ZOOMMAP isox,isoy: 948,1457 mintick: 1662069
-Sat Feb  3 22:29:51 2018
-  COMPANYZOOMCHECKED: 1
-Sat Feb  3 22:29:51 2018
-  parsing DATA
-Sat Feb  3 22:29:51 2018
-  #428 cr DATA:1000 -> crpos:0 = Vagabond adventurer
-Sat Feb  3 22:29:51 2018
-  #1263 cr DATA:1001 -> crpos:1 = Goshawk
-Sat Feb  3 22:29:51 2018
-  #1425 cr DATA:1002 -> crpos:2 = Black grouse
-Sat Feb  3 22:29:51 2018
-  #6459 cr DATA:1003 -> crpos:3 = Bull
-Sat Feb  3 22:29:51 2018
-  #6794 cr DATA:1004 -> crpos:4 = Ram
-Sat Feb  3 22:29:51 2018
-  #6795 cr DATA:1005 -> crpos:5 = Pig
-Sat Feb  3 22:29:51 2018
-  #6796 cr DATA:1006 -> crpos:6 = Reindeer
-Sat Feb  3 22:29:51 2018
-  #6797 cr DATA:1007 -> crpos:7 = Reindeer
-Sat Feb  3 22:29:51 2018
-  #6798 cr DATA:1008 -> crpos:8 = Reindeer
-Sat Feb  3 22:29:51 2018
-  #6799 cr DATA:1009 -> crpos:9 = Bull
-Sat Feb  3 22:29:51 2018
-  #6800 cr DATA:1010 -> crpos:10 = Reindeer
-Sat Feb  3 22:29:51 2018
-  #6801 cr DATA:1011 -> crpos:11 = Reindeer
-Sat Feb  3 22:29:51 2018
-  #6802 cr DATA:1012 -> crpos:12 = Reindeer
-Sat Feb  3 22:29:51 2018
-  #6803 cr DATA:1013 -> crpos:13 = Reindeer
-Sat Feb  3 22:29:51 2018
-  #6804 cr DATA:1014 -> crpos:14 = Reindeer
-Sat Feb  3 22:29:51 2018
-  #6805 cr DATA:1015 -> crpos:15 = Sheep
-Sat Feb  3 22:29:51 2018
-  #7898 cr DATA:1016 -> crpos:16 = Dog
-Sat Feb  3 22:29:51 2018
-  #8079 cr DATA:1017 -> crpos:17 = Dog
-Sat Feb  3 22:29:51 2018
-  #8080 cr DATA:1018 -> crpos:18 = Dog
-Sat Feb  3 22:29:51 2018
-  #8081 cr DATA:1019 -> crpos:19 = Dog
-Sat Feb  3 22:29:51 2018
-  #8082 cr DATA:1020 -> crpos:20 = Dog
-Sat Feb  3 22:29:51 2018
-  #8083 cr DATA:1021 -> crpos:21 = Dog
-Sat Feb  3 22:29:51 2018
-  #8084 cr DATA:1022 -> crpos:22 = Reindeer
-Sat Feb  3 22:29:51 2018
-  #8239 cr DATA:1023 -> crpos:23 = Raven
-Sat Feb  3 22:29:51 2018
-  #8240 cr DATA:1024 -> crpos:24 = Raven
-Sat Feb  3 22:29:51 2018
-  creature_swap()
-Sat Feb  3 22:29:51 2018
-  curmap: ZOOMMAP isox,isoy: 948,1457 mintick: 1662069
-Sat Feb  3 22:29:51 2018
-  COMPANYZOOMCHECKED: 1
-Sat Feb  3 22:29:51 2018
-  parsing DATA
-Sat Feb  3 22:29:51 2018
-  #428 cr DATA:1000 -> crpos:0 = Vagabond adventurer
-Sat Feb  3 22:29:51 2018
-  #1263 cr DATA:1001 -> crpos:1 = Goshawk
-Sat Feb  3 22:29:51 2018
-  #1425 cr DATA:1002 -> crpos:2 = Black grouse
-Sat Feb  3 22:29:51 2018
-  #6459 cr DATA:1003 -> crpos:3 = Bull
-Sat Feb  3 22:29:51 2018
-  #6794 cr DATA:1004 -> crpos:4 = Ram
-Sat Feb  3 22:29:51 2018
-  #6795 cr DATA:1005 -> crpos:5 = Pig
-Sat Feb  3 22:29:51 2018
-  #6796 cr DATA:1006 -> crpos:6 = Reindeer
-Sat Feb  3 22:29:51 2018
-  #6797 cr DATA:1007 -> crpos:7 = Reindeer
-Sat Feb  3 22:29:51 2018
-  #6798 cr DATA:1008 -> crpos:8 = Reindeer
-Sat Feb  3 22:29:51 2018
-  #6799 cr DATA:1009 -> crpos:9 = Bull
-Sat Feb  3 22:29:51 2018
-  #6800 cr DATA:1010 -> crpos:10 = Reindeer
-Sat Feb  3 22:29:51 2018
-  #6801 cr DATA:1011 -> crpos:11 = Reindeer
-Sat Feb  3 22:29:51 2018
-  #6802 cr DATA:1012 -> crpos:12 = Reindeer
-Sat Feb  3 22:29:51 2018
-  #6803 cr DATA:1013 -> crpos:13 = Reindeer
-Sat Feb  3 22:29:51 2018
-  #6804 cr DATA:1014 -> crpos:14 = Reindeer
-Sat Feb  3 22:29:51 2018
-  #6805 cr DATA:1015 -> crpos:15 = Sheep
-Sat Feb  3 22:29:51 2018
-  #7898 cr DATA:1016 -> crpos:16 = Dog
-Sat Feb  3 22:29:51 2018
-  #8079 cr DATA:1017 -> crpos:17 = Dog
-Sat Feb  3 22:29:51 2018
-  #8080 cr DATA:1018 -> crpos:18 = Dog
-Sat Feb  3 22:29:51 2018
-  #8081 cr DATA:1019 -> crpos:19 = Dog
-Sat Feb  3 22:29:51 2018
-  #8082 cr DATA:1020 -> crpos:20 = Dog
-Sat Feb  3 22:29:51 2018
-  #8083 cr DATA:1021 -> crpos:21 = Dog
-Sat Feb  3 22:29:51 2018
-  #8084 cr DATA:1022 -> crpos:22 = Reindeer
-Sat Feb  3 22:29:51 2018
-  #8239 cr DATA:1023 -> crpos:23 = Raven
-Sat Feb  3 22:29:51 2018
-  #8240 cr DATA:1024 -> crpos:24 = Raven
-Sat Feb  3 22:29:55 2018
-  creature_swap()
-Sat Feb  3 22:29:55 2018
-  curmap: BIGMAP isox,isoy: 943,1461 mintick: 1662083
-Sat Feb  3 22:29:55 2018
+Thu May  3 21:57:27 2018
+  curmap: ZOOMMAP isox,isoy: 950,1459 mintick: 1663188
+Thu May  3 21:57:27 2018
   COMPANYZOOMCHECKED: 0
-Sat Feb  3 22:29:55 2018
+Thu May  3 21:57:27 2018
   parsing DATA
-Sat Feb  3 22:29:56 2018
+Thu May  3 21:57:27 2018
+  #3482 cr DATA:1000 -> crpos:0 = bull
+Thu May  3 21:57:27 2018
+  #3815 cr DATA:1001 -> crpos:1 = sheep
+Thu May  3 21:57:27 2018
+  #3816 cr DATA:1002 -> crpos:2 = Pig
+Thu May  3 21:57:27 2018
+  #3817 cr DATA:1003 -> crpos:3 = Reindeer
+Thu May  3 21:57:27 2018
+  #3818 cr DATA:1004 -> crpos:4 = Reindeer
+Thu May  3 21:57:27 2018
+  #3819 cr DATA:1005 -> crpos:5 = Reindeer
+Thu May  3 21:57:27 2018
+  #3820 cr DATA:1006 -> crpos:6 = bull
+Thu May  3 21:57:27 2018
+  #3821 cr DATA:1007 -> crpos:7 = Reindeer
+Thu May  3 21:57:27 2018
+  #3822 cr DATA:1008 -> crpos:8 = Reindeer
+Thu May  3 21:57:27 2018
+  #3823 cr DATA:1009 -> crpos:9 = Reindeer
+Thu May  3 21:57:27 2018
+  #3824 cr DATA:1010 -> crpos:10 = Reindeer
+Thu May  3 21:57:27 2018
+  #3825 cr DATA:1011 -> crpos:11 = Reindeer
+Thu May  3 21:57:27 2018
+  #3826 cr DATA:1012 -> crpos:12 = Sheep
+Thu May  3 21:57:27 2018
+  #4918 cr DATA:1013 -> crpos:13 = Dog
+Thu May  3 21:57:27 2018
+  #5099 cr DATA:1014 -> crpos:14 = Dog
+Thu May  3 21:57:27 2018
+  #5100 cr DATA:1015 -> crpos:15 = Dog
+Thu May  3 21:57:27 2018
+  #5101 cr DATA:1016 -> crpos:16 = Dog
+Thu May  3 21:57:27 2018
+  #5102 cr DATA:1017 -> crpos:17 = Dog
+Thu May  3 21:57:27 2018
+  #5103 cr DATA:1018 -> crpos:18 = Dog
+Thu May  3 21:57:27 2018
+  #5104 cr DATA:1019 -> crpos:19 = Reindeer
+Thu May  3 21:57:27 2018
   creature_swap()
-Sat Feb  3 22:29:56 2018
-  curmap: BIGMAP isox,isoy: 943,1461 mintick: 1662083
-Sat Feb  3 22:29:56 2018
-  COMPANYZOOMCHECKED: 1
-Sat Feb  3 22:29:56 2018
-  parsing DATA
-Sat Feb  3 22:32:12 2018
-  creature_swap()
-Sat Feb  3 22:32:12 2018
-  curmap: ZOOMMAP isox,isoy: 943,1461 mintick: 1662134
-Sat Feb  3 22:32:12 2018
-  COMPANYZOOMCHECKED: 1
-Sat Feb  3 22:32:12 2018
-  parsing DATA
-Sat Feb  3 22:32:12 2018
-  #249 cr DATA:1000 -> crpos:0 = Goshawk
-Sat Feb  3 22:32:12 2018
-  #250 cr DATA:1001 -> crpos:1 = Goshawk
-Sat Feb  3 22:32:12 2018
-  #413 cr DATA:1002 -> crpos:2 = Black grouse
-Sat Feb  3 22:32:12 2018
-  creature_swap()
-Sat Feb  3 22:32:12 2018
-  curmap: ZOOMMAP isox,isoy: 943,1461 mintick: 1662134
-Sat Feb  3 22:32:12 2018
-  COMPANYZOOMCHECKED: 1
-Sat Feb  3 22:32:12 2018
-  parsing DATA
-Sat Feb  3 22:32:12 2018
-  #249 cr DATA:1000 -> crpos:0 = Goshawk
-Sat Feb  3 22:32:12 2018
-  #250 cr DATA:1001 -> crpos:1 = Goshawk
-Sat Feb  3 22:32:12 2018
-  #413 cr DATA:1002 -> crpos:2 = Black grouse
-Sat Feb  3 22:32:14 2018
-  creature_swap()
-Sat Feb  3 22:32:14 2018
-  curmap: BIGMAP isox,isoy: 943,1463 mintick: 1662140
-Sat Feb  3 22:32:14 2018
-  COMPANYZOOMCHECKED: 1
-Sat Feb  3 22:32:14 2018
-  parsing DATA
-Sat Feb  3 22:33:52 2018
-  creature_swap()
-Sat Feb  3 22:33:52 2018
-  curmap: ZOOMMAP isox,isoy: 943,1463 mintick: 1662151
-Sat Feb  3 22:33:52 2018
-  COMPANYZOOMCHECKED: 1
-Sat Feb  3 22:33:52 2018
-  parsing DATA
-Sat Feb  3 22:33:52 2018
-  creature_swap()
-Sat Feb  3 22:33:52 2018
-  curmap: ZOOMMAP isox,isoy: 943,1463 mintick: 1662151
-Sat Feb  3 22:33:52 2018
-  COMPANYZOOMCHECKED: 1
-Sat Feb  3 22:33:52 2018
-  parsing DATA
-Sat Feb  3 22:33:55 2018
-  creature_swap()
-Sat Feb  3 22:33:55 2018
-  curmap: BIGMAP isox,isoy: 944,1462 mintick: 1662165
-Sat Feb  3 22:33:55 2018
-  COMPANYZOOMCHECKED: 1
-Sat Feb  3 22:33:55 2018
-  parsing DATA
-Sat Feb  3 22:35:37 2018
-  creature_swap()
-Sat Feb  3 22:35:37 2018
-  curmap: ZOOMMAP isox,isoy: 944,1462 mintick: 1662191
-Sat Feb  3 22:35:37 2018
-  COMPANYZOOMCHECKED: 1
-Sat Feb  3 22:35:37 2018
-  parsing DATA
-Sat Feb  3 22:35:37 2018
-  #0 cr DATA:1000 -> crpos:0 = Goshawk
-Sat Feb  3 22:35:37 2018
-  creature_swap()
-Sat Feb  3 22:35:37 2018
-  curmap: ZOOMMAP isox,isoy: 944,1462 mintick: 1662191
-Sat Feb  3 22:35:37 2018
-  COMPANYZOOMCHECKED: 1
-Sat Feb  3 22:35:37 2018
-  parsing DATA
-Sat Feb  3 22:35:37 2018
-  #0 cr DATA:1000 -> crpos:0 = Goshawk
-Sat Feb  3 22:35:43 2018
-  creature_swap()
-Sat Feb  3 22:35:43 2018
-  curmap: BIGMAP isox,isoy: 940,1467 mintick: 1662219
-Sat Feb  3 22:35:43 2018
-  COMPANYZOOMCHECKED: 1
-Sat Feb  3 22:35:43 2018
-  parsing DATA
-Sat Feb  3 22:36:12 2018
-  creature_swap()
-Sat Feb  3 22:36:12 2018
-  curmap: ZOOMMAP isox,isoy: 940,1467 mintick: 1662226
-Sat Feb  3 22:36:12 2018
-  COMPANYZOOMCHECKED: 1
-Sat Feb  3 22:36:12 2018
-  parsing DATA
-Sat Feb  3 22:36:12 2018
-  creature_swap()
-Sat Feb  3 22:36:12 2018
-  curmap: ZOOMMAP isox,isoy: 940,1467 mintick: 1662226
-Sat Feb  3 22:36:12 2018
-  COMPANYZOOMCHECKED: 1
-Sat Feb  3 22:36:12 2018
-  parsing DATA
-Sat Feb  3 22:36:16 2018
-  creature_swap()
-Sat Feb  3 22:36:16 2018
-  curmap: BIGMAP isox,isoy: 950,1459 mintick: 1662246
-Sat Feb  3 22:36:16 2018
+Thu May  3 21:57:27 2018
+  curmap: BIGMAP isox,isoy: 950,1457 mintick: 1663188
+Thu May  3 21:57:27 2018
   COMPANYZOOMCHECKED: 0
-Sat Feb  3 22:36:16 2018
+Thu May  3 21:57:27 2018
   parsing DATA
-Sat Feb  3 22:36:16 2018
+Thu May  3 21:58:33 2018
   creature_swap()
-Sat Feb  3 22:36:16 2018
-  curmap: BIGMAP isox,isoy: 950,1459 mintick: 1662246
-Sat Feb  3 22:36:16 2018
-  COMPANYZOOMCHECKED: 1
-Sat Feb  3 22:36:16 2018
-  parsing DATA
-Sun Feb  4 23:20:36 2018
-  creature_swap()
-Sun Feb  4 23:20:36 2018
-  curmap: ZOOMMAP isox,isoy: 950,1459 mintick: 1662305
-Sun Feb  4 23:20:36 2018
-  COMPANYZOOMCHECKED: 1
-Sun Feb  4 23:20:36 2018
-  parsing DATA
-Sun Feb  4 23:20:36 2018
-  #3582 cr DATA:1000 -> crpos:0 = Bull
-Sun Feb  4 23:20:36 2018
-  #3917 cr DATA:1001 -> crpos:1 = Ram
-Sun Feb  4 23:20:36 2018
-  #3918 cr DATA:1002 -> crpos:2 = Pig
-Sun Feb  4 23:20:36 2018
-  #3919 cr DATA:1003 -> crpos:3 = Reindeer
-Sun Feb  4 23:20:36 2018
-  #3920 cr DATA:1004 -> crpos:4 = Reindeer
-Sun Feb  4 23:20:36 2018
-  #3921 cr DATA:1005 -> crpos:5 = Reindeer
-Sun Feb  4 23:20:36 2018
-  #3922 cr DATA:1006 -> crpos:6 = Bull
-Sun Feb  4 23:20:36 2018
-  #3923 cr DATA:1007 -> crpos:7 = Reindeer
-Sun Feb  4 23:20:36 2018
-  #3924 cr DATA:1008 -> crpos:8 = Reindeer
-Sun Feb  4 23:20:36 2018
-  #3925 cr DATA:1009 -> crpos:9 = Reindeer
-Sun Feb  4 23:20:36 2018
-  #3926 cr DATA:1010 -> crpos:10 = Reindeer
-Sun Feb  4 23:20:36 2018
-  #3927 cr DATA:1011 -> crpos:11 = Reindeer
-Sun Feb  4 23:20:36 2018
-  #3928 cr DATA:1012 -> crpos:12 = Sheep
-Sun Feb  4 23:20:36 2018
-  #5021 cr DATA:1013 -> crpos:13 = Dog
-Sun Feb  4 23:20:36 2018
-  #5202 cr DATA:1014 -> crpos:14 = Dog
-Sun Feb  4 23:20:36 2018
-  #5203 cr DATA:1015 -> crpos:15 = Dog
-Sun Feb  4 23:20:36 2018
-  #5204 cr DATA:1016 -> crpos:16 = Dog
-Sun Feb  4 23:20:36 2018
-  #5205 cr DATA:1017 -> crpos:17 = Dog
-Sun Feb  4 23:20:36 2018
-  #5206 cr DATA:1018 -> crpos:18 = Dog
-Sun Feb  4 23:20:36 2018
-  #5207 cr DATA:1019 -> crpos:19 = Reindeer
-Sun Feb  4 23:20:36 2018
-  #5362 cr DATA:1020 -> crpos:20 = Elk
-Sun Feb  4 23:20:36 2018
-  creature_swap()
-Sun Feb  4 23:20:36 2018
-  curmap: ZOOMMAP isox,isoy: 950,1459 mintick: 1662305
-Sun Feb  4 23:20:36 2018
-  COMPANYZOOMCHECKED: 1
-Sun Feb  4 23:20:36 2018
-  parsing DATA
-Sun Feb  4 23:20:36 2018
-  #3582 cr DATA:1000 -> crpos:0 = Bull
-Sun Feb  4 23:20:36 2018
-  #3917 cr DATA:1001 -> crpos:1 = Ram
-Sun Feb  4 23:20:36 2018
-  #3918 cr DATA:1002 -> crpos:2 = Pig
-Sun Feb  4 23:20:36 2018
-  #3919 cr DATA:1003 -> crpos:3 = Reindeer
-Sun Feb  4 23:20:36 2018
-  #3920 cr DATA:1004 -> crpos:4 = Reindeer
-Sun Feb  4 23:20:36 2018
-  #3921 cr DATA:1005 -> crpos:5 = Reindeer
-Sun Feb  4 23:20:36 2018
-  #3922 cr DATA:1006 -> crpos:6 = Bull
-Sun Feb  4 23:20:36 2018
-  #3923 cr DATA:1007 -> crpos:7 = Reindeer
-Sun Feb  4 23:20:36 2018
-  #3924 cr DATA:1008 -> crpos:8 = Reindeer
-Sun Feb  4 23:20:36 2018
-  #3925 cr DATA:1009 -> crpos:9 = Reindeer
-Sun Feb  4 23:20:36 2018
-  #3926 cr DATA:1010 -> crpos:10 = Reindeer
-Sun Feb  4 23:20:36 2018
-  #3927 cr DATA:1011 -> crpos:11 = Reindeer
-Sun Feb  4 23:20:36 2018
-  #3928 cr DATA:1012 -> crpos:12 = Sheep
-Sun Feb  4 23:20:36 2018
-  #5021 cr DATA:1013 -> crpos:13 = Dog
-Sun Feb  4 23:20:36 2018
-  #5202 cr DATA:1014 -> crpos:14 = Dog
-Sun Feb  4 23:20:36 2018
-  #5203 cr DATA:1015 -> crpos:15 = Dog
-Sun Feb  4 23:20:36 2018
-  #5204 cr DATA:1016 -> crpos:16 = Dog
-Sun Feb  4 23:20:36 2018
-  #5205 cr DATA:1017 -> crpos:17 = Dog
-Sun Feb  4 23:20:36 2018
-  #5206 cr DATA:1018 -> crpos:18 = Dog
-Sun Feb  4 23:20:36 2018
-  #5207 cr DATA:1019 -> crpos:19 = Reindeer
-Sun Feb  4 23:20:36 2018
-  #5362 cr DATA:1020 -> crpos:20 = Elk
-Sun Feb  4 23:20:49 2018
-  creature_swap()
-Sun Feb  4 23:20:49 2018
-  curmap: BIGMAP isox,isoy: 950,1459 mintick: 1662305
-Sun Feb  4 23:20:49 2018
-  COMPANYZOOMCHECKED: 1
-Sun Feb  4 23:20:49 2018
-  parsing DATA
-Sun Feb  4 23:20:54 2018
-  creature_swap()
-Sun Feb  4 23:20:54 2018
-  curmap: ZOOMMAP isox,isoy: 950,1459 mintick: 1662305
-Sun Feb  4 23:20:54 2018
-  COMPANYZOOMCHECKED: 1
-Sun Feb  4 23:20:54 2018
-  parsing DATA
-Sun Feb  4 23:20:54 2018
-  #3582 cr DATA:1000 -> crpos:0 = Bull
-Sun Feb  4 23:20:54 2018
-  #3917 cr DATA:1001 -> crpos:1 = Ram
-Sun Feb  4 23:20:54 2018
-  #3918 cr DATA:1002 -> crpos:2 = Pig
-Sun Feb  4 23:20:54 2018
-  #3919 cr DATA:1003 -> crpos:3 = Reindeer
-Sun Feb  4 23:20:54 2018
-  #3920 cr DATA:1004 -> crpos:4 = Reindeer
-Sun Feb  4 23:20:54 2018
-  #3921 cr DATA:1005 -> crpos:5 = Reindeer
-Sun Feb  4 23:20:54 2018
-  #3922 cr DATA:1006 -> crpos:6 = Bull
-Sun Feb  4 23:20:54 2018
-  #3923 cr DATA:1007 -> crpos:7 = Reindeer
-Sun Feb  4 23:20:54 2018
-  #3924 cr DATA:1008 -> crpos:8 = Reindeer
-Sun Feb  4 23:20:54 2018
-  #3925 cr DATA:1009 -> crpos:9 = Reindeer
-Sun Feb  4 23:20:54 2018
-  #3926 cr DATA:1010 -> crpos:10 = Reindeer
-Sun Feb  4 23:20:54 2018
-  #3927 cr DATA:1011 -> crpos:11 = Reindeer
-Sun Feb  4 23:20:54 2018
-  #3928 cr DATA:1012 -> crpos:12 = Sheep
-Sun Feb  4 23:20:54 2018
-  #5021 cr DATA:1013 -> crpos:13 = Dog
-Sun Feb  4 23:20:54 2018
-  #5202 cr DATA:1014 -> crpos:14 = Dog
-Sun Feb  4 23:20:54 2018
-  #5203 cr DATA:1015 -> crpos:15 = Dog
-Sun Feb  4 23:20:54 2018
-  #5204 cr DATA:1016 -> crpos:16 = Dog
-Sun Feb  4 23:20:54 2018
-  #5205 cr DATA:1017 -> crpos:17 = Dog
-Sun Feb  4 23:20:54 2018
-  #5206 cr DATA:1018 -> crpos:18 = Dog
-Sun Feb  4 23:20:54 2018
-  #5207 cr DATA:1019 -> crpos:19 = Reindeer
-Sun Feb  4 23:20:54 2018
-  #9337 cr DATA:1020 -> crpos:20 = Elk
-Sun Feb  4 23:20:54 2018
-  creature_swap()
-Sun Feb  4 23:20:54 2018
-  curmap: ZOOMMAP isox,isoy: 950,1459 mintick: 1662305
-Sun Feb  4 23:20:54 2018
-  COMPANYZOOMCHECKED: 1
-Sun Feb  4 23:20:54 2018
-  parsing DATA
-Sun Feb  4 23:20:54 2018
-  #3582 cr DATA:1000 -> crpos:0 = Bull
-Sun Feb  4 23:20:54 2018
-  #3917 cr DATA:1001 -> crpos:1 = Ram
-Sun Feb  4 23:20:54 2018
-  #3918 cr DATA:1002 -> crpos:2 = Pig
-Sun Feb  4 23:20:54 2018
-  #3919 cr DATA:1003 -> crpos:3 = Reindeer
-Sun Feb  4 23:20:54 2018
-  #3920 cr DATA:1004 -> crpos:4 = Reindeer
-Sun Feb  4 23:20:54 2018
-  #3921 cr DATA:1005 -> crpos:5 = Reindeer
-Sun Feb  4 23:20:54 2018
-  #3922 cr DATA:1006 -> crpos:6 = Bull
-Sun Feb  4 23:20:54 2018
-  #3923 cr DATA:1007 -> crpos:7 = Reindeer
-Sun Feb  4 23:20:54 2018
-  #3924 cr DATA:1008 -> crpos:8 = Reindeer
-Sun Feb  4 23:20:54 2018
-  #3925 cr DATA:1009 -> crpos:9 = Reindeer
-Sun Feb  4 23:20:54 2018
-  #3926 cr DATA:1010 -> crpos:10 = Reindeer
-Sun Feb  4 23:20:54 2018
-  #3927 cr DATA:1011 -> crpos:11 = Reindeer
-Sun Feb  4 23:20:54 2018
-  #3928 cr DATA:1012 -> crpos:12 = Sheep
-Sun Feb  4 23:20:54 2018
-  #5021 cr DATA:1013 -> crpos:13 = Dog
-Sun Feb  4 23:20:54 2018
-  #5202 cr DATA:1014 -> crpos:14 = Dog
-Sun Feb  4 23:20:54 2018
-  #5203 cr DATA:1015 -> crpos:15 = Dog
-Sun Feb  4 23:20:54 2018
-  #5204 cr DATA:1016 -> crpos:16 = Dog
-Sun Feb  4 23:20:54 2018
-  #5205 cr DATA:1017 -> crpos:17 = Dog
-Sun Feb  4 23:20:54 2018
-  #5206 cr DATA:1018 -> crpos:18 = Dog
-Sun Feb  4 23:20:54 2018
-  #5207 cr DATA:1019 -> crpos:19 = Reindeer
-Sun Feb  4 23:20:54 2018
-  #9337 cr DATA:1020 -> crpos:20 = Elk
-Sun Feb  4 23:21:01 2018
-  creature_swap()
-Sun Feb  4 23:21:01 2018
-  curmap: BIGMAP isox,isoy: 950,1459 mintick: 1662305
-Sun Feb  4 23:21:01 2018
-  COMPANYZOOMCHECKED: 1
-Sun Feb  4 23:21:01 2018
-  parsing DATA
-Sun Feb  4 23:21:39 2018
-  creature_swap()
-Sun Feb  4 23:21:39 2018
-  curmap: ZOOMMAP isox,isoy: 950,1459 mintick: 1662308
-Sun Feb  4 23:21:39 2018
+Thu May  3 21:58:33 2018
+  curmap: ZOOMMAP isox,isoy: 950,1457 mintick: 1663195
+Thu May  3 21:58:33 2018
   COMPANYZOOMCHECKED: 0
-Sun Feb  4 23:21:39 2018
+Thu May  3 21:58:33 2018
   parsing DATA
-Sun Feb  4 23:21:39 2018
-  #3481 cr DATA:1000 -> crpos:0 = Bull
-Sun Feb  4 23:21:39 2018
-  #3816 cr DATA:1001 -> crpos:1 = Ram
-Sun Feb  4 23:21:39 2018
-  #3817 cr DATA:1002 -> crpos:2 = Pig
-Sun Feb  4 23:21:39 2018
-  #3818 cr DATA:1003 -> crpos:3 = Reindeer
-Sun Feb  4 23:21:39 2018
-  #3819 cr DATA:1004 -> crpos:4 = Reindeer
-Sun Feb  4 23:21:39 2018
-  #3820 cr DATA:1005 -> crpos:5 = Reindeer
-Sun Feb  4 23:21:39 2018
-  #3821 cr DATA:1006 -> crpos:6 = Bull
-Sun Feb  4 23:21:39 2018
-  #3822 cr DATA:1007 -> crpos:7 = Reindeer
-Sun Feb  4 23:21:39 2018
-  #3823 cr DATA:1008 -> crpos:8 = Reindeer
-Sun Feb  4 23:21:39 2018
-  #3824 cr DATA:1009 -> crpos:9 = Reindeer
-Sun Feb  4 23:21:39 2018
-  #3825 cr DATA:1010 -> crpos:10 = Reindeer
-Sun Feb  4 23:21:39 2018
-  #3826 cr DATA:1011 -> crpos:11 = Reindeer
-Sun Feb  4 23:21:39 2018
-  #3827 cr DATA:1012 -> crpos:12 = Sheep
-Sun Feb  4 23:21:39 2018
-  #4919 cr DATA:1013 -> crpos:13 = Dog
-Sun Feb  4 23:21:39 2018
-  #5100 cr DATA:1014 -> crpos:14 = Dog
-Sun Feb  4 23:21:39 2018
-  #5101 cr DATA:1015 -> crpos:15 = Dog
-Sun Feb  4 23:21:39 2018
-  #5102 cr DATA:1016 -> crpos:16 = Dog
-Sun Feb  4 23:21:39 2018
-  #5103 cr DATA:1017 -> crpos:17 = Dog
-Sun Feb  4 23:21:39 2018
-  #5104 cr DATA:1018 -> crpos:18 = Dog
-Sun Feb  4 23:21:39 2018
-  #5105 cr DATA:1019 -> crpos:19 = Reindeer
-Sun Feb  4 23:21:39 2018
-  #5578 cr DATA:1020 -> crpos:20 = Elk
-Sun Feb  4 23:21:39 2018
+Thu May  3 21:58:33 2018
+  #175 cr DATA:1000 -> crpos:0 = Vagabond adventurer
+Thu May  3 21:58:33 2018
+  #1340 cr DATA:1001 -> crpos:1 = Goshawk
+Thu May  3 21:58:33 2018
+  #2193 cr DATA:1002 -> crpos:2 = Raven
+Thu May  3 21:58:33 2018
+  #6582 cr DATA:1003 -> crpos:3 = bull
+Thu May  3 21:58:33 2018
+  #6915 cr DATA:1004 -> crpos:4 = sheep
+Thu May  3 21:58:33 2018
+  #6916 cr DATA:1005 -> crpos:5 = Pig
+Thu May  3 21:58:33 2018
+  #6917 cr DATA:1006 -> crpos:6 = Reindeer
+Thu May  3 21:58:33 2018
+  #6918 cr DATA:1007 -> crpos:7 = Reindeer
+Thu May  3 21:58:33 2018
+  #6919 cr DATA:1008 -> crpos:8 = Reindeer
+Thu May  3 21:58:33 2018
+  #6920 cr DATA:1009 -> crpos:9 = bull
+Thu May  3 21:58:33 2018
+  #6921 cr DATA:1010 -> crpos:10 = Reindeer
+Thu May  3 21:58:33 2018
+  #6922 cr DATA:1011 -> crpos:11 = Reindeer
+Thu May  3 21:58:33 2018
+  #6923 cr DATA:1012 -> crpos:12 = Reindeer
+Thu May  3 21:58:33 2018
+  #6924 cr DATA:1013 -> crpos:13 = Reindeer
+Thu May  3 21:58:33 2018
+  #6925 cr DATA:1014 -> crpos:14 = Reindeer
+Thu May  3 21:58:33 2018
+  #6926 cr DATA:1015 -> crpos:15 = Sheep
+Thu May  3 21:58:33 2018
+  #8018 cr DATA:1016 -> crpos:16 = Dog
+Thu May  3 21:58:33 2018
+  #8199 cr DATA:1017 -> crpos:17 = Dog
+Thu May  3 21:58:33 2018
+  #8200 cr DATA:1018 -> crpos:18 = Dog
+Thu May  3 21:58:33 2018
+  #8201 cr DATA:1019 -> crpos:19 = Dog
+Thu May  3 21:58:33 2018
+  #8202 cr DATA:1020 -> crpos:20 = Dog
+Thu May  3 21:58:33 2018
+  #8203 cr DATA:1021 -> crpos:21 = Dog
+Thu May  3 21:58:33 2018
+  #8204 cr DATA:1022 -> crpos:22 = Reindeer
+Thu May  3 21:58:33 2018
   creature_swap()
-Sun Feb  4 23:21:39 2018
-  curmap: BIGMAP isox,isoy: 952,1459 mintick: 1662308
-Sun Feb  4 23:21:39 2018
+Thu May  3 21:58:33 2018
+  curmap: BIGMAP isox,isoy: 950,1459 mintick: 1663195
+Thu May  3 21:58:33 2018
   COMPANYZOOMCHECKED: 0
-Sun Feb  4 23:21:39 2018
+Thu May  3 21:58:33 2018
   parsing DATA
-Sun Feb  4 23:22:16 2018
+Thu May  3 22:22:13 2018
   creature_swap()
-Sun Feb  4 23:22:16 2018
-  curmap: ZOOMMAP isox,isoy: 952,1459 mintick: 1662309
-Sun Feb  4 23:22:16 2018
-  COMPANYZOOMCHECKED: 1
-Sun Feb  4 23:22:16 2018
-  parsing DATA
-Sun Feb  4 23:22:16 2018
-  #2363 cr DATA:1000 -> crpos:0 = Bull
-Sun Feb  4 23:22:16 2018
-  #2697 cr DATA:1001 -> crpos:1 = Ram
-Sun Feb  4 23:22:16 2018
-  #2698 cr DATA:1002 -> crpos:2 = Pig
-Sun Feb  4 23:22:16 2018
-  #2699 cr DATA:1003 -> crpos:3 = Reindeer
-Sun Feb  4 23:22:16 2018
-  #2700 cr DATA:1004 -> crpos:4 = Reindeer
-Sun Feb  4 23:22:16 2018
-  #2701 cr DATA:1005 -> crpos:5 = Reindeer
-Sun Feb  4 23:22:16 2018
-  #2702 cr DATA:1006 -> crpos:6 = Bull
-Sun Feb  4 23:22:16 2018
-  #2703 cr DATA:1007 -> crpos:7 = Reindeer
-Sun Feb  4 23:22:16 2018
-  #2704 cr DATA:1008 -> crpos:8 = Reindeer
-Sun Feb  4 23:22:16 2018
-  #2705 cr DATA:1009 -> crpos:9 = Reindeer
-Sun Feb  4 23:22:16 2018
-  #2706 cr DATA:1010 -> crpos:10 = Reindeer
-Sun Feb  4 23:22:16 2018
-  #2707 cr DATA:1011 -> crpos:11 = Reindeer
-Sun Feb  4 23:22:16 2018
-  #2708 cr DATA:1012 -> crpos:12 = Sheep
-Sun Feb  4 23:22:16 2018
-  #3800 cr DATA:1013 -> crpos:13 = Dog
-Sun Feb  4 23:22:16 2018
-  #3981 cr DATA:1014 -> crpos:14 = Dog
-Sun Feb  4 23:22:16 2018
-  #3982 cr DATA:1015 -> crpos:15 = Dog
-Sun Feb  4 23:22:16 2018
-  #3983 cr DATA:1016 -> crpos:16 = Dog
-Sun Feb  4 23:22:16 2018
-  #3984 cr DATA:1017 -> crpos:17 = Dog
-Sun Feb  4 23:22:16 2018
-  #3985 cr DATA:1018 -> crpos:18 = Dog
-Sun Feb  4 23:22:16 2018
-  #3986 cr DATA:1019 -> crpos:19 = Reindeer
-Sun Feb  4 23:22:16 2018
-  #4460 cr DATA:1020 -> crpos:20 = Elk
-Sun Feb  4 23:22:16 2018
-  #9657 cr DATA:1021 -> crpos:21 = Raven
-Sun Feb  4 23:22:16 2018
-  creature_swap()
-Sun Feb  4 23:22:16 2018
-  curmap: ZOOMMAP isox,isoy: 952,1459 mintick: 1662309
-Sun Feb  4 23:22:16 2018
-  COMPANYZOOMCHECKED: 1
-Sun Feb  4 23:22:16 2018
-  parsing DATA
-Sun Feb  4 23:22:16 2018
-  #2363 cr DATA:1000 -> crpos:0 = Bull
-Sun Feb  4 23:22:16 2018
-  #2697 cr DATA:1001 -> crpos:1 = Ram
-Sun Feb  4 23:22:16 2018
-  #2698 cr DATA:1002 -> crpos:2 = Pig
-Sun Feb  4 23:22:16 2018
-  #2699 cr DATA:1003 -> crpos:3 = Reindeer
-Sun Feb  4 23:22:16 2018
-  #2700 cr DATA:1004 -> crpos:4 = Reindeer
-Sun Feb  4 23:22:16 2018
-  #2701 cr DATA:1005 -> crpos:5 = Reindeer
-Sun Feb  4 23:22:16 2018
-  #2702 cr DATA:1006 -> crpos:6 = Bull
-Sun Feb  4 23:22:16 2018
-  #2703 cr DATA:1007 -> crpos:7 = Reindeer
-Sun Feb  4 23:22:16 2018
-  #2704 cr DATA:1008 -> crpos:8 = Reindeer
-Sun Feb  4 23:22:16 2018
-  #2705 cr DATA:1009 -> crpos:9 = Reindeer
-Sun Feb  4 23:22:16 2018
-  #2706 cr DATA:1010 -> crpos:10 = Reindeer
-Sun Feb  4 23:22:16 2018
-  #2707 cr DATA:1011 -> crpos:11 = Reindeer
-Sun Feb  4 23:22:16 2018
-  #2708 cr DATA:1012 -> crpos:12 = Sheep
-Sun Feb  4 23:22:16 2018
-  #3800 cr DATA:1013 -> crpos:13 = Dog
-Sun Feb  4 23:22:16 2018
-  #3981 cr DATA:1014 -> crpos:14 = Dog
-Sun Feb  4 23:22:16 2018
-  #3982 cr DATA:1015 -> crpos:15 = Dog
-Sun Feb  4 23:22:16 2018
-  #3983 cr DATA:1016 -> crpos:16 = Dog
-Sun Feb  4 23:22:16 2018
-  #3984 cr DATA:1017 -> crpos:17 = Dog
-Sun Feb  4 23:22:16 2018
-  #3985 cr DATA:1018 -> crpos:18 = Dog
-Sun Feb  4 23:22:16 2018
-  #3986 cr DATA:1019 -> crpos:19 = Reindeer
-Sun Feb  4 23:22:16 2018
-  #4460 cr DATA:1020 -> crpos:20 = Elk
-Sun Feb  4 23:22:16 2018
-  #9657 cr DATA:1021 -> crpos:21 = Raven
-Sun Feb  4 23:22:21 2018
-  creature_swap()
-Sun Feb  4 23:22:21 2018
-  curmap: BIGMAP isox,isoy: 947,1468 mintick: 1662331
-Sun Feb  4 23:22:21 2018
-  COMPANYZOOMCHECKED: 1
-Sun Feb  4 23:22:21 2018
-  parsing DATA
-Sun Feb  4 23:23:05 2018
-  creature_swap()
-Sun Feb  4 23:23:05 2018
-  curmap: ZOOMMAP isox,isoy: 947,1468 mintick: 1662337
-Sun Feb  4 23:23:05 2018
-  COMPANYZOOMCHECKED: 1
-Sun Feb  4 23:23:05 2018
-  parsing DATA
-Sun Feb  4 23:23:05 2018
-  #3701 cr DATA:1000 -> crpos:0 = Black grouse
-Sun Feb  4 23:23:05 2018
-  #3702 cr DATA:1001 -> crpos:1 = Black grouse
-Sun Feb  4 23:23:05 2018
-  #3703 cr DATA:1002 -> crpos:2 = Black grouse
-Sun Feb  4 23:23:05 2018
-  creature_swap()
-Sun Feb  4 23:23:05 2018
-  curmap: ZOOMMAP isox,isoy: 947,1468 mintick: 1662337
-Sun Feb  4 23:23:05 2018
-  COMPANYZOOMCHECKED: 1
-Sun Feb  4 23:23:05 2018
-  parsing DATA
-Sun Feb  4 23:23:05 2018
-  #3701 cr DATA:1000 -> crpos:0 = Black grouse
-Sun Feb  4 23:23:05 2018
-  #3702 cr DATA:1001 -> crpos:1 = Black grouse
-Sun Feb  4 23:23:05 2018
-  #3703 cr DATA:1002 -> crpos:2 = Black grouse
-Sun Feb  4 23:23:08 2018
-  creature_swap()
-Sun Feb  4 23:23:08 2018
-  curmap: BIGMAP isox,isoy: 948,1469 mintick: 1662343
-Sun Feb  4 23:23:08 2018
-  COMPANYZOOMCHECKED: 1
-Sun Feb  4 23:23:08 2018
-  parsing DATA
-Sun Feb  4 23:23:21 2018
-  creature_swap()
-Sun Feb  4 23:23:21 2018
-  curmap: ZOOMMAP isox,isoy: 948,1469 mintick: 1662344
-Sun Feb  4 23:23:21 2018
-  COMPANYZOOMCHECKED: 1
-Sun Feb  4 23:23:21 2018
-  parsing DATA
-Sun Feb  4 23:23:21 2018
-  #385 cr DATA:1000 -> crpos:0 = Black grouse
-Sun Feb  4 23:23:21 2018
-  #1303 cr DATA:1001 -> crpos:1 = Black grouse
-Sun Feb  4 23:23:21 2018
-  creature_swap()
-Sun Feb  4 23:23:21 2018
-  curmap: ZOOMMAP isox,isoy: 948,1469 mintick: 1662344
-Sun Feb  4 23:23:21 2018
-  COMPANYZOOMCHECKED: 1
-Sun Feb  4 23:23:21 2018
-  parsing DATA
-Sun Feb  4 23:23:21 2018
-  #385 cr DATA:1000 -> crpos:0 = Black grouse
-Sun Feb  4 23:23:21 2018
-  #1303 cr DATA:1001 -> crpos:1 = Black grouse
-Sun Feb  4 23:23:24 2018
-  creature_swap()
-Sun Feb  4 23:23:24 2018
-  curmap: BIGMAP isox,isoy: 942,1471 mintick: 1662364
-Sun Feb  4 23:23:24 2018
-  COMPANYZOOMCHECKED: 1
-Sun Feb  4 23:23:24 2018
-  parsing DATA
-Sun Feb  4 23:23:55 2018
-  creature_swap()
-Sun Feb  4 23:23:55 2018
-  curmap: ZOOMMAP isox,isoy: 942,1471 mintick: 1662367
-Sun Feb  4 23:23:55 2018
-  COMPANYZOOMCHECKED: 1
-Sun Feb  4 23:23:55 2018
-  parsing DATA
-Sun Feb  4 23:23:55 2018
-  creature_swap()
-Sun Feb  4 23:23:55 2018
-  curmap: ZOOMMAP isox,isoy: 942,1471 mintick: 1662367
-Sun Feb  4 23:23:55 2018
-  COMPANYZOOMCHECKED: 1
-Sun Feb  4 23:23:55 2018
-  parsing DATA
-Sun Feb  4 23:23:58 2018
-  creature_swap()
-Sun Feb  4 23:23:58 2018
-  curmap: BIGMAP isox,isoy: 942,1474 mintick: 1662377
-Sun Feb  4 23:23:58 2018
-  COMPANYZOOMCHECKED: 1
-Sun Feb  4 23:23:58 2018
-  parsing DATA
-Sun Feb  4 23:25:09 2018
-  creature_swap()
-Sun Feb  4 23:25:09 2018
-  curmap: ZOOMMAP isox,isoy: 942,1474 mintick: 1662386
-Sun Feb  4 23:25:09 2018
-  COMPANYZOOMCHECKED: 1
-Sun Feb  4 23:25:09 2018
-  parsing DATA
-Sun Feb  4 23:25:09 2018
-  creature_swap()
-Sun Feb  4 23:25:09 2018
-  curmap: ZOOMMAP isox,isoy: 942,1474 mintick: 1662386
-Sun Feb  4 23:25:09 2018
-  COMPANYZOOMCHECKED: 1
-Sun Feb  4 23:25:09 2018
-  parsing DATA
-Sun Feb  4 23:25:17 2018
-  creature_swap()
-Sun Feb  4 23:25:17 2018
-  curmap: BIGMAP isox,isoy: 952,1459 mintick: 1662430
-Sun Feb  4 23:25:17 2018
-  COMPANYZOOMCHECKED: 1
-Sun Feb  4 23:25:17 2018
-  parsing DATA
-Sun Feb  4 23:25:39 2018
-  creature_swap()
-Sun Feb  4 23:25:39 2018
-  curmap: ZOOMMAP isox,isoy: 952,1459 mintick: 1662433
-Sun Feb  4 23:25:39 2018
+Thu May  3 22:22:13 2018
+  curmap: ZOOMMAP isox,isoy: 950,1459 mintick: 1664829
+Thu May  3 22:22:13 2018
   COMPANYZOOMCHECKED: 0
-Sun Feb  4 23:25:39 2018
+Thu May  3 22:22:13 2018
   parsing DATA
-Sun Feb  4 23:25:39 2018
-  #2363 cr DATA:1000 -> crpos:0 = Bull
-Sun Feb  4 23:25:39 2018
-  #2697 cr DATA:1001 -> crpos:1 = Ram
-Sun Feb  4 23:25:39 2018
-  #2698 cr DATA:1002 -> crpos:2 = Pig
-Sun Feb  4 23:25:39 2018
-  #2699 cr DATA:1003 -> crpos:3 = Reindeer
-Sun Feb  4 23:25:39 2018
-  #2700 cr DATA:1004 -> crpos:4 = Reindeer
-Sun Feb  4 23:25:39 2018
-  #2701 cr DATA:1005 -> crpos:5 = Reindeer
-Sun Feb  4 23:25:39 2018
-  #2702 cr DATA:1006 -> crpos:6 = Bull
-Sun Feb  4 23:25:39 2018
-  #2703 cr DATA:1007 -> crpos:7 = Reindeer
-Sun Feb  4 23:25:39 2018
-  #2704 cr DATA:1008 -> crpos:8 = Reindeer
-Sun Feb  4 23:25:39 2018
-  #2705 cr DATA:1009 -> crpos:9 = Reindeer
-Sun Feb  4 23:25:39 2018
-  #2706 cr DATA:1010 -> crpos:10 = Reindeer
-Sun Feb  4 23:25:39 2018
-  #2707 cr DATA:1011 -> crpos:11 = Reindeer
-Sun Feb  4 23:25:39 2018
-  #2708 cr DATA:1012 -> crpos:12 = Sheep
-Sun Feb  4 23:25:39 2018
-  #3800 cr DATA:1013 -> crpos:13 = Dog
-Sun Feb  4 23:25:39 2018
-  #3981 cr DATA:1014 -> crpos:14 = Dog
-Sun Feb  4 23:25:39 2018
-  #3982 cr DATA:1015 -> crpos:15 = Dog
-Sun Feb  4 23:25:39 2018
-  #3983 cr DATA:1016 -> crpos:16 = Dog
-Sun Feb  4 23:25:39 2018
-  #3984 cr DATA:1017 -> crpos:17 = Dog
-Sun Feb  4 23:25:39 2018
-  #3985 cr DATA:1018 -> crpos:18 = Dog
-Sun Feb  4 23:25:39 2018
-  #3986 cr DATA:1019 -> crpos:19 = Reindeer
-Sun Feb  4 23:25:39 2018
-  #5552 cr DATA:1020 -> crpos:20 = Elk
-Sun Feb  4 23:25:39 2018
-  #9701 cr DATA:1021 -> crpos:21 = Raven
-Sun Feb  4 23:25:39 2018
-  partystack #0 T:1 D:50558 C:1
-Sun Feb  4 23:25:39 2018
+Thu May  3 22:22:13 2018
+  #3482 cr DATA:1000 -> crpos:0 = bull
+Thu May  3 22:22:13 2018
+  #3815 cr DATA:1001 -> crpos:1 = sheep
+Thu May  3 22:22:13 2018
+  #3816 cr DATA:1002 -> crpos:2 = Pig
+Thu May  3 22:22:13 2018
+  #3817 cr DATA:1003 -> crpos:3 = Reindeer
+Thu May  3 22:22:13 2018
+  #3818 cr DATA:1004 -> crpos:4 = Reindeer
+Thu May  3 22:22:13 2018
+  #3819 cr DATA:1005 -> crpos:5 = Reindeer
+Thu May  3 22:22:13 2018
+  #3820 cr DATA:1006 -> crpos:6 = bull
+Thu May  3 22:22:13 2018
+  #3821 cr DATA:1007 -> crpos:7 = Reindeer
+Thu May  3 22:22:13 2018
+  #3822 cr DATA:1008 -> crpos:8 = Reindeer
+Thu May  3 22:22:13 2018
+  #3823 cr DATA:1009 -> crpos:9 = Reindeer
+Thu May  3 22:22:13 2018
+  #3824 cr DATA:1010 -> crpos:10 = Reindeer
+Thu May  3 22:22:13 2018
+  #3825 cr DATA:1011 -> crpos:11 = Reindeer
+Thu May  3 22:22:13 2018
+  #3826 cr DATA:1012 -> crpos:12 = Sheep
+Thu May  3 22:22:13 2018
+  #4917 cr DATA:1013 -> crpos:13 = Dog
+Thu May  3 22:22:13 2018
+  #5098 cr DATA:1014 -> crpos:14 = Dog
+Thu May  3 22:22:13 2018
+  #5099 cr DATA:1015 -> crpos:15 = Dog
+Thu May  3 22:22:13 2018
+  #5100 cr DATA:1016 -> crpos:16 = Dog
+Thu May  3 22:22:13 2018
+  #5101 cr DATA:1017 -> crpos:17 = Dog
+Thu May  3 22:22:13 2018
+  #5102 cr DATA:1018 -> crpos:18 = Dog
+Thu May  3 22:22:13 2018
+  #5103 cr DATA:1019 -> crpos:19 = Reindeer
+Thu May  3 22:22:13 2018
   creature_swap()
-Sun Feb  4 23:25:39 2018
-  curmap: BIGMAP isox,isoy: 950,1459 mintick: 1662433
-Sun Feb  4 23:25:39 2018
+Thu May  3 22:22:13 2018
+  curmap: BIGMAP isox,isoy: 950,1457 mintick: 1664829
+Thu May  3 22:22:13 2018
   COMPANYZOOMCHECKED: 0
-Sun Feb  4 23:25:39 2018
+Thu May  3 22:22:13 2018
   parsing DATA
-Sun Feb  4 23:25:39 2018
-  partystack #0 T:1 D:50558 C:1
+Thu May  3 22:22:45 2018
+  creature_swap()
+Thu May  3 22:22:45 2018
+  curmap: ZOOMMAP isox,isoy: 950,1457 mintick: 1664834
+Thu May  3 22:22:45 2018
+  COMPANYZOOMCHECKED: 0
+Thu May  3 22:22:46 2018
+  parsing DATA
+Thu May  3 22:22:46 2018
+  #175 cr DATA:1000 -> crpos:0 = Vagabond adventurer
+Thu May  3 22:22:46 2018
+  #2192 cr DATA:1001 -> crpos:1 = Raven
+Thu May  3 22:22:46 2018
+  #6581 cr DATA:1002 -> crpos:2 = bull
+Thu May  3 22:22:46 2018
+  #6914 cr DATA:1003 -> crpos:3 = sheep
+Thu May  3 22:22:46 2018
+  #6915 cr DATA:1004 -> crpos:4 = Pig
+Thu May  3 22:22:46 2018
+  #6916 cr DATA:1005 -> crpos:5 = Reindeer
+Thu May  3 22:22:46 2018
+  #6917 cr DATA:1006 -> crpos:6 = Reindeer
+Thu May  3 22:22:46 2018
+  #6918 cr DATA:1007 -> crpos:7 = Reindeer
+Thu May  3 22:22:46 2018
+  #6919 cr DATA:1008 -> crpos:8 = bull
+Thu May  3 22:22:46 2018
+  #6920 cr DATA:1009 -> crpos:9 = Reindeer
+Thu May  3 22:22:46 2018
+  #6921 cr DATA:1010 -> crpos:10 = Reindeer
+Thu May  3 22:22:46 2018
+  #6922 cr DATA:1011 -> crpos:11 = Reindeer
+Thu May  3 22:22:46 2018
+  #6923 cr DATA:1012 -> crpos:12 = Reindeer
+Thu May  3 22:22:46 2018
+  #6924 cr DATA:1013 -> crpos:13 = Reindeer
+Thu May  3 22:22:46 2018
+  #6925 cr DATA:1014 -> crpos:14 = Sheep
+Thu May  3 22:22:46 2018
+  #8016 cr DATA:1015 -> crpos:15 = Dog
+Thu May  3 22:22:46 2018
+  #8197 cr DATA:1016 -> crpos:16 = Dog
+Thu May  3 22:22:46 2018
+  #8198 cr DATA:1017 -> crpos:17 = Dog
+Thu May  3 22:22:46 2018
+  #8199 cr DATA:1018 -> crpos:18 = Dog
+Thu May  3 22:22:46 2018
+  #8200 cr DATA:1019 -> crpos:19 = Dog
+Thu May  3 22:22:46 2018
+  #8201 cr DATA:1020 -> crpos:20 = Dog
+Thu May  3 22:22:46 2018
+  #8202 cr DATA:1021 -> crpos:21 = Reindeer
+Thu May  3 22:22:46 2018
+  creature_swap()
+Thu May  3 22:22:46 2018
+  curmap: BIGMAP isox,isoy: 950,1459 mintick: 1664834
+Thu May  3 22:22:46 2018
+  COMPANYZOOMCHECKED: 0
+Thu May  3 22:22:46 2018
+  parsing DATA
