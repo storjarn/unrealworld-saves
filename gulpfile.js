@@ -17,6 +17,10 @@ gulp.task('compress', () => {
 
 gulp.task('commit', () => {
 
+    if (!argv.message) {
+        throw new Error("You need to supply a commit message!");
+    }
+
     let cmd = ['git add -A', 'git commit -m "' + argv.message + '"', 'git push'];
 
     console.log(cmd);
@@ -34,12 +38,12 @@ gulp.task('commit', () => {
     }
 });
 
-gulp.task('save', () => {
-    if (!argv.message) {
-        throw new Error("You need to supply a commit message!");
-    }
-    return gulp.series('compress', 'commit');
-});
+gulp.task('save',
+    gulp.series(
+        'compress',
+        'commit'
+    )
+);
 
 gulp.task('load', generateCMDTask(() => {
     var cmd = ['git pull'];
