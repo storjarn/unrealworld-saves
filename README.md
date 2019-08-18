@@ -1,14 +1,20 @@
 # unrealworld-saves
 my unreal world savegames for machine replication
 
+```
+$ npm install
+```
+
 ## PULL
 
 ```
-grunt load
+gulp load
 ```
 
 ## PUSH
 
 ```
-grunt save:'My commit message'
+gulp save --message 'My commit message'
+// OR
+gulp --message 'My commit message'
 ```
