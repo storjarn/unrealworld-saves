@@ -6,11 +6,10 @@ var argv = require('yargs').argv;
 var savesFile = 'saves.zip';
 
 gulp.task('compress', () => {
-    console.log('compress fired');
     return gulp.src([
-        'ANCESTORS/*',
-        'STORJARN/*',
-        'HERMES/*'
+        'ANCESTORS',
+        'STORJARN',
+        'HERMES'
     ]).pipe(zip(savesFile))
         .pipe(gulp.dest('./'));
 });
