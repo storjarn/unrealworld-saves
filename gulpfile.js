@@ -49,9 +49,7 @@ gulp.task('load', () => {
     return runChildProcess(cmd);
 });
 
-gulp.task('default', () => {
-    return gulp.series('save')();
-});
+gulp.task('default', gulp.series('save'));
 
 function runChildProcess(cmd) {
     console.log(cmd);
