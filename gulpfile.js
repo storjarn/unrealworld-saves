@@ -22,19 +22,7 @@ gulp.task('commit', () => {
 
     let cmd = ['git add -A', 'git commit -m "' + argv.message + '"', 'git push'];
 
-    console.log(cmd);
-
-    if (cmd.length) {
-        return require('child_process').exec(cmd.join(' && '), function (error, stdout, stderr) {
-            console.log('stdout: ' + stdout);
-            console.log('stderr: ' + stderr);
-            if (error !== null) {
-                console.log('exec error: ' + error);
-            }
-        });
-    } else {
-        throw new Error('cmd is empty');
-    }
+    return runChildProcess(cmd);
 });
 
 gulp.task('save',
@@ -44,7 +32,7 @@ gulp.task('save',
     )
 );
 
-gulp.task('load', generateCMDTask(() => {
+gulp.task('load', () => {
     var cmd = ['git pull'];
 
     switch (process.platform) {
@@ -58,40 +46,25 @@ gulp.task('load', generateCMDTask(() => {
             break;
     }
 
-    return cmd;
-}));
+    return runChildProcess(cmd);
+});
 
 gulp.task('default', () => {
     return gulp.series('save')();
 });
 
-function generateCMDTask(cmd, callback, args) {
-    return function () {
+function runChildProcess(cmd) {
+    console.log(cmd);
 
-        function finish() {
-            if (typeof callback === 'function') {
-                callback.args = args || [];
-                callback(done);
-            } else {
-                done();
+    if (cmd.length) {
+        return require('child_process').exec(cmd.join(' && '), function (error, stdout, stderr) {
+            console.log('stdout: ' + stdout);
+            console.log('stderr: ' + stderr);
+            if (error !== null) {
+                console.log('exec error: ' + error);
             }
-        }
-
-        var exec = require('child_process').exec;
-
-        console.log(cmd);
-
-        if (cmd.length) {
-            child = exec(cmd.join(' && '), function (error, stdout, stderr) {
-                console.log('stdout: ' + stdout);
-                console.log('stderr: ' + stderr);
-                if (error !== null) {
-                    console.log('exec error: ' + error);
-                }
-                finish();
-            });
-        } else {
-            throw new Error('cmd is empty');
-        }
-    };
+        });
+    } else {
+        throw new Error('cmd is empty');
+    }
 }

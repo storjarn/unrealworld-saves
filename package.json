@@ -16,9 +16,6 @@
     "url": "https://github.com/storjarn/unrealworld-saves/issues"
   },
   "dependencies": {
-    "grunt": "~0.4.5",
-    "grunt-contrib-compress": "~0.13.0",
-    "grunt-then": "^1.0.0",
     "gulp": "^4.0.2",
     "gulp-zip": "^5.0.0",
     "yargs": "^13.3.0"
