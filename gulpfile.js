@@ -7,9 +7,9 @@ var savesFile = 'saves.zip';
 
 gulp.task('compress', () => {
     return gulp.src([
-        'ANCESTORS/',
-        'STORJARN/',
-        'HERMES/'
+        '**/ANCESTORS/**',
+        '**/STORJARN/**',
+        '**/HERMES/**'
     ]).pipe(zip(savesFile))
         .pipe(gulp.dest('./'));
 });
