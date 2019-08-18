@@ -2,7 +2,7 @@ var savesFile = 'saves.zip';
 
 if (!global.RWD) {
     Object.defineProperty(global, 'RWD', {
-        get: function() {
+        get: function () {
             return __dirname;
         }
     });
@@ -20,7 +20,7 @@ function error(label, value) {
     }
 }
 
-module.exports = function(grunt) {
+module.exports = function (grunt) {
     grunt.initConfig({
         compress: {
             main: {
@@ -31,10 +31,8 @@ module.exports = function(grunt) {
                     expand: true,
                     src: [
                         'ANCESTORS/*',
-                        'BEORN/*',
                         'STORJARN/*',
-                        'AVROS/*',
-                        'STALSKEG//*'
+                        'HERMES/*'
                     ],
                     dest: './'
                 }]
@@ -46,18 +44,18 @@ module.exports = function(grunt) {
     grunt.loadNpmTasks('grunt-contrib-compress');
     grunt.loadNpmTasks("grunt-then");
 
-    grunt.registerTask('save', 'Saves the characters to saves.zip.  Ex: grunt save:"commit message"', function(message) {
+    grunt.registerTask('save', 'Saves the characters to saves.zip.  Ex: grunt save:"commit message"', function (message) {
         if (!message) {
             throw new Error("You need to supply a commit message!");
         }
         grunt.task
             .run("compress")
-            .then( generateCMDTask(
+            .then(generateCMDTask(
                 ['git add -A', 'git commit -m "' + message + '"', 'git push']
             ));
     });
 
-    grunt.registerTask('load', generateCMDTask((function() {
+    grunt.registerTask('load', generateCMDTask((function () {
         var cmd = ['git pull'];
 
         switch (process.platform) {
@@ -76,7 +74,7 @@ module.exports = function(grunt) {
     grunt.registerTask('default', ['save']);
 
     function generateCMDTask(cmd, callback, args) {
-        return function() {
+        return function () {
             var done = this.async();
 
             function finish() {
@@ -94,7 +92,7 @@ module.exports = function(grunt) {
             console.log(cmd);
 
             if (cmd.length) {
-                child = exec(cmd.join(' && '), function(error, stdout, stderr) {
+                child = exec(cmd.join(' && '), function (error, stdout, stderr) {
                     console.log('stdout: ' + stdout);
                     console.log('stderr: ' + stderr);
                     if (error !== null) {
