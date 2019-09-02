@@ -14,10 +14,13 @@ gulp.task('compress', () => {
         .pipe(gulp.dest('./'));
 });
 
+/**
+ * @param message - --message "initial commit"
+ */
 gulp.task('commit', () => {
 
     if (!argv.message) {
-        throw new Error("You need to supply a commit message!");
+        throw new Error("You need to supply a commit message using `--message`!");
     }
 
     let cmd = ['git add -A', 'git commit -m "' + argv.message + '"', 'git push'];
@@ -55,7 +58,7 @@ function runChildProcess(cmd) {
     console.log(cmd);
 
     if (cmd.length) {
-        return require('child_process').exec(cmd.join(' && '), function (error, stdout, stderr) {
+        return require('child_process').exec(cmd.join(' && '), function(error, stdout, stderr) {
             console.log('stdout: ' + stdout);
             console.log('stderr: ' + stderr);
             if (error !== null) {
