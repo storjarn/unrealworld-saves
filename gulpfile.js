@@ -55,14 +55,20 @@ gulp.task('load', () => {
 gulp.task('default', gulp.series('save'));
 
 function runChildProcess(cmd) {
+    cmd = cmd || [];
     console.log(cmd);
+
+    if (!Array.isArray(cmd)) {
+        cmd = [cmd];
+    }
 
     if (cmd.length) {
         return require('child_process').exec(cmd.join(' && '), function(error, stdout, stderr) {
             console.log('stdout: ' + stdout);
-            console.log('stderr: ' + stderr);
+            console.warn('stderr: ' + stderr);
             if (error !== null) {
-                console.log('exec error: ' + error);
+                console.error('exec error: ' + error);
+                throw error;
             }
         });
     } else {
