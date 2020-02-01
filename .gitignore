@@ -108,6 +108,7 @@ zlib1.dll
 
 node_modules
 
+KAYTTO*.DAT
 BIGMAP.DAT
 CONSTANT.CRE
 DATA.DAT
