@@ -1,3 +1,10 @@
+/**
+ * Gulp taks for managing this project
+ *
+ * Runs as a CLI, utilizing zip compression and decompression
+ * as well as prompting the user to run certain tasks.
+ */
+
 const gulp = require('gulp');           // runtime framework
 const argv = require('yargs').argv;     // runtime util
 const zip = require('gulp-zip');        // zip util
@@ -5,12 +12,12 @@ const readline = require('readline');   // prompt util
 
 // -=-=-=-=-=-=-=-=-=-=-=-=-===-=-=-=-=-=-=-= Deterministic Constants
 
-const savesFile = 'saves.zip';
+const savesFile = 'saves.zip';          // the zipfile savename
 
 // -=-=-=-=-=-=-=-=-=-=-=-=-===-=-=-=-=-=-=-= Formatting Constants
 
 const consoleDivider = "-=-=-=-=-=-=-=-=-=-=-=-=-===-=-=-=-=-=-=-=";
-const consolePrompt = " ? ";
+const consolePrompt = " ? ";            // the prompt for questions
 
 // -=-=-=-=-=-=-=-=-=-=-=-=-===-=-=-=-=-=-=-= Task Constants
 
@@ -37,18 +44,9 @@ const choices = {
         return runChildProcess(cmd);
     },
     load: () => {
-        var cmd = ['git pull'];
+        var cmd = ['git fetch origin', 'git pull'];
 
-        switch (process.platform) {
-            case 'linux':
-                cmd.push('unzip -o ' + savesFile);
-                break;
-            case 'win32':
-                break;
-            case 'darwin':
-                cmd.push('tar -zxvf ' + savesFile);
-                break;
-        }
+        cmd.push(unzipCmd(savesFile));
 
         return runChildProcess(cmd);
     }
@@ -78,7 +76,7 @@ registerTask("default", (done) => {
     promptTask(choices, done);
 }, "Lists the tasks");
 
-// -=-=-=-=-=-=-=-=-=-=-=-=-===-=-=-=-=-=-=-=
+// -=-=-=-=-=-=-=-=-=-=-=-=-===-=-=-=-=-=-=-= Utilities
 
 function runChildProcess(cmd) {
     cmd = cmd || [];
@@ -132,9 +130,8 @@ ${consolePrompt}`;
         if (choices[answer]) {
             (gulp.series(answer)());
         }
-        done();
         rl.close();
-
+        done();
     });
 }
 
@@ -146,4 +143,17 @@ function registerTask(
     fn.description = desc;
     choices[taskName] = fn;
     gulp.task(taskName, fn);
+}
+
+function unzipCmd(savesFile) {
+    switch (process.platform) {
+        case 'linux':
+            return ('unzip -o ' + savesFile);
+            break;
+        case 'win32':
+            break;
+        case 'darwin':
+            return ('tar -zxvf ' + savesFile);
+            break;
+    }
 }
