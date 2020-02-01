@@ -25,6 +25,8 @@
 #41 - Framework -- truetile/ter-kotafram
 #42 - Fence -- truetile/ter-fence
 #43 - Kota doorway -- truetile/ter-kotadoor
+#44 - Fence gate -- truetile/ter-fenceclg
+#45 - Fence gate -- truetile/ter-fenceopg
 #46 - Road -- truetile/ter-road
 #47 - Pasture -- truetile/ter-pasture
 #58 - Surface of the Earth -- truetile/ter-ground
