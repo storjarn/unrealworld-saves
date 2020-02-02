@@ -1,10 +1,18 @@
 # unrealworld-saves
 my unreal world savegames for machine replication
+(for postdawn / storjarn)
 
 > Requires:
 > - node.js >=6
 
-## UnReal World save files for postdawn / storjarn
+- [Getting Started](#getting-started)
+    * [Forking](#forking)
+    * [Running the scripts](#running-the-scripts)
+        - [Get the latest](#pull-the-latest-savefiles)
+        - [Save the latest](#push-the-latest-savefiles)
+        - [Default task](#default-task)
+
+---
 
 This project is maintained in git as not only a toolset, but a persistence layer for savegames.
 
@@ -15,11 +23,11 @@ This project is maintained in git as not only a toolset, but a persistence layer
 
 The `.gitignore` file is the key to not saving everything and the kitchen sink.
 
-The zip file is created in the `compress` task, with saves each character's folder as well as the ancestors folder.
+The zip file is created in the `compress` task, which saves each character's folder as well as the ancestors folder.
 
 The git commands are basic and probably could use some work for a certain refineness.
 
-If you're wondering, this does circumvent the idea of pure roguelike death, in that with this toolset
+*If you're wondering*, this **does circumvent the idea of pure roguelike death**, in that with this toolset
 you can revive a character from a savegame file state once it's been persisted in a zipfile.
 
 Another crazy idea is that although this project is just for me, as I work through it, it could become a tool
@@ -27,7 +35,9 @@ for anyone playing UnReal World to be able to use this toolset (including their 
 their own savegame files, in their own git repo.  With forking, you can even maintain your own fork against any originating script
 or configuration changes from my own (this) repo.  Read more below for the issues and concerns with forking.
 
-### Getting Started
+---
+
+## Getting Started <a name="getting-started"> </a>
 
 You will want to install in the root where your save files are stored in their own folders.
 
@@ -51,7 +61,7 @@ See below for more information.
 
 ---
 
-#### Forking
+### Forking <a name="forking"> </a>
 
 If you fork this repo, you can then init your new git repo in your game root folder and take advantage of
 persisting your savegame files and having a backup.
@@ -67,7 +77,7 @@ You can always add this project as another remote, something other than `origin`
 
 ---
 
-#### Running the scripts
+### Running the scripts <a name="running-the-scripts"> </a>
 
 After pulling the latest from git, just:
 
@@ -75,19 +85,19 @@ After pulling the latest from git, just:
 $ npm install
 ```
 
-## PULL the latest savefiles
+#### PULL the latest savefiles <a name="pull-the-latest-savefiles"> </a>
 
 ```
 gulp load
 ```
 
-## PUSH the latest savefiles
+#### PUSH the latest savefiles <a name="push-the-latest-savefiles"> </a>
 
 ```
 gulp save --message 'My commit message'
 ```
 
-## Default task
+#### Default task <a name="default-task"> </a>
 
 ```
 gulp
