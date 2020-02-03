@@ -16,8 +16,11 @@ const savesFile = 'saves.zip';          // the zipfile savename
 
 // -=-=-=-=-=-=-=-=-=-=-=-=-===-=-=-=-=-=-=-= Formatting Constants
 
+const nl = '\n';
+const nsDivider = " :: ";
 const consoleDivider = "-=-=-=-=-=-=-=-=-=-=-=-=-===-=-=-=-=-=-=-=";
 const consolePrompt = " ? ";            // the prompt for questions
+const toolSig = `urw3-savegames-postdawn${nsDivider}`;
 
 // -=-=-=-=-=-=-=-=-=-=-=-=-===-=-=-=-=-=-=-= Task Constants
 
@@ -39,7 +42,7 @@ const choices = {
             throw new Error("You need to supply a commit message using `--message`!");
         }
 
-        let cmd = ['git add -A', 'git commit -m "' + argv.message + '"', 'git push'];
+        let cmd = ['git add -A', `git commit -m "${toolSig}${argv.message}"`, 'git push'];
 
         return runChildProcess(cmd);
     },
@@ -106,7 +109,7 @@ function promptTask(choices, done) {
         output: process.stdout
     });
 
-    const nl = '\n';
+
     const list = Object.keys(choices).map(taskName => {
         let desc = '';
         if (choices[taskName].description) {
