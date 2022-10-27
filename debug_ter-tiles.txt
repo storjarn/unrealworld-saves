@@ -11,7 +11,7 @@
 #18 - Pine -- truetile/ter-pine
 #19 - Sleeping bunk -- truetile/ter-bunk
 #20 - High cliff -- truetile/ter-hicliff
-#21 - Hole in the ground -- truetile/ter-pit
+#21 - pit -- truetile/ter-pit
 #22 - Open door -- truetile/ter-doorop
 #23 - Shutter -- truetile/ter-shutter
 #24 - Alder -- truetile/ter-alder
