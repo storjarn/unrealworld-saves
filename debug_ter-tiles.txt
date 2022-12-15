@@ -5,6 +5,7 @@
 #10 - Birch -- truetile/ter-birch
 #12 - Young spruce -- truetile/ter-yspruce
 #13 - Spruce -- truetile/ter-spruce
+#14 - post spruce -- truetile/ter-leanyspr
 #15 - Coniferous forest -- truetile/ter-conifore
 #16 - Grove -- truetile/ter-grove
 #17 - Young pine -- truetile/ter-ypine
