@@ -48,3 +48,5 @@ LOG2
 defaults/
 
 vcs_revision*
+
+*.old
