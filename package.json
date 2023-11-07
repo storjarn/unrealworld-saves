@@ -1,23 +1,24 @@
 {
-  "name": "urw3-savegames-postdawn",
-  "version": "0.0.0",
-  "description": "",
-  "main": "Gruntfile.js",
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
-  },
-  "repository": {
-    "type": "git",
-    "url": "git://github.com/storjarn/unrealworld-saves.git"
-  },
-  "author": "",
-  "license": "BSD-2-Clause",
-  "bugs": {
-    "url": "https://github.com/storjarn/unrealworld-saves/issues"
-  },
-  "dependencies": {
-    "gulp": "^4.0.2",
-    "gulp-zip": "^5.0.0",
-    "yargs": "^13.3.0"
-  }
+    "author": "",
+    "bugs": {
+        "url": "https://github.com/storjarn/unrealworld-saves/issues"
+    },
+    "dependencies": {
+        "gulp": "^4.0.2",
+        "gulp-zip": "^5.0.0",
+        "yargs": "^13.3.0"
+    },
+    "description": "",
+    "license": "BSD-2-Clause",
+    "main": "Gruntfile.js",
+    "name": "urw3-savegames-postdawn",
+    "repository": {
+        "type": "git",
+        "url": "git://github.com/storjarn/unrealworld-saves.git"
+    },
+    "scripts": {
+        "gulp": "gulp",
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "version": "0.0.0"
 }
