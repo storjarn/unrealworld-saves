@@ -154,6 +154,7 @@ function unzipCmd(savesFile) {
             return ('unzip -o ' + savesFile);
             break;
         case 'win32':
+            return ('unzip.exe ' + savesFile);
             break;
         case 'darwin':
             return ('tar -zxvf ' + savesFile);
